@@ -1,0 +1,5456 @@
+neighbourhood,room_type,price,number_of_reviews
+Garden District,Entire home/apt,275,6
+Garden District,Entire home/apt,448,0
+Garden District,Entire home/apt,695,0
+Garden District,Entire home/apt,109,55
+Garden District,Entire home/apt,125,1
+Garden District,Entire home/apt,133,15
+Garden District,Entire home/apt,99,37
+Garden District,Entire home/apt,1200,2
+Garden District,Private room,241,0
+Garden District,Entire home/apt,249,13
+Garden District,Entire home/apt,229,27
+Garden District,Entire home/apt,500,8
+Garden District,Private room,120,248
+Garden District,Entire home/apt,175,0
+Garden District,Entire home/apt,139,10
+Garden District,Entire home/apt,195,4
+Garden District,Entire home/apt,71,0
+Garden District,Private room,252,1
+Garden District,Entire home/apt,125,0
+Garden District,Entire home/apt,85,120
+Garden District,Private room,110,254
+Garden District,Private room,241,0
+Garden District,Entire home/apt,750,42
+Garden District,Entire home/apt,175,24
+Garden District,Entire home/apt,200,40
+Garden District,Entire home/apt,180,2
+Garden District,Entire home/apt,300,1
+Garden District,Entire home/apt,150,6
+Garden District,Entire home/apt,650,0
+Garden District,Entire home/apt,600,9
+Garden District,Entire home/apt,700,0
+Garden District,Entire home/apt,150,10
+Garden District,Entire home/apt,99,0
+Garden District,Entire home/apt,150,15
+Garden District,Private room,175,0
+Garden District,Entire home/apt,70,8
+Garden District,Entire home/apt,140,19
+Garden District,Entire home/apt,125,27
+Garden District,Entire home/apt,135,6
+Garden District,Entire home/apt,395,26
+Garden District,Entire home/apt,500,3
+Garden District,Entire home/apt,75,34
+Garden District,Private room,115,211
+Garden District,Entire home/apt,125,49
+Garden District,Entire home/apt,450,28
+Garden District,Entire home/apt,159,4
+Garden District,Entire home/apt,395,5
+Garden District,Private room,241,0
+Garden District,Entire home/apt,60,5
+Garden District,Entire home/apt,250,57
+Garden District,Entire home/apt,350,13
+Garden District,Private room,60,6
+Garden District,Entire home/apt,150,34
+Garden District,Private room,50,32
+Garden District,Entire home/apt,149,0
+Garden District,Private room,143,0
+Garden District,Entire home/apt,700,0
+Garden District,Entire home/apt,275,3
+Garden District,Entire home/apt,150,18
+Garden District,Private room,192,0
+Garden District,Entire home/apt,115,5
+Garden District,Entire home/apt,250,8
+Garden District,Entire home/apt,99,6
+Garden District,Private room,192,1
+Garden District,Entire home/apt,97,0
+Garden District,Private room,192,1
+Little Woods,Shared room,30,3
+Little Woods,Private room,75,2
+Little Woods,Private room,85,0
+Little Woods,Private room,100,1
+Little Woods,Private room,52,2
+Little Woods,Private room,54,1
+Little Woods,Entire home/apt,400,0
+Little Woods,Entire home/apt,65,1
+Little Woods,Entire home/apt,180,24
+Little Woods,Private room,80,2
+Little Woods,Entire home/apt,199,22
+Little Woods,Private room,75,13
+Little Woods,Private room,90,2
+Little Woods,Private room,75,15
+Little Woods,Private room,99,0
+Little Woods,Entire home/apt,200,0
+Little Woods,Private room,49,0
+Little Woods,Private room,75,6
+Little Woods,Private room,159,3
+Little Woods,Private room,150,1
+Little Woods,Private room,75,0
+Little Woods,Private room,75,0
+Little Woods,Private room,85,6
+Little Woods,Entire home/apt,80,3
+Little Woods,Private room,75,1
+Little Woods,Private room,70,1
+Little Woods,Private room,55,7
+Little Woods,Private room,45,4
+Iberville,Entire home/apt,139,40
+Iberville,Entire home/apt,200,5
+Iberville,Private room,100,12
+Iberville,Private room,190,8
+Holy Cross,Entire home/apt,80,9
+Holy Cross,Entire home/apt,95,2
+Holy Cross,Private room,35,83
+Holy Cross,Entire home/apt,100,4
+Holy Cross,Entire home/apt,90,0
+Holy Cross,Private room,55,8
+Holy Cross,Private room,69,11
+Holy Cross,Private room,40,89
+Holy Cross,Private room,60,5
+Holy Cross,Entire home/apt,69,80
+Holy Cross,Private room,85,1
+Holy Cross,Entire home/apt,85,8
+Holy Cross,Entire home/apt,90,5
+Holy Cross,Entire home/apt,350,1
+Holy Cross,Private room,50,108
+Holy Cross,Private room,89,46
+Holy Cross,Private room,115,6
+Holy Cross,Entire home/apt,62,34
+Holy Cross,Entire home/apt,115,38
+Holy Cross,Entire home/apt,75,94
+Holy Cross,Private room,85,1
+Holy Cross,Entire home/apt,57,52
+Holy Cross,Entire home/apt,129,11
+Holy Cross,Entire home/apt,175,21
+Holy Cross,Private room,90,1
+Holy Cross,Entire home/apt,95,56
+Holy Cross,Entire home/apt,120,14
+Holy Cross,Entire home/apt,289,6
+Holy Cross,Entire home/apt,185,0
+Holy Cross,Entire home/apt,200,0
+Holy Cross,Entire home/apt,334,0
+Holy Cross,Entire home/apt,60,118
+Holy Cross,Private room,55,87
+Holy Cross,Entire home/apt,99,1
+U.S. Naval Base,Private room,75,0
+U.S. Naval Base,Private room,100,4
+U.S. Naval Base,Entire home/apt,277,0
+U.S. Naval Base,Private room,100,4
+U.S. Naval Base,Private room,79,10
+Algiers Point,Entire home/apt,139,10
+Algiers Point,Entire home/apt,95,14
+Algiers Point,Entire home/apt,200,11
+Algiers Point,Entire home/apt,78,92
+Algiers Point,Entire home/apt,139,19
+Algiers Point,Entire home/apt,85,16
+Algiers Point,Entire home/apt,198,10
+Algiers Point,Private room,100,7
+Algiers Point,Entire home/apt,125,24
+Algiers Point,Private room,150,0
+Algiers Point,Private room,59,52
+Algiers Point,Private room,97,10
+Algiers Point,Entire home/apt,200,0
+Algiers Point,Entire home/apt,133,0
+Algiers Point,Entire home/apt,95,24
+Algiers Point,Entire home/apt,150,51
+Algiers Point,Entire home/apt,80,76
+Algiers Point,Private room,99,146
+Algiers Point,Private room,95,1
+Algiers Point,Entire home/apt,99,19
+Algiers Point,Entire home/apt,99,16
+Algiers Point,Entire home/apt,110,45
+Algiers Point,Entire home/apt,129,15
+Algiers Point,Private room,90,17
+Algiers Point,Entire home/apt,109,23
+Algiers Point,Entire home/apt,300,0
+Algiers Point,Entire home/apt,200,19
+Algiers Point,Entire home/apt,175,2
+Algiers Point,Entire home/apt,120,105
+Algiers Point,Private room,98,46
+Algiers Point,Entire home/apt,795,2
+Algiers Point,Entire home/apt,169,10
+Algiers Point,Entire home/apt,150,26
+Algiers Point,Entire home/apt,120,83
+Algiers Point,Entire home/apt,90,45
+Algiers Point,Entire home/apt,164,0
+Algiers Point,Entire home/apt,68,45
+Algiers Point,Entire home/apt,245,3
+Algiers Point,Entire home/apt,175,26
+Algiers Point,Entire home/apt,138,4
+Algiers Point,Private room,200,0
+Algiers Point,Entire home/apt,84,65
+Algiers Point,Private room,150,7
+Algiers Point,Entire home/apt,250,9
+Algiers Point,Entire home/apt,169,13
+Algiers Point,Entire home/apt,95,8
+Algiers Point,Private room,75,13
+Algiers Point,Entire home/apt,149,40
+Algiers Point,Private room,88,6
+Algiers Point,Entire home/apt,235,6
+Whitney,Entire home/apt,195,30
+Whitney,Entire home/apt,200,8
+Whitney,Entire home/apt,500,25
+Whitney,Private room,49,15
+Whitney,Entire home/apt,170,33
+Whitney,Entire home/apt,95,50
+Whitney,Entire home/apt,108,6
+Whitney,Entire home/apt,135,0
+Whitney,Private room,60,0
+Whitney,Entire home/apt,175,4
+Whitney,Entire home/apt,87,55
+Audubon,Entire home/apt,55,69
+Audubon,Entire home/apt,200,13
+Audubon,Entire home/apt,1200,0
+Audubon,Entire home/apt,120,10
+Audubon,Private room,42,2
+Audubon,Entire home/apt,60,61
+Audubon,Entire home/apt,119,7
+Audubon,Entire home/apt,120,9
+Audubon,Private room,80,90
+Audubon,Private room,45,0
+Audubon,Private room,95,17
+Audubon,Entire home/apt,40,1
+Audubon,Entire home/apt,125,5
+Audubon,Entire home/apt,150,8
+Audubon,Entire home/apt,600,1
+Audubon,Entire home/apt,200,2
+Audubon,Entire home/apt,120,56
+Audubon,Entire home/apt,1600,1
+Audubon,Entire home/apt,250,0
+Audubon,Entire home/apt,100,12
+Audubon,Entire home/apt,195,4
+Audubon,Entire home/apt,700,8
+Audubon,Entire home/apt,350,3
+Audubon,Entire home/apt,250,22
+Audubon,Entire home/apt,200,3
+Audubon,Entire home/apt,225,79
+Audubon,Private room,90,42
+Audubon,Entire home/apt,200,29
+Audubon,Private room,125,22
+Audubon,Entire home/apt,150,4
+Audubon,Private room,150,5
+Audubon,Entire home/apt,130,28
+Audubon,Entire home/apt,1150,1
+Audubon,Entire home/apt,150,0
+Audubon,Entire home/apt,175,11
+Audubon,Entire home/apt,150,12
+Audubon,Entire home/apt,176,0
+Audubon,Private room,65,2
+Audubon,Entire home/apt,160,1
+Audubon,Entire home/apt,99,140
+Audubon,Entire home/apt,125,6
+Audubon,Entire home/apt,175,0
+Audubon,Private room,550,0
+Audubon,Private room,100,3
+Audubon,Private room,63,14
+Audubon,Entire home/apt,135,4
+Audubon,Entire home/apt,100,102
+Audubon,Entire home/apt,110,6
+Audubon,Entire home/apt,224,6
+Audubon,Entire home/apt,200,51
+Audubon,Entire home/apt,800,3
+Audubon,Entire home/apt,199,11
+Audubon,Entire home/apt,400,6
+Audubon,Entire home/apt,249,17
+Audubon,Entire home/apt,950,0
+Audubon,Entire home/apt,450,1
+Audubon,Entire home/apt,123,123
+Audubon,Entire home/apt,1595,0
+Audubon,Entire home/apt,185,61
+Audubon,Private room,42,5
+Audubon,Entire home/apt,250,0
+Audubon,Entire home/apt,300,6
+Audubon,Entire home/apt,129,3
+Audubon,Private room,121,51
+Audubon,Private room,80,90
+Audubon,Entire home/apt,75,6
+Audubon,Private room,90,0
+Audubon,Entire home/apt,300,1
+Audubon,Entire home/apt,650,35
+Audubon,Entire home/apt,150,17
+Audubon,Entire home/apt,88,57
+Audubon,Entire home/apt,333,3
+Audubon,Private room,65,22
+Audubon,Entire home/apt,60,8
+Audubon,Entire home/apt,75,0
+Audubon,Private room,85,3
+Audubon,Entire home/apt,400,1
+Audubon,Entire home/apt,375,3
+Audubon,Entire home/apt,299,12
+Audubon,Private room,50,3
+Audubon,Entire home/apt,129,11
+Audubon,Entire home/apt,150,163
+Audubon,Private room,45,0
+Audubon,Entire home/apt,600,9
+Audubon,Entire home/apt,149,8
+Audubon,Private room,75,7
+Audubon,Entire home/apt,1500,0
+Audubon,Private room,50,11
+Audubon,Private room,95,0
+Audubon,Entire home/apt,1000,1
+Audubon,Private room,80,0
+Audubon,Private room,30,1
+Audubon,Entire home/apt,165,0
+Audubon,Entire home/apt,200,20
+Audubon,Entire home/apt,250,2
+Audubon,Entire home/apt,325,6
+Audubon,Entire home/apt,200,6
+Audubon,Private room,150,0
+Audubon,Entire home/apt,250,50
+Audubon,Entire home/apt,125,52
+Audubon,Private room,75,0
+Audubon,Entire home/apt,75,13
+Audubon,Entire home/apt,104,78
+Audubon,Entire home/apt,175,79
+Audubon,Private room,600,0
+Audubon,Entire home/apt,350,8
+Audubon,Entire home/apt,1000,14
+Audubon,Entire home/apt,140,21
+Audubon,Entire home/apt,85,34
+Audubon,Entire home/apt,125,1
+Audubon,Entire home/apt,100,13
+Audubon,Private room,85,22
+Audubon,Entire home/apt,165,0
+Audubon,Entire home/apt,210,17
+Audubon,Entire home/apt,550,11
+Audubon,Entire home/apt,725,45
+Audubon,Entire home/apt,68,0
+Audubon,Entire home/apt,350,7
+Audubon,Entire home/apt,149,6
+Audubon,Private room,125,18
+Audubon,Private room,85,12
+Audubon,Private room,850,0
+Fillmore,Private room,85,23
+Fillmore,Entire home/apt,375,2
+Fillmore,Entire home/apt,223,5
+Fillmore,Entire home/apt,125,21
+Fillmore,Private room,92,65
+Fillmore,Entire home/apt,70,31
+Fillmore,Private room,250,0
+Fillmore,Private room,37,207
+Fillmore,Entire home/apt,400,21
+Fillmore,Entire home/apt,200,0
+Fillmore,Entire home/apt,26,14
+Fillmore,Entire home/apt,90,153
+Fillmore,Private room,33,216
+Fillmore,Entire home/apt,250,0
+Fillmore,Private room,45,26
+Fillmore,Entire home/apt,89,0
+Fillmore,Entire home/apt,450,10
+Fillmore,Entire home/apt,95,62
+Fillmore,Private room,60,47
+Fillmore,Entire home/apt,279,71
+Fillmore,Entire home/apt,195,13
+Fillmore,Private room,88,13
+Fillmore,Entire home/apt,350,0
+Fillmore,Entire home/apt,225,8
+Fillmore,Entire home/apt,400,5
+Fillmore,Entire home/apt,150,0
+Fillmore,Entire home/apt,134,45
+Fillmore,Private room,85,42
+Fillmore,Entire home/apt,400,5
+Fillmore,Entire home/apt,61,68
+Fillmore,Private room,48,39
+Fillmore,Entire home/apt,400,2
+Fillmore,Shared room,40,6
+Fillmore,Entire home/apt,199,7
+Fillmore,Entire home/apt,700,26
+Fillmore,Entire home/apt,249,13
+Fillmore,Private room,65,42
+Fillmore,Entire home/apt,250,25
+Fillmore,Shared room,60,5
+Fillmore,Private room,99,15
+Fillmore,Private room,43,47
+Old Aurora,Shared room,23,0
+Old Aurora,Entire home/apt,199,4
+Old Aurora,Private room,100,10
+Old Aurora,Private room,36,16
+Old Aurora,Entire home/apt,499,1
+Old Aurora,Private room,125,0
+Old Aurora,Entire home/apt,74,14
+Old Aurora,Shared room,100,0
+Old Aurora,Entire home/apt,312,0
+Old Aurora,Private room,200,1
+Old Aurora,Entire home/apt,160,3
+Old Aurora,Private room,125,3
+Old Aurora,Private room,125,4
+Old Aurora,Entire home/apt,150,1
+Bayou St. John,Entire home/apt,150,6
+Bayou St. John,Private room,80,20
+Bayou St. John,Entire home/apt,270,24
+Bayou St. John,Private room,55,20
+Bayou St. John,Entire home/apt,375,13
+Bayou St. John,Private room,150,5
+Bayou St. John,Entire home/apt,300,5
+Bayou St. John,Entire home/apt,80,3
+Bayou St. John,Entire home/apt,350,5
+Bayou St. John,Entire home/apt,500,18
+Bayou St. John,Private room,160,12
+Bayou St. John,Entire home/apt,120,42
+Bayou St. John,Entire home/apt,500,0
+Bayou St. John,Entire home/apt,225,0
+Bayou St. John,Entire home/apt,150,4
+Bayou St. John,Private room,34,0
+Bayou St. John,Private room,200,0
+Bayou St. John,Entire home/apt,165,3
+Bayou St. John,Private room,150,1
+Bayou St. John,Entire home/apt,400,5
+Bayou St. John,Entire home/apt,775,0
+Bayou St. John,Entire home/apt,675,0
+Bayou St. John,Private room,90,28
+Bayou St. John,Entire home/apt,50,6
+Bayou St. John,Entire home/apt,300,3
+Bayou St. John,Entire home/apt,130,15
+Bayou St. John,Entire home/apt,280,6
+Bayou St. John,Entire home/apt,125,0
+Bayou St. John,Entire home/apt,450,3
+Bayou St. John,Entire home/apt,55,89
+Bayou St. John,Entire home/apt,132,26
+Bayou St. John,Entire home/apt,295,27
+Bayou St. John,Entire home/apt,250,5
+Bayou St. John,Private room,50,9
+Bayou St. John,Entire home/apt,150,1
+Bayou St. John,Entire home/apt,200,6
+Bayou St. John,Entire home/apt,100,69
+Bayou St. John,Entire home/apt,150,3
+Bayou St. John,Entire home/apt,116,10
+Bayou St. John,Entire home/apt,200,7
+Bayou St. John,Entire home/apt,125,17
+Bayou St. John,Entire home/apt,88,28
+Bayou St. John,Entire home/apt,140,3
+Bayou St. John,Private room,75,16
+Bayou St. John,Entire home/apt,125,24
+Bayou St. John,Private room,45,43
+Bayou St. John,Private room,45,14
+Bayou St. John,Private room,150,0
+Bayou St. John,Entire home/apt,90,22
+Bayou St. John,Private room,110,1
+Bayou St. John,Entire home/apt,99,25
+Bayou St. John,Entire home/apt,550,1
+Bayou St. John,Entire home/apt,100,23
+Bayou St. John,Entire home/apt,75,40
+Bayou St. John,Entire home/apt,210,0
+Bayou St. John,Private room,75,6
+Bayou St. John,Private room,35,10
+Bayou St. John,Entire home/apt,110,32
+Bayou St. John,Private room,65,21
+Bayou St. John,Shared room,32,4
+Bayou St. John,Entire home/apt,100,16
+Bayou St. John,Entire home/apt,155,21
+Bayou St. John,Entire home/apt,92,7
+Bayou St. John,Entire home/apt,225,3
+Bayou St. John,Entire home/apt,149,50
+Bayou St. John,Entire home/apt,140,26
+Bayou St. John,Private room,45,0
+Bayou St. John,Entire home/apt,149,14
+Bayou St. John,Entire home/apt,150,17
+Bayou St. John,Entire home/apt,75,19
+Bayou St. John,Entire home/apt,200,12
+Bayou St. John,Entire home/apt,60,11
+Bayou St. John,Entire home/apt,79,24
+Bayou St. John,Entire home/apt,89,2
+Bayou St. John,Private room,45,61
+Bayou St. John,Entire home/apt,90,23
+Bayou St. John,Entire home/apt,98,17
+Bayou St. John,Entire home/apt,250,7
+Bayou St. John,Entire home/apt,200,1
+Bayou St. John,Entire home/apt,80,9
+Bayou St. John,Entire home/apt,80,37
+Bayou St. John,Entire home/apt,140,11
+Bayou St. John,Entire home/apt,124,17
+Bayou St. John,Entire home/apt,110,144
+Bayou St. John,Entire home/apt,160,1
+Bayou St. John,Entire home/apt,400,3
+Bayou St. John,Private room,65,24
+Bayou St. John,Entire home/apt,250,0
+Bayou St. John,Entire home/apt,300,39
+Bayou St. John,Entire home/apt,237,12
+Bayou St. John,Entire home/apt,230,10
+Bayou St. John,Entire home/apt,120,5
+Bayou St. John,Private room,180,1
+Bayou St. John,Private room,85,2
+Bayou St. John,Entire home/apt,115,153
+Bayou St. John,Entire home/apt,100,1
+Bayou St. John,Entire home/apt,1500,0
+Bayou St. John,Entire home/apt,285,0
+Bayou St. John,Private room,85,3
+Bayou St. John,Entire home/apt,98,49
+Bayou St. John,Entire home/apt,150,1
+Bayou St. John,Entire home/apt,455,76
+Bayou St. John,Entire home/apt,122,12
+Bayou St. John,Private room,59,4
+Bayou St. John,Private room,85,3
+Bayou St. John,Entire home/apt,90,18
+Bayou St. John,Entire home/apt,115,21
+Bayou St. John,Private room,150,1
+Bayou St. John,Private room,55,6
+Bayou St. John,Entire home/apt,175,3
+Bayou St. John,Entire home/apt,500,0
+Bayou St. John,Private room,45,24
+Bayou St. John,Entire home/apt,145,12
+Bayou St. John,Entire home/apt,395,1
+Bayou St. John,Entire home/apt,500,0
+Bayou St. John,Entire home/apt,237,12
+Bayou St. John,Entire home/apt,250,14
+Bayou St. John,Entire home/apt,89,41
+Bayou St. John,Entire home/apt,115,23
+Bayou St. John,Private room,55,25
+Bayou St. John,Entire home/apt,180,66
+Bayou St. John,Private room,58,137
+Bayou St. John,Private room,80,7
+Bayou St. John,Entire home/apt,150,0
+Bayou St. John,Entire home/apt,150,0
+Bayou St. John,Entire home/apt,125,22
+Bayou St. John,Entire home/apt,125,2
+Bayou St. John,Entire home/apt,175,4
+Bayou St. John,Entire home/apt,150,0
+Bayou St. John,Entire home/apt,95,1
+Bayou St. John,Private room,50,36
+Bayou St. John,Entire home/apt,95,8
+Bayou St. John,Private room,50,35
+Bayou St. John,Entire home/apt,120,14
+Bayou St. John,Entire home/apt,103,1
+Bayou St. John,Private room,47,52
+Bayou St. John,Entire home/apt,220,1
+Bayou St. John,Entire home/apt,95,51
+Bayou St. John,Private room,78,8
+Bayou St. John,Entire home/apt,110,5
+Bayou St. John,Private room,80,21
+Bayou St. John,Entire home/apt,143,0
+Bayou St. John,Private room,49,12
+Bayou St. John,Entire home/apt,296,104
+Bayou St. John,Private room,45,30
+Bayou St. John,Shared room,40,7
+Bayou St. John,Private room,80,5
+Bayou St. John,Entire home/apt,119,76
+Bayou St. John,Entire home/apt,300,38
+Bayou St. John,Entire home/apt,89,70
+Bayou St. John,Entire home/apt,150,5
+Bayou St. John,Entire home/apt,75,19
+Bayou St. John,Entire home/apt,185,13
+Bayou St. John,Entire home/apt,125,8
+Bayou St. John,Entire home/apt,145,10
+Bayou St. John,Private room,49,8
+Bayou St. John,Entire home/apt,308,78
+Bayou St. John,Entire home/apt,300,0
+Bayou St. John,Entire home/apt,100,3
+Bayou St. John,Private room,150,1
+Bayou St. John,Entire home/apt,200,0
+Bayou St. John,Entire home/apt,95,14
+Bayou St. John,Private room,100,87
+Bayou St. John,Private room,100,1
+Bayou St. John,Entire home/apt,99,3
+Bayou St. John,Entire home/apt,355,12
+Bayou St. John,Private room,85,1
+Bayou St. John,Entire home/apt,250,0
+Bayou St. John,Entire home/apt,101,78
+Bayou St. John,Private room,70,11
+Bayou St. John,Private room,45,16
+Bayou St. John,Entire home/apt,150,43
+Bayou St. John,Entire home/apt,155,5
+Bayou St. John,Entire home/apt,159,2
+Bayou St. John,Entire home/apt,700,0
+Bayou St. John,Entire home/apt,140,48
+Bayou St. John,Entire home/apt,99,34
+Bayou St. John,Entire home/apt,150,16
+Bayou St. John,Entire home/apt,221,92
+Bayou St. John,Entire home/apt,99,132
+Bayou St. John,Private room,68,15
+Bayou St. John,Entire home/apt,200,1
+Bayou St. John,Entire home/apt,295,52
+Central Business District,Entire home/apt,395,7
+Central Business District,Entire home/apt,149,6
+Central Business District,Entire home/apt,168,1
+Central Business District,Entire home/apt,150,2
+Central Business District,Entire home/apt,350,0
+Central Business District,Entire home/apt,299,0
+Central Business District,Entire home/apt,199,20
+Central Business District,Entire home/apt,135,7
+Central Business District,Entire home/apt,140,7
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,250,24
+Central Business District,Entire home/apt,83,3
+Central Business District,Entire home/apt,220,36
+Central Business District,Entire home/apt,236,33
+Central Business District,Entire home/apt,187,22
+Central Business District,Entire home/apt,140,4
+Central Business District,Entire home/apt,299,22
+Central Business District,Entire home/apt,325,0
+Central Business District,Entire home/apt,300,54
+Central Business District,Entire home/apt,138,0
+Central Business District,Entire home/apt,128,20
+Central Business District,Entire home/apt,112,4
+Central Business District,Entire home/apt,295,1
+Central Business District,Entire home/apt,295,0
+Central Business District,Entire home/apt,150,39
+Central Business District,Entire home/apt,175,3
+Central Business District,Private room,118,12
+Central Business District,Entire home/apt,115,6
+Central Business District,Entire home/apt,100,8
+Central Business District,Entire home/apt,299,2
+Central Business District,Entire home/apt,150,1
+Central Business District,Entire home/apt,199,9
+Central Business District,Entire home/apt,200,14
+Central Business District,Entire home/apt,190,4
+Central Business District,Entire home/apt,145,4
+Central Business District,Entire home/apt,250,1
+Central Business District,Entire home/apt,126,12
+Central Business District,Private room,169,10
+Central Business District,Entire home/apt,150,0
+Central Business District,Entire home/apt,175,3
+Central Business District,Entire home/apt,200,49
+Central Business District,Entire home/apt,200,3
+Central Business District,Entire home/apt,200,1
+Central Business District,Entire home/apt,249,6
+Central Business District,Entire home/apt,161,56
+Central Business District,Entire home/apt,200,1
+Central Business District,Entire home/apt,130,6
+Central Business District,Entire home/apt,123,38
+Central Business District,Entire home/apt,163,8
+Central Business District,Entire home/apt,270,0
+Central Business District,Entire home/apt,250,5
+Central Business District,Entire home/apt,125,22
+Central Business District,Entire home/apt,140,26
+Central Business District,Entire home/apt,249,6
+Central Business District,Entire home/apt,254,28
+Central Business District,Entire home/apt,2500,5
+Central Business District,Entire home/apt,925,3
+Central Business District,Entire home/apt,150,1
+Central Business District,Entire home/apt,200,38
+Central Business District,Entire home/apt,2500,3
+Central Business District,Entire home/apt,195,34
+Central Business District,Entire home/apt,199,8
+Central Business District,Entire home/apt,258,18
+Central Business District,Entire home/apt,199,2
+Central Business District,Entire home/apt,2500,1
+Central Business District,Entire home/apt,180,18
+Central Business District,Entire home/apt,450,7
+Central Business District,Entire home/apt,225,97
+Central Business District,Entire home/apt,349,58
+Central Business District,Entire home/apt,225,4
+Central Business District,Entire home/apt,155,24
+Central Business District,Entire home/apt,200,29
+Central Business District,Entire home/apt,300,6
+Central Business District,Entire home/apt,229,18
+Central Business District,Private room,500,1
+Central Business District,Entire home/apt,200,4
+Central Business District,Entire home/apt,119,0
+Central Business District,Entire home/apt,272,12
+Central Business District,Entire home/apt,300,41
+Central Business District,Entire home/apt,170,25
+Central Business District,Entire home/apt,223,0
+Central Business District,Entire home/apt,250,0
+Central Business District,Entire home/apt,130,2
+Central Business District,Entire home/apt,220,5
+Central Business District,Entire home/apt,149,3
+Central Business District,Entire home/apt,200,14
+Central Business District,Entire home/apt,171,43
+Central Business District,Entire home/apt,230,7
+Central Business District,Entire home/apt,135,51
+Central Business District,Entire home/apt,209,5
+Central Business District,Entire home/apt,175,19
+Central Business District,Entire home/apt,239,1
+Central Business District,Entire home/apt,2500,1
+Central Business District,Private room,499,18
+Central Business District,Entire home/apt,150,31
+Central Business District,Entire home/apt,218,13
+Central Business District,Entire home/apt,200,22
+Central Business District,Entire home/apt,200,0
+Central Business District,Entire home/apt,119,9
+Central Business District,Entire home/apt,800,0
+Central Business District,Entire home/apt,415,1
+Central Business District,Entire home/apt,179,16
+Central Business District,Entire home/apt,124,0
+Central Business District,Entire home/apt,190,1
+Central Business District,Entire home/apt,103,13
+Central Business District,Entire home/apt,99,16
+Central Business District,Entire home/apt,140,159
+Central Business District,Entire home/apt,150,1
+Central Business District,Entire home/apt,315,4
+Central Business District,Entire home/apt,185,18
+Central Business District,Entire home/apt,150,0
+Central Business District,Entire home/apt,196,54
+Central Business District,Entire home/apt,400,1
+Central Business District,Entire home/apt,149,5
+Central Business District,Entire home/apt,199,1
+Central Business District,Private room,200,1
+Central Business District,Private room,110,13
+Central Business District,Entire home/apt,137,1
+Central Business District,Entire home/apt,233,0
+Central Business District,Entire home/apt,130,3
+Central Business District,Entire home/apt,450,3
+Central Business District,Entire home/apt,139,39
+Central Business District,Private room,78,3
+Central Business District,Entire home/apt,650,0
+Central Business District,Entire home/apt,250,22
+Central Business District,Entire home/apt,130,1
+Central Business District,Entire home/apt,199,3
+Central Business District,Entire home/apt,199,8
+Central Business District,Entire home/apt,197,9
+Central Business District,Entire home/apt,140,1
+Central Business District,Entire home/apt,150,0
+Central Business District,Entire home/apt,128,2
+Central Business District,Entire home/apt,145,18
+Central Business District,Entire home/apt,200,4
+Central Business District,Entire home/apt,349,1
+Central Business District,Entire home/apt,250,0
+Central Business District,Entire home/apt,349,34
+Central Business District,Entire home/apt,395,23
+Central Business District,Entire home/apt,550,6
+Central Business District,Entire home/apt,175,5
+Central Business District,Entire home/apt,175,4
+Central Business District,Entire home/apt,135,12
+Central Business District,Entire home/apt,135,217
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,189,0
+Central Business District,Private room,179,1
+Central Business District,Entire home/apt,180,30
+Central Business District,Entire home/apt,141,6
+Central Business District,Entire home/apt,99,19
+Central Business District,Entire home/apt,119,32
+Central Business District,Entire home/apt,277,3
+Central Business District,Entire home/apt,289,9
+Central Business District,Entire home/apt,99,22
+Central Business District,Entire home/apt,150,4
+Central Business District,Entire home/apt,120,0
+Central Business District,Entire home/apt,400,5
+Central Business District,Entire home/apt,99,1
+Central Business District,Entire home/apt,150,1
+Central Business District,Entire home/apt,299,7
+Central Business District,Entire home/apt,250,19
+Central Business District,Entire home/apt,210,6
+Central Business District,Entire home/apt,109,3
+Central Business District,Entire home/apt,299,9
+Central Business District,Entire home/apt,350,2
+Central Business District,Entire home/apt,119,29
+Central Business District,Entire home/apt,130,0
+Central Business District,Entire home/apt,130,0
+Central Business District,Entire home/apt,127,13
+Central Business District,Entire home/apt,275,3
+Central Business District,Entire home/apt,299,0
+Central Business District,Entire home/apt,99,4
+Central Business District,Entire home/apt,315,1
+Central Business District,Entire home/apt,1095,8
+Central Business District,Entire home/apt,299,1
+Central Business District,Entire home/apt,195,7
+Central Business District,Entire home/apt,85,0
+Central Business District,Entire home/apt,380,1
+Central Business District,Entire home/apt,150,83
+Central Business District,Entire home/apt,229,25
+Central Business District,Entire home/apt,399,0
+Central Business District,Entire home/apt,108,1
+Central Business District,Entire home/apt,249,21
+Central Business District,Entire home/apt,99,17
+Central Business District,Entire home/apt,99,69
+Central Business District,Entire home/apt,150,1
+Central Business District,Entire home/apt,200,7
+Central Business District,Entire home/apt,200,8
+Central Business District,Entire home/apt,165,3
+Central Business District,Entire home/apt,200,0
+Central Business District,Entire home/apt,200,5
+Central Business District,Entire home/apt,210,1
+Central Business District,Entire home/apt,125,22
+Central Business District,Private room,78,85
+Central Business District,Entire home/apt,180,8
+Central Business District,Entire home/apt,115,5
+Central Business District,Entire home/apt,225,0
+Central Business District,Entire home/apt,135,5
+Central Business District,Entire home/apt,299,2
+Central Business District,Entire home/apt,299,10
+Central Business District,Entire home/apt,170,1
+Central Business District,Entire home/apt,150,1
+Central Business District,Entire home/apt,250,53
+Central Business District,Entire home/apt,350,3
+Central Business District,Private room,89,46
+Central Business District,Entire home/apt,189,0
+Central Business District,Entire home/apt,83,2
+Central Business District,Entire home/apt,170,3
+Central Business District,Entire home/apt,350,0
+Central Business District,Entire home/apt,249,10
+Central Business District,Entire home/apt,203,3
+Central Business District,Entire home/apt,350,2
+Central Business District,Entire home/apt,350,4
+Central Business District,Entire home/apt,249,3
+Central Business District,Entire home/apt,300,0
+Central Business District,Entire home/apt,335,6
+Central Business District,Private room,60,14
+Central Business District,Entire home/apt,155,1
+Central Business District,Entire home/apt,165,58
+Central Business District,Entire home/apt,199,1
+Central Business District,Entire home/apt,136,70
+Central Business District,Entire home/apt,174,64
+Central Business District,Private room,99,9
+Central Business District,Entire home/apt,2000,0
+Central Business District,Private room,100,11
+Central Business District,Entire home/apt,365,1
+Central Business District,Entire home/apt,183,1
+Central Business District,Entire home/apt,400,0
+Central Business District,Entire home/apt,375,24
+Central Business District,Entire home/apt,150,6
+Central Business District,Entire home/apt,92,0
+Central Business District,Entire home/apt,173,5
+Central Business District,Entire home/apt,140,1
+Central Business District,Entire home/apt,299,8
+Central Business District,Entire home/apt,299,0
+Central Business District,Entire home/apt,139,5
+Central Business District,Entire home/apt,5000,0
+Central Business District,Entire home/apt,321,1
+Central Business District,Entire home/apt,150,1
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,199,1
+Central Business District,Entire home/apt,166,4
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,190,12
+Central Business District,Entire home/apt,119,4
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,120,5
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,332,4
+Central Business District,Entire home/apt,350,23
+Central Business District,Entire home/apt,250,0
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,650,8
+Central Business District,Entire home/apt,170,82
+Central Business District,Entire home/apt,140,8
+Central Business District,Entire home/apt,175,42
+Central Business District,Entire home/apt,150,1
+Central Business District,Entire home/apt,139,7
+Central Business District,Entire home/apt,1000,0
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,210,2
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,119,5
+Central Business District,Entire home/apt,127,2
+Central Business District,Entire home/apt,250,6
+Central Business District,Entire home/apt,450,0
+Central Business District,Entire home/apt,170,2
+Central Business District,Entire home/apt,500,5
+Central Business District,Private room,225,35
+Central Business District,Entire home/apt,130,13
+Central Business District,Entire home/apt,299,1
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,99,4
+Central Business District,Entire home/apt,300,5
+Central Business District,Entire home/apt,300,4
+Central Business District,Private room,100,0
+Central Business District,Entire home/apt,349,0
+Central Business District,Entire home/apt,201,19
+Central Business District,Private room,78,3
+Central Business District,Entire home/apt,339,3
+Central Business District,Entire home/apt,299,0
+Central Business District,Entire home/apt,390,3
+Central Business District,Entire home/apt,499,0
+Central Business District,Entire home/apt,499,0
+Central Business District,Entire home/apt,499,1
+Central Business District,Entire home/apt,499,1
+Central Business District,Entire home/apt,499,1
+Central Business District,Entire home/apt,499,0
+Central Business District,Entire home/apt,499,0
+Central Business District,Entire home/apt,499,0
+Central Business District,Entire home/apt,499,0
+Central Business District,Entire home/apt,499,1
+Central Business District,Entire home/apt,499,1
+Central Business District,Entire home/apt,150,8
+Central Business District,Entire home/apt,250,2
+Central Business District,Entire home/apt,499,0
+Central Business District,Entire home/apt,499,1
+Central Business District,Entire home/apt,499,1
+Central Business District,Entire home/apt,169,29
+Central Business District,Entire home/apt,175,46
+Central Business District,Entire home/apt,99,0
+Central Business District,Entire home/apt,210,6
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,139,63
+Central Business District,Entire home/apt,215,0
+Central Business District,Private room,169,7
+Central Business District,Entire home/apt,225,1
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,299,0
+Central Business District,Entire home/apt,500,9
+Central Business District,Entire home/apt,999,2
+Central Business District,Entire home/apt,200,10
+Central Business District,Entire home/apt,150,2
+Central Business District,Entire home/apt,215,2
+Central Business District,Private room,100,0
+Central Business District,Entire home/apt,120,0
+Central Business District,Private room,248,0
+Central Business District,Entire home/apt,234,50
+Central Business District,Entire home/apt,980,7
+Central Business District,Entire home/apt,119,21
+Central Business District,Entire home/apt,860,10
+Central Business District,Entire home/apt,150,1
+Central Business District,Entire home/apt,780,10
+Central Business District,Entire home/apt,56,6
+Central Business District,Entire home/apt,200,16
+Central Business District,Entire home/apt,170,11
+Central Business District,Entire home/apt,550,4
+Central Business District,Entire home/apt,105,0
+Central Business District,Entire home/apt,118,17
+Central Business District,Entire home/apt,175,89
+Central Business District,Entire home/apt,999,1
+Central Business District,Entire home/apt,4750,0
+Central Business District,Entire home/apt,116,0
+Central Business District,Entire home/apt,130,38
+Central Business District,Entire home/apt,500,2
+Central Business District,Entire home/apt,295,90
+Central Business District,Entire home/apt,349,0
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,499,5
+Central Business District,Entire home/apt,119,5
+Central Business District,Shared room,350,0
+Central Business District,Entire home/apt,449,0
+Central Business District,Entire home/apt,114,16
+Central Business District,Entire home/apt,157,9
+Central Business District,Entire home/apt,1499,9
+Central Business District,Entire home/apt,99,58
+Central Business District,Entire home/apt,149,8
+Central Business District,Entire home/apt,150,7
+Central Business District,Private room,61,29
+Central Business District,Entire home/apt,153,11
+Central Business District,Entire home/apt,250,15
+Central Business District,Entire home/apt,161,3
+Central Business District,Entire home/apt,136,1
+Central Business District,Entire home/apt,150,6
+Central Business District,Entire home/apt,199,56
+Central Business District,Entire home/apt,100,6
+Central Business District,Entire home/apt,299,4
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,125,32
+Central Business District,Entire home/apt,266,4
+Central Business District,Entire home/apt,300,4
+Central Business District,Entire home/apt,150,3
+Central Business District,Entire home/apt,159,5
+Central Business District,Entire home/apt,200,7
+Central Business District,Entire home/apt,225,1
+Central Business District,Entire home/apt,299,2
+Central Business District,Entire home/apt,299,2
+Central Business District,Entire home/apt,450,2
+Central Business District,Entire home/apt,195,0
+Central Business District,Entire home/apt,189,30
+Central Business District,Entire home/apt,170,1
+Central Business District,Entire home/apt,180,0
+Central Business District,Entire home/apt,130,27
+Central Business District,Entire home/apt,1280,1
+Central Business District,Private room,78,54
+Central Business District,Entire home/apt,190,0
+Central Business District,Entire home/apt,1075,2
+Central Business District,Entire home/apt,123,5
+Central Business District,Entire home/apt,230,72
+Central Business District,Entire home/apt,195,3
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,500,2
+Central Business District,Entire home/apt,125,56
+Central Business District,Entire home/apt,300,49
+Central Business District,Entire home/apt,119,36
+Central Business District,Entire home/apt,187,0
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,695,0
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,399,1
+Central Business District,Entire home/apt,225,0
+Central Business District,Entire home/apt,690,5
+Central Business District,Entire home/apt,164,2
+Central Business District,Entire home/apt,139,29
+Central Business District,Entire home/apt,195,20
+Central Business District,Entire home/apt,219,6
+Central Business District,Entire home/apt,160,26
+Central Business District,Entire home/apt,175,0
+Central Business District,Entire home/apt,225,16
+Central Business District,Entire home/apt,180,8
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,159,43
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,500,4
+Central Business District,Entire home/apt,180,28
+Central Business District,Entire home/apt,169,10
+Central Business District,Entire home/apt,145,0
+Central Business District,Entire home/apt,500,2
+Central Business District,Entire home/apt,300,10
+Central Business District,Private room,89,75
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,125,41
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,145,21
+Central Business District,Entire home/apt,115,16
+Central Business District,Entire home/apt,500,1
+Central Business District,Entire home/apt,224,31
+Central Business District,Private room,500,1
+Central Business District,Entire home/apt,89,6
+Central Business District,Entire home/apt,99,7
+Central Business District,Entire home/apt,140,3
+Central Business District,Entire home/apt,149,6
+Central Business District,Entire home/apt,210,2
+Central Business District,Entire home/apt,172,7
+Central Business District,Entire home/apt,210,6
+Central Business District,Entire home/apt,150,11
+Central Business District,Entire home/apt,200,7
+Central Business District,Entire home/apt,500,7
+Central Business District,Entire home/apt,209,33
+Central Business District,Entire home/apt,375,5
+Central Business District,Entire home/apt,300,3
+Central Business District,Entire home/apt,500,0
+Central Business District,Entire home/apt,169,11
+Central Business District,Entire home/apt,350,3
+Central Business District,Entire home/apt,265,91
+Central Business District,Entire home/apt,308,16
+Central Business District,Entire home/apt,149,45
+Central Business District,Private room,78,5
+Central Business District,Private room,95,0
+Central Business District,Entire home/apt,600,0
+Central Business District,Private room,78,4
+Central Business District,Entire home/apt,183,2
+Central City,Private room,99,20
+Central City,Entire home/apt,135,0
+Central City,Entire home/apt,150,2
+Central City,Entire home/apt,195,19
+Central City,Entire home/apt,98,10
+Central City,Entire home/apt,202,1
+Central City,Entire home/apt,99,0
+Central City,Entire home/apt,150,6
+Central City,Entire home/apt,135,9
+Central City,Entire home/apt,260,36
+Central City,Entire home/apt,160,84
+Central City,Private room,160,0
+Central City,Entire home/apt,110,2
+Central City,Private room,50,0
+Central City,Entire home/apt,79,3
+Central City,Entire home/apt,240,19
+Central City,Entire home/apt,600,21
+Central City,Entire home/apt,140,66
+Central City,Private room,125,0
+Central City,Entire home/apt,300,1
+Central City,Entire home/apt,200,32
+Central City,Entire home/apt,224,0
+Central City,Entire home/apt,80,14
+Central City,Entire home/apt,180,0
+Central City,Private room,75,29
+Central City,Entire home/apt,500,0
+Central City,Entire home/apt,195,0
+Central City,Entire home/apt,300,0
+Central City,Entire home/apt,119,9
+Central City,Entire home/apt,175,0
+Central City,Entire home/apt,95,26
+Central City,Private room,55,54
+Central City,Entire home/apt,250,0
+Central City,Entire home/apt,285,96
+Central City,Entire home/apt,123,1
+Central City,Entire home/apt,300,3
+Central City,Entire home/apt,85,58
+Central City,Entire home/apt,69,6
+Central City,Entire home/apt,75,19
+Central City,Entire home/apt,95,26
+Central City,Entire home/apt,105,367
+Central City,Entire home/apt,269,1
+Central City,Entire home/apt,200,0
+Central City,Entire home/apt,299,75
+Central City,Entire home/apt,110,101
+Central City,Private room,150,3
+Central City,Entire home/apt,290,53
+Central City,Entire home/apt,270,8
+Central City,Entire home/apt,213,0
+Central City,Private room,150,2
+Central City,Entire home/apt,400,57
+Central City,Entire home/apt,90,12
+Central City,Private room,99,11
+Central City,Entire home/apt,70,39
+Central City,Entire home/apt,150,18
+Central City,Private room,101,1
+Central City,Entire home/apt,120,1
+Central City,Entire home/apt,90,13
+Central City,Entire home/apt,350,61
+Central City,Entire home/apt,160,6
+Central City,Entire home/apt,250,8
+Central City,Entire home/apt,248,1
+Central City,Entire home/apt,62,0
+Central City,Entire home/apt,300,3
+Central City,Private room,99,0
+Central City,Entire home/apt,99,14
+Central City,Private room,65,61
+Central City,Entire home/apt,70,10
+Central City,Entire home/apt,100,0
+Central City,Entire home/apt,155,60
+Central City,Entire home/apt,109,28
+Central City,Entire home/apt,117,0
+Central City,Entire home/apt,95,0
+Central City,Entire home/apt,160,95
+Central City,Entire home/apt,75,0
+Central City,Entire home/apt,108,0
+Central City,Private room,120,17
+Central City,Entire home/apt,315,1
+Central City,Private room,75,51
+Central City,Private room,50,4
+Central City,Entire home/apt,75,29
+Central City,Private room,120,1
+Central City,Entire home/apt,264,1
+Central City,Entire home/apt,285,14
+Central City,Private room,199,4
+Central City,Entire home/apt,100,177
+Central City,Private room,95,2
+Central City,Entire home/apt,175,5
+Central City,Entire home/apt,700,0
+Central City,Entire home/apt,300,9
+Central City,Entire home/apt,105,24
+Central City,Entire home/apt,210,76
+Central City,Private room,90,42
+Central City,Entire home/apt,100,11
+Central City,Private room,156,3
+Central City,Private room,150,4
+Central City,Entire home/apt,90,7
+Central City,Entire home/apt,89,0
+Central City,Entire home/apt,87,7
+Central City,Entire home/apt,80,1
+Central City,Entire home/apt,800,1
+Central City,Entire home/apt,199,9
+Central City,Entire home/apt,143,2
+Central City,Entire home/apt,105,102
+Central City,Private room,80,7
+Central City,Private room,65,8
+Central City,Private room,95,15
+Central City,Entire home/apt,289,25
+Central City,Entire home/apt,100,0
+Central City,Entire home/apt,169,14
+Central City,Private room,249,0
+Central City,Entire home/apt,299,0
+Central City,Entire home/apt,175,23
+Central City,Entire home/apt,175,3
+Central City,Entire home/apt,130,84
+Central City,Entire home/apt,105,7
+Central City,Private room,110,11
+Central City,Entire home/apt,102,4
+Central City,Entire home/apt,249,6
+Central City,Entire home/apt,150,14
+Central City,Entire home/apt,150,3
+Central City,Entire home/apt,299,0
+Central City,Private room,229,0
+Central City,Private room,75,20
+Central City,Entire home/apt,200,4
+Central City,Entire home/apt,115,0
+Central City,Entire home/apt,595,0
+Central City,Entire home/apt,89,11
+Central City,Entire home/apt,135,2
+Central City,Private room,80,23
+Central City,Entire home/apt,259,0
+Central City,Entire home/apt,275,22
+Central City,Entire home/apt,100,94
+Central City,Entire home/apt,159,14
+Central City,Entire home/apt,248,0
+Central City,Private room,125,62
+Central City,Entire home/apt,180,1
+Central City,Private room,55,74
+Central City,Entire home/apt,113,2
+Central City,Entire home/apt,141,1
+Central City,Entire home/apt,195,25
+Central City,Entire home/apt,169,1
+Central City,Entire home/apt,80,7
+Central City,Entire home/apt,141,1
+Central City,Entire home/apt,224,0
+Central City,Entire home/apt,300,0
+Central City,Entire home/apt,279,5
+Central City,Entire home/apt,143,0
+Central City,Private room,45,32
+Central City,Private room,95,1
+Central City,Entire home/apt,205,0
+Central City,Private room,60,0
+Central City,Private room,80,107
+Central City,Entire home/apt,215,0
+Central City,Entire home/apt,175,0
+Central City,Entire home/apt,325,5
+Central City,Entire home/apt,165,0
+Central City,Entire home/apt,113,1
+Central City,Entire home/apt,130,22
+Central City,Entire home/apt,274,1
+Central City,Private room,124,1
+Central City,Entire home/apt,220,2
+Central City,Private room,89,21
+Central City,Private room,100,35
+Central City,Entire home/apt,325,6
+Central City,Entire home/apt,125,0
+Central City,Entire home/apt,130,0
+Central City,Entire home/apt,70,0
+Central City,Entire home/apt,190,0
+Central City,Entire home/apt,175,65
+Central City,Private room,65,64
+Central City,Entire home/apt,115,19
+Central City,Entire home/apt,180,1
+Central City,Entire home/apt,248,1
+Central City,Private room,500,0
+Central City,Entire home/apt,130,3
+Central City,Entire home/apt,450,0
+Central City,Entire home/apt,107,130
+Central City,Entire home/apt,238,1
+Central City,Entire home/apt,800,23
+Central City,Entire home/apt,99,23
+Central City,Entire home/apt,490,0
+Central City,Entire home/apt,400,0
+Central City,Entire home/apt,140,7
+Central City,Entire home/apt,150,1
+Central City,Private room,95,0
+Central City,Entire home/apt,127,6
+Central City,Entire home/apt,125,313
+Central City,Private room,500,0
+Central City,Entire home/apt,165,18
+Central City,Entire home/apt,120,19
+Central City,Private room,120,32
+Central City,Entire home/apt,400,0
+Central City,Entire home/apt,140,57
+Central City,Private room,95,21
+Central City,Entire home/apt,150,89
+Central City,Private room,55,36
+Central City,Private room,80,0
+Central City,Entire home/apt,150,11
+Central City,Entire home/apt,83,22
+Central City,Entire home/apt,110,0
+Central City,Entire home/apt,115,10
+Central City,Entire home/apt,239,2
+Central City,Entire home/apt,1000,24
+Central City,Entire home/apt,139,0
+Central City,Entire home/apt,350,7
+Central City,Entire home/apt,95,34
+Central City,Shared room,29,13
+Central City,Entire home/apt,110,4
+Central City,Private room,150,7
+Central City,Entire home/apt,220,0
+Central City,Entire home/apt,150,29
+Central City,Entire home/apt,690,4
+Central City,Entire home/apt,195,1
+Central City,Entire home/apt,135,28
+Central City,Private room,99,2
+Central City,Entire home/apt,179,2
+Central City,Private room,80,1
+Central City,Private room,100,1
+Central City,Entire home/apt,200,1
+Central City,Private room,60,26
+Central City,Private room,66,49
+Central City,Private room,90,136
+Central City,Entire home/apt,135,35
+Central City,Entire home/apt,189,16
+Central City,Entire home/apt,150,2
+Central City,Entire home/apt,285,0
+Central City,Entire home/apt,199,14
+Central City,Entire home/apt,190,0
+Central City,Entire home/apt,199,13
+Central City,Entire home/apt,248,2
+Central City,Entire home/apt,1000,0
+Central City,Private room,95,15
+Central City,Entire home/apt,75,31
+Central City,Entire home/apt,125,2
+Central City,Entire home/apt,88,26
+Central City,Entire home/apt,115,0
+Central City,Private room,100,0
+Central City,Private room,89,16
+Central City,Entire home/apt,199,0
+Central City,Entire home/apt,130,75
+Central City,Entire home/apt,125,2
+Central City,Entire home/apt,800,70
+Central City,Private room,52,126
+Central City,Entire home/apt,200,23
+Central City,Entire home/apt,185,0
+Central City,Entire home/apt,137,15
+Central City,Entire home/apt,95,8
+Central City,Entire home/apt,239,1
+Central City,Entire home/apt,18,9
+Central City,Entire home/apt,250,1
+Central City,Entire home/apt,110,0
+Central City,Entire home/apt,179,1
+Central City,Entire home/apt,135,103
+Central City,Entire home/apt,207,4
+Central City,Entire home/apt,110,60
+Central City,Entire home/apt,250,12
+Central City,Shared room,43,19
+Central City,Entire home/apt,199,1
+Central City,Entire home/apt,210,1
+Central City,Entire home/apt,239,5
+Central City,Entire home/apt,850,40
+Central City,Entire home/apt,250,0
+Central City,Entire home/apt,120,115
+Central City,Entire home/apt,137,36
+Central City,Entire home/apt,69,8
+Central City,Entire home/apt,285,3
+Central City,Entire home/apt,150,2
+Central City,Entire home/apt,249,6
+Central City,Entire home/apt,125,21
+Central City,Entire home/apt,137,0
+Central City,Entire home/apt,130,0
+Central City,Entire home/apt,1000,2
+Central City,Entire home/apt,250,1
+Central City,Private room,79,5
+Central City,Entire home/apt,119,14
+Central City,Entire home/apt,150,11
+Central City,Entire home/apt,105,21
+Central City,Private room,100,0
+Central City,Entire home/apt,199,0
+Central City,Entire home/apt,115,0
+Central City,Entire home/apt,600,0
+Central City,Entire home/apt,125,18
+Central City,Entire home/apt,600,6
+Central City,Private room,55,6
+Central City,Private room,95,147
+Central City,Entire home/apt,115,6
+Central City,Entire home/apt,150,6
+Central City,Entire home/apt,189,149
+Central City,Entire home/apt,234,2
+Central City,Entire home/apt,200,0
+Central City,Entire home/apt,250,0
+Central City,Private room,90,1
+Central City,Entire home/apt,199,2
+Central City,Entire home/apt,395,1
+Central City,Entire home/apt,100,20
+Central City,Entire home/apt,109,0
+Central City,Entire home/apt,170,133
+Central City,Entire home/apt,299,4
+Central City,Entire home/apt,199,1
+Central City,Entire home/apt,250,0
+Central City,Entire home/apt,155,33
+Central City,Entire home/apt,228,26
+Central City,Entire home/apt,125,4
+Central City,Entire home/apt,400,47
+Central City,Entire home/apt,115,4
+Central City,Private room,190,6
+Central City,Entire home/apt,75,21
+Central City,Private room,85,156
+Central City,Entire home/apt,175,1
+Central City,Entire home/apt,325,2
+Central City,Private room,60,17
+Central City,Entire home/apt,150,1
+Central City,Entire home/apt,80,0
+Central City,Entire home/apt,100,47
+Central City,Entire home/apt,150,81
+Central City,Private room,68,234
+Central City,Shared room,39,38
+Central City,Entire home/apt,125,39
+Central City,Entire home/apt,149,1
+Central City,Entire home/apt,200,56
+Central City,Entire home/apt,285,5
+Central City,Entire home/apt,300,9
+Central City,Entire home/apt,100,42
+Central City,Private room,55,47
+Central City,Entire home/apt,130,0
+Central City,Entire home/apt,125,1
+Central City,Entire home/apt,350,51
+Central City,Entire home/apt,87,0
+Central City,Entire home/apt,140,116
+Central City,Shared room,45,27
+Central City,Entire home/apt,295,22
+Central City,Entire home/apt,190,1
+Central City,Private room,79,6
+Central City,Entire home/apt,125,0
+Central City,Private room,282,36
+Central City,Private room,75,1
+Central City,Entire home/apt,110,3
+Central City,Private room,65,8
+Central City,Shared room,39,22
+Central City,Private room,55,91
+Central City,Entire home/apt,250,1
+Central City,Entire home/apt,109,38
+Central City,Entire home/apt,99,68
+Central City,Entire home/apt,90,52
+Behrman,Entire home/apt,87,1
+Behrman,Entire home/apt,102,6
+Behrman,Entire home/apt,350,6
+Black Pearl,Entire home/apt,100,1
+Black Pearl,Entire home/apt,675,1
+Black Pearl,Entire home/apt,325,7
+Black Pearl,Entire home/apt,125,1
+Black Pearl,Private room,450,0
+Black Pearl,Private room,54,119
+Black Pearl,Entire home/apt,100,21
+Black Pearl,Entire home/apt,125,4
+Black Pearl,Entire home/apt,135,0
+Black Pearl,Entire home/apt,175,21
+Black Pearl,Entire home/apt,99,3
+Black Pearl,Entire home/apt,120,4
+Black Pearl,Entire home/apt,75,22
+Black Pearl,Entire home/apt,198,0
+Black Pearl,Entire home/apt,500,0
+Black Pearl,Entire home/apt,100,8
+Black Pearl,Entire home/apt,60,24
+Black Pearl,Entire home/apt,120,25
+Black Pearl,Entire home/apt,125,55
+Black Pearl,Entire home/apt,120,38
+Black Pearl,Entire home/apt,275,1
+Black Pearl,Private room,85,25
+Black Pearl,Entire home/apt,125,1
+Black Pearl,Entire home/apt,135,25
+Black Pearl,Private room,62,0
+Black Pearl,Entire home/apt,300,1
+Black Pearl,Private room,125,68
+Black Pearl,Entire home/apt,130,82
+Broadmoor,Entire home/apt,225,84
+Broadmoor,Entire home/apt,79,58
+Broadmoor,Entire home/apt,151,6
+Broadmoor,Entire home/apt,95,18
+Broadmoor,Entire home/apt,90,7
+Broadmoor,Private room,125,7
+Broadmoor,Private room,65,82
+Broadmoor,Entire home/apt,120,46
+Broadmoor,Private room,69,33
+Broadmoor,Entire home/apt,179,4
+Broadmoor,Entire home/apt,1000,4
+Broadmoor,Private room,60,91
+Broadmoor,Shared room,25,26
+Broadmoor,Entire home/apt,125,8
+Broadmoor,Shared room,25,38
+Broadmoor,Private room,55,1
+Broadmoor,Entire home/apt,400,0
+Broadmoor,Entire home/apt,89,30
+Broadmoor,Entire home/apt,99,59
+Broadmoor,Private room,71,33
+Broadmoor,Entire home/apt,125,50
+Broadmoor,Private room,78,17
+Broadmoor,Private room,45,36
+Broadmoor,Entire home/apt,115,12
+Broadmoor,Entire home/apt,400,0
+Broadmoor,Private room,150,5
+Broadmoor,Private room,40,8
+Broadmoor,Entire home/apt,125,135
+Broadmoor,Entire home/apt,120,3
+Broadmoor,Entire home/apt,175,3
+Broadmoor,Entire home/apt,85,22
+Broadmoor,Entire home/apt,178,11
+Broadmoor,Entire home/apt,379,1
+Broadmoor,Entire home/apt,300,10
+Broadmoor,Entire home/apt,160,63
+Broadmoor,Private room,120,3
+Broadmoor,Private room,35,22
+Broadmoor,Entire home/apt,225,0
+Broadmoor,Entire home/apt,600,0
+Broadmoor,Entire home/apt,79,14
+Broadmoor,Entire home/apt,150,109
+Broadmoor,Entire home/apt,180,24
+Broadmoor,Entire home/apt,150,30
+Broadmoor,Entire home/apt,125,41
+Broadmoor,Private room,38,18
+Broadmoor,Entire home/apt,199,4
+Broadmoor,Entire home/apt,160,36
+Broadmoor,Entire home/apt,300,4
+Broadmoor,Entire home/apt,200,93
+Broadmoor,Private room,60,119
+Broadmoor,Entire home/apt,165,95
+Broadmoor,Private room,100,8
+Broadmoor,Entire home/apt,200,2
+Broadmoor,Entire home/apt,125,6
+Broadmoor,Entire home/apt,650,0
+Broadmoor,Private room,76,17
+Broadmoor,Entire home/apt,150,35
+Broadmoor,Entire home/apt,98,5
+Broadmoor,Private room,55,17
+Broadmoor,Private room,51,117
+Broadmoor,Private room,58,3
+Broadmoor,Private room,80,23
+Broadmoor,Entire home/apt,95,49
+Broadmoor,Shared room,25,12
+Broadmoor,Entire home/apt,335,48
+Broadmoor,Entire home/apt,117,32
+Broadmoor,Entire home/apt,88,38
+Broadmoor,Private room,60,113
+Broadmoor,Private room,60,22
+Broadmoor,Shared room,27,15
+Broadmoor,Private room,69,34
+Broadmoor,Entire home/apt,95,14
+Broadmoor,Private room,350,2
+Broadmoor,Entire home/apt,100,12
+Broadmoor,Entire home/apt,189,21
+Broadmoor,Entire home/apt,89,28
+Broadmoor,Entire home/apt,399,35
+Broadmoor,Entire home/apt,250,23
+Broadmoor,Private room,95,5
+Broadmoor,Entire home/apt,125,11
+Broadmoor,Private room,49,48
+Broadmoor,Entire home/apt,400,0
+Broadmoor,Private room,90,1
+Broadmoor,Entire home/apt,150,7
+Broadmoor,Entire home/apt,82,1
+Bywater,Entire home/apt,159,89
+Bywater,Entire home/apt,300,3
+Bywater,Entire home/apt,250,89
+Bywater,Entire home/apt,225,0
+Bywater,Entire home/apt,300,35
+Bywater,Entire home/apt,250,7
+Bywater,Entire home/apt,129,11
+Bywater,Entire home/apt,75,4
+Bywater,Entire home/apt,115,57
+Bywater,Entire home/apt,160,1
+Bywater,Entire home/apt,436,10
+Bywater,Entire home/apt,99,30
+Bywater,Entire home/apt,70,70
+Bywater,Entire home/apt,175,10
+Bywater,Entire home/apt,290,101
+Bywater,Shared room,150,1
+Bywater,Entire home/apt,475,7
+Bywater,Private room,100,0
+Bywater,Entire home/apt,275,59
+Bywater,Entire home/apt,175,6
+Bywater,Entire home/apt,300,0
+Bywater,Private room,50,0
+Bywater,Entire home/apt,139,11
+Bywater,Entire home/apt,150,3
+Bywater,Entire home/apt,99,19
+Bywater,Private room,180,3
+Bywater,Entire home/apt,120,8
+Bywater,Entire home/apt,295,14
+Bywater,Entire home/apt,292,21
+Bywater,Private room,66,52
+Bywater,Entire home/apt,149,30
+Bywater,Private room,99,24
+Bywater,Entire home/apt,139,29
+Bywater,Entire home/apt,130,56
+Bywater,Entire home/apt,250,51
+Bywater,Entire home/apt,260,13
+Bywater,Entire home/apt,200,55
+Bywater,Private room,89,212
+Bywater,Entire home/apt,130,0
+Bywater,Entire home/apt,77,111
+Bywater,Entire home/apt,175,22
+Bywater,Entire home/apt,100,45
+Bywater,Entire home/apt,98,3
+Bywater,Private room,65,147
+Bywater,Entire home/apt,96,58
+Bywater,Entire home/apt,800,2
+Bywater,Entire home/apt,160,88
+Bywater,Private room,110,2
+Bywater,Entire home/apt,75,7
+Bywater,Private room,39,2
+Bywater,Private room,70,13
+Bywater,Entire home/apt,153,45
+Bywater,Entire home/apt,117,69
+Bywater,Private room,160,1
+Bywater,Entire home/apt,120,97
+Bywater,Entire home/apt,125,149
+Bywater,Entire home/apt,86,270
+Bywater,Entire home/apt,130,20
+Bywater,Shared room,99,12
+Bywater,Private room,49,9
+Bywater,Entire home/apt,150,4
+Bywater,Entire home/apt,145,3
+Bywater,Private room,55,1
+Bywater,Entire home/apt,165,6
+Bywater,Entire home/apt,195,2
+Bywater,Private room,99,9
+Bywater,Entire home/apt,140,15
+Bywater,Entire home/apt,495,1
+Bywater,Private room,54,4
+Bywater,Entire home/apt,95,18
+Bywater,Entire home/apt,215,47
+Bywater,Entire home/apt,90,4
+Bywater,Entire home/apt,98,88
+Bywater,Entire home/apt,299,6
+Bywater,Entire home/apt,105,4
+Bywater,Entire home/apt,100,2
+Bywater,Entire home/apt,90,7
+Bywater,Entire home/apt,250,33
+Bywater,Entire home/apt,330,2
+Bywater,Entire home/apt,250,6
+Bywater,Entire home/apt,325,1
+Bywater,Entire home/apt,175,49
+Bywater,Entire home/apt,103,39
+Bywater,Entire home/apt,125,17
+Bywater,Entire home/apt,74,40
+Bywater,Private room,300,1
+Bywater,Entire home/apt,350,1
+Bywater,Private room,125,2
+Bywater,Entire home/apt,137,25
+Bywater,Entire home/apt,160,110
+Bywater,Entire home/apt,120,123
+Bywater,Entire home/apt,68,40
+Bywater,Private room,129,86
+Bywater,Private room,65,152
+Bywater,Entire home/apt,180,7
+Bywater,Entire home/apt,159,32
+Bywater,Private room,90,7
+Bywater,Entire home/apt,199,26
+Bywater,Entire home/apt,120,192
+Bywater,Entire home/apt,98,35
+Bywater,Entire home/apt,87,100
+Bywater,Private room,99,124
+Bywater,Entire home/apt,250,36
+Bywater,Entire home/apt,90,29
+Bywater,Entire home/apt,220,8
+Bywater,Entire home/apt,145,29
+Bywater,Entire home/apt,125,0
+Bywater,Entire home/apt,100,216
+Bywater,Entire home/apt,100,22
+Bywater,Entire home/apt,200,24
+Bywater,Private room,36,50
+Bywater,Entire home/apt,100,138
+Bywater,Entire home/apt,225,0
+Bywater,Private room,50,49
+Bywater,Entire home/apt,300,90
+Bywater,Private room,180,0
+Bywater,Entire home/apt,125,0
+Bywater,Entire home/apt,199,30
+Bywater,Entire home/apt,159,87
+Bywater,Entire home/apt,150,39
+Bywater,Entire home/apt,150,26
+Bywater,Entire home/apt,225,3
+Bywater,Entire home/apt,224,118
+Bywater,Private room,109,3
+Bywater,Entire home/apt,100,25
+Bywater,Entire home/apt,149,23
+Bywater,Entire home/apt,130,49
+Bywater,Entire home/apt,290,31
+Bywater,Entire home/apt,115,234
+Bywater,Entire home/apt,250,0
+Bywater,Entire home/apt,65,33
+Bywater,Entire home/apt,250,7
+Bywater,Private room,40,20
+Bywater,Entire home/apt,195,66
+Bywater,Entire home/apt,93,134
+Bywater,Entire home/apt,99,9
+Bywater,Private room,60,17
+Bywater,Entire home/apt,101,0
+Bywater,Entire home/apt,89,29
+Bywater,Private room,80,0
+Bywater,Entire home/apt,100,48
+Bywater,Private room,80,52
+Bywater,Entire home/apt,500,51
+Bywater,Entire home/apt,130,9
+Bywater,Entire home/apt,45,2
+Bywater,Entire home/apt,89,70
+Bywater,Entire home/apt,75,145
+Bywater,Entire home/apt,140,6
+Bywater,Entire home/apt,175,3
+Bywater,Entire home/apt,160,137
+Bywater,Private room,125,161
+Bywater,Entire home/apt,449,31
+Bywater,Private room,89,2
+Bywater,Private room,65,71
+Bywater,Entire home/apt,129,184
+Bywater,Entire home/apt,128,94
+Bywater,Entire home/apt,125,19
+Bywater,Entire home/apt,132,44
+Bywater,Entire home/apt,100,147
+Bywater,Private room,45,191
+Bywater,Entire home/apt,145,10
+Bywater,Entire home/apt,1250,1
+Bywater,Private room,95,63
+Bywater,Entire home/apt,700,0
+Bywater,Private room,109,9
+Bywater,Private room,60,16
+Bywater,Entire home/apt,125,99
+Bywater,Private room,65,1
+Bywater,Private room,75,71
+Bywater,Entire home/apt,150,13
+Bywater,Entire home/apt,130,30
+Bywater,Entire home/apt,260,34
+Bywater,Private room,109,1
+Bywater,Entire home/apt,200,41
+Bywater,Entire home/apt,95,19
+Bywater,Entire home/apt,150,43
+Bywater,Private room,70,17
+Bywater,Entire home/apt,499,10
+Bywater,Entire home/apt,140,65
+Bywater,Entire home/apt,125,10
+Bywater,Entire home/apt,135,33
+Bywater,Entire home/apt,350,11
+Bywater,Private room,55,47
+Bywater,Entire home/apt,70,116
+Bywater,Entire home/apt,105,40
+Bywater,Entire home/apt,125,31
+Bywater,Entire home/apt,132,15
+Bywater,Private room,109,4
+Bywater,Entire home/apt,120,5
+Bywater,Entire home/apt,190,6
+Bywater,Entire home/apt,160,17
+Bywater,Entire home/apt,146,73
+Bywater,Entire home/apt,130,55
+Bywater,Private room,70,1
+Bywater,Private room,55,324
+Bywater,Entire home/apt,125,98
+Bywater,Private room,42,228
+Bywater,Entire home/apt,600,38
+Bywater,Entire home/apt,78,8
+Bywater,Entire home/apt,125,42
+Bywater,Entire home/apt,129,53
+Bywater,Entire home/apt,150,12
+Bywater,Entire home/apt,250,26
+Bywater,Entire home/apt,111,64
+Bywater,Entire home/apt,120,82
+Bywater,Entire home/apt,170,6
+Bywater,Entire home/apt,145,7
+Bywater,Private room,40,213
+Bywater,Entire home/apt,123,81
+Bywater,Entire home/apt,95,278
+Bywater,Entire home/apt,125,2
+Bywater,Entire home/apt,175,76
+Bywater,Private room,85,7
+Bywater,Entire home/apt,120,251
+Bywater,Entire home/apt,75,100
+Bywater,Private room,70,88
+Bywater,Private room,45,104
+Bywater,Private room,36,16
+City Park,Private room,79,40
+City Park,Private room,120,3
+City Park,Entire home/apt,250,0
+City Park,Entire home/apt,125,23
+City Park,Entire home/apt,100,32
+City Park,Entire home/apt,600,26
+City Park,Entire home/apt,250,66
+City Park,Entire home/apt,90,59
+City Park,Entire home/apt,100,8
+City Park,Entire home/apt,100,0
+City Park,Entire home/apt,141,13
+City Park,Entire home/apt,125,5
+City Park,Entire home/apt,175,4
+City Park,Private room,70,2
+City Park,Entire home/apt,99,32
+City Park,Entire home/apt,150,22
+City Park,Entire home/apt,85,53
+City Park,Entire home/apt,600,5
+City Park,Entire home/apt,96,95
+City Park,Entire home/apt,100,8
+City Park,Entire home/apt,350,2
+City Park,Entire home/apt,146,0
+City Park,Private room,80,7
+City Park,Entire home/apt,125,43
+City Park,Entire home/apt,150,0
+City Park,Private room,99,9
+City Park,Private room,500,0
+City Park,Entire home/apt,150,0
+City Park,Entire home/apt,126,1
+City Park,Entire home/apt,200,48
+City Park,Entire home/apt,100,39
+City Park,Entire home/apt,200,2
+City Park,Private room,65,5
+City Park,Entire home/apt,750,0
+City Park,Private room,59,4
+City Park,Entire home/apt,137,3
+City Park,Entire home/apt,300,0
+City Park,Private room,100,3
+City Park,Entire home/apt,125,10
+City Park,Entire home/apt,160,120
+City Park,Entire home/apt,125,65
+City Park,Entire home/apt,150,17
+City Park,Entire home/apt,85,0
+City Park,Entire home/apt,250,0
+City Park,Entire home/apt,300,4
+City Park,Entire home/apt,225,6
+City Park,Entire home/apt,179,49
+City Park,Entire home/apt,89,34
+City Park,Private room,80,5
+City Park,Private room,175,11
+City Park,Entire home/apt,149,1
+City Park,Entire home/apt,110,8
+City Park,Entire home/apt,150,4
+City Park,Entire home/apt,97,33
+City Park,Entire home/apt,125,2
+City Park,Entire home/apt,119,10
+City Park,Entire home/apt,350,6
+City Park,Entire home/apt,300,0
+City Park,Private room,99,0
+City Park,Entire home/apt,120,8
+City Park,Entire home/apt,89,96
+City Park,Entire home/apt,83,91
+City Park,Entire home/apt,169,2
+City Park,Private room,85,9
+City Park,Entire home/apt,145,12
+City Park,Entire home/apt,75,6
+City Park,Entire home/apt,225,0
+City Park,Private room,79,8
+City Park,Entire home/apt,100,38
+City Park,Entire home/apt,247,118
+City Park,Entire home/apt,150,31
+City Park,Shared room,60,2
+City Park,Private room,69,9
+City Park,Private room,75,3
+City Park,Entire home/apt,90,63
+City Park,Private room,50,45
+City Park,Private room,60,5
+City Park,Entire home/apt,300,0
+City Park,Entire home/apt,200,14
+City Park,Entire home/apt,90,3
+City Park,Entire home/apt,200,4
+City Park,Entire home/apt,100,3
+City Park,Entire home/apt,100,0
+Desire Area,Shared room,100,23
+Desire Area,Entire home/apt,200,0
+Desire Area,Private room,50,2
+Desire Area,Entire home/apt,80,13
+Dillard,Entire home/apt,125,0
+Dillard,Entire home/apt,99,3
+Dillard,Private room,59,13
+Dillard,Entire home/apt,120,5
+Dillard,Entire home/apt,300,5
+Dillard,Entire home/apt,200,0
+Dillard,Entire home/apt,200,8
+Dillard,Private room,65,12
+Dillard,Private room,60,101
+Dillard,Entire home/apt,69,18
+Dillard,Private room,48,126
+Dillard,Private room,105,18
+Dillard,Entire home/apt,250,4
+Dillard,Entire home/apt,199,2
+Dillard,Entire home/apt,175,0
+Dillard,Private room,47,128
+Dillard,Private room,149,8
+Freret,Entire home/apt,599,22
+Freret,Entire home/apt,139,0
+Freret,Private room,65,0
+Freret,Entire home/apt,150,16
+Freret,Entire home/apt,225,9
+Freret,Entire home/apt,187,4
+Freret,Entire home/apt,105,8
+Freret,Entire home/apt,75,25
+Freret,Private room,75,11
+Freret,Private room,60,3
+Freret,Entire home/apt,99,5
+Freret,Entire home/apt,150,6
+Freret,Private room,95,66
+Freret,Entire home/apt,139,121
+Freret,Entire home/apt,130,46
+Freret,Entire home/apt,95,12
+Freret,Private room,90,1
+Freret,Private room,75,12
+Freret,Entire home/apt,200,5
+Freret,Entire home/apt,325,1
+Freret,Shared room,60,53
+Freret,Entire home/apt,205,0
+Freret,Entire home/apt,100,2
+Freret,Private room,200,3
+Freret,Entire home/apt,145,34
+Freret,Entire home/apt,129,10
+Freret,Entire home/apt,150,7
+Freret,Private room,90,4
+Freret,Private room,90,4
+Freret,Private room,45,21
+Freret,Entire home/apt,227,2
+Freret,Private room,105,6
+Freret,Private room,60,102
+Freret,Private room,90,15
+Freret,Entire home/apt,125,2
+Dixon,Entire home/apt,95,37
+Dixon,Private room,65,7
+Dixon,Entire home/apt,150,3
+Dixon,Entire home/apt,70,5
+Dixon,Entire home/apt,175,4
+East Carrollton,Entire home/apt,132,8
+East Carrollton,Entire home/apt,250,0
+East Carrollton,Entire home/apt,220,48
+East Carrollton,Entire home/apt,150,8
+East Carrollton,Entire home/apt,85,0
+East Carrollton,Entire home/apt,647,12
+East Carrollton,Private room,50,16
+East Carrollton,Private room,95,50
+East Carrollton,Private room,90,0
+East Carrollton,Private room,70,0
+East Carrollton,Entire home/apt,175,95
+East Carrollton,Private room,40,36
+East Carrollton,Entire home/apt,85,7
+East Carrollton,Entire home/apt,300,1
+East Carrollton,Entire home/apt,120,2
+East Carrollton,Entire home/apt,155,2
+East Carrollton,Entire home/apt,110,50
+East Carrollton,Entire home/apt,125,35
+East Carrollton,Private room,100,3
+East Carrollton,Entire home/apt,80,12
+East Carrollton,Entire home/apt,150,19
+East Carrollton,Entire home/apt,100,53
+East Carrollton,Entire home/apt,129,14
+East Carrollton,Entire home/apt,975,4
+East Carrollton,Private room,200,0
+East Carrollton,Private room,50,4
+East Carrollton,Entire home/apt,275,6
+East Carrollton,Private room,200,5
+East Carrollton,Entire home/apt,165,1
+East Carrollton,Entire home/apt,300,0
+East Carrollton,Entire home/apt,140,0
+East Carrollton,Entire home/apt,295,7
+East Carrollton,Private room,400,1
+East Carrollton,Private room,95,0
+East Carrollton,Entire home/apt,235,10
+East Carrollton,Private room,50,1
+East Carrollton,Entire home/apt,150,4
+East Carrollton,Entire home/apt,239,4
+East Carrollton,Entire home/apt,125,2
+East Carrollton,Entire home/apt,150,0
+East Carrollton,Private room,50,11
+East Carrollton,Private room,51,2
+East Carrollton,Private room,50,2
+East Carrollton,Private room,50,11
+East Carrollton,Entire home/apt,160,11
+East Carrollton,Entire home/apt,150,34
+East Carrollton,Entire home/apt,110,117
+East Carrollton,Entire home/apt,525,42
+East Carrollton,Entire home/apt,125,0
+East Carrollton,Private room,250,0
+East Carrollton,Private room,65,6
+East Carrollton,Shared room,33,34
+East Carrollton,Private room,69,11
+East Carrollton,Private room,39,4
+East Carrollton,Entire home/apt,120,7
+East Carrollton,Entire home/apt,150,0
+East Carrollton,Private room,100,76
+East Carrollton,Private room,42,13
+East Carrollton,Entire home/apt,170,28
+East Carrollton,Entire home/apt,90,3
+East Carrollton,Entire home/apt,250,5
+East Carrollton,Entire home/apt,325,1
+East Carrollton,Private room,100,7
+East Carrollton,Private room,120,9
+East Carrollton,Entire home/apt,109,3
+East Carrollton,Private room,49,5
+East Carrollton,Entire home/apt,250,7
+East Riverside,Entire home/apt,295,2
+East Riverside,Entire home/apt,200,8
+East Riverside,Entire home/apt,900,0
+East Riverside,Entire home/apt,100,5
+East Riverside,Entire home/apt,250,8
+East Riverside,Private room,90,8
+East Riverside,Entire home/apt,250,85
+East Riverside,Entire home/apt,200,29
+East Riverside,Entire home/apt,375,0
+East Riverside,Entire home/apt,850,13
+East Riverside,Entire home/apt,110,61
+East Riverside,Entire home/apt,195,14
+East Riverside,Private room,58,119
+East Riverside,Entire home/apt,170,6
+East Riverside,Private room,105,2
+East Riverside,Entire home/apt,195,12
+East Riverside,Entire home/apt,200,5
+East Riverside,Entire home/apt,75,81
+East Riverside,Entire home/apt,110,23
+East Riverside,Entire home/apt,160,39
+East Riverside,Entire home/apt,81,0
+East Riverside,Entire home/apt,980,0
+East Riverside,Private room,65,12
+East Riverside,Entire home/apt,200,5
+East Riverside,Entire home/apt,125,6
+East Riverside,Entire home/apt,250,9
+East Riverside,Entire home/apt,79,70
+East Riverside,Private room,94,10
+East Riverside,Private room,75,9
+East Riverside,Entire home/apt,95,14
+East Riverside,Private room,400,0
+East Riverside,Entire home/apt,395,0
+East Riverside,Entire home/apt,200,0
+East Riverside,Private room,75,5
+East Riverside,Entire home/apt,250,38
+East Riverside,Entire home/apt,99,93
+East Riverside,Entire home/apt,192,85
+East Riverside,Private room,800,0
+East Riverside,Entire home/apt,54,48
+East Riverside,Entire home/apt,125,56
+East Riverside,Entire home/apt,70,101
+East Riverside,Private room,150,1
+East Riverside,Entire home/apt,165,20
+East Riverside,Entire home/apt,99,117
+East Riverside,Entire home/apt,101,4
+East Riverside,Private room,100,19
+East Riverside,Entire home/apt,160,104
+East Riverside,Private room,225,2
+East Riverside,Entire home/apt,110,20
+East Riverside,Private room,65,52
+East Riverside,Entire home/apt,350,3
+East Riverside,Entire home/apt,100,31
+East Riverside,Entire home/apt,1250,4
+East Riverside,Entire home/apt,230,84
+East Riverside,Entire home/apt,75,77
+East Riverside,Entire home/apt,150,2
+East Riverside,Entire home/apt,39,49
+East Riverside,Entire home/apt,95,5
+East Riverside,Entire home/apt,125,12
+East Riverside,Private room,80,6
+East Riverside,Entire home/apt,119,21
+East Riverside,Entire home/apt,80,121
+East Riverside,Entire home/apt,100,6
+East Riverside,Entire home/apt,110,10
+East Riverside,Entire home/apt,199,0
+East Riverside,Entire home/apt,300,0
+East Riverside,Entire home/apt,175,31
+East Riverside,Entire home/apt,99,0
+East Riverside,Private room,105,35
+East Riverside,Private room,120,33
+East Riverside,Entire home/apt,79,69
+East Riverside,Entire home/apt,225,6
+East Riverside,Entire home/apt,300,11
+East Riverside,Entire home/apt,250,21
+East Riverside,Entire home/apt,200,60
+East Riverside,Entire home/apt,100,61
+East Riverside,Entire home/apt,175,7
+East Riverside,Private room,75,13
+East Riverside,Entire home/apt,275,15
+East Riverside,Entire home/apt,227,4
+East Riverside,Private room,70,24
+East Riverside,Entire home/apt,300,3
+East Riverside,Private room,75,10
+East Riverside,Entire home/apt,125,5
+East Riverside,Entire home/apt,99,34
+East Riverside,Private room,75,8
+East Riverside,Entire home/apt,150,6
+East Riverside,Private room,115,13
+East Riverside,Entire home/apt,250,2
+East Riverside,Private room,119,1
+East Riverside,Entire home/apt,375,31
+East Riverside,Private room,82,13
+East Riverside,Entire home/apt,495,16
+Fairgrounds,Private room,53,32
+Fairgrounds,Private room,75,0
+Fairgrounds,Private room,65,4
+Fairgrounds,Entire home/apt,150,47
+Fairgrounds,Private room,60,22
+Fairgrounds,Entire home/apt,229,36
+Fairgrounds,Entire home/apt,400,0
+Fairgrounds,Entire home/apt,150,0
+Fairgrounds,Entire home/apt,125,0
+Fairgrounds,Entire home/apt,145,3
+Fairgrounds,Entire home/apt,75,15
+Fairgrounds,Entire home/apt,73,36
+Fairgrounds,Private room,99,26
+Fairgrounds,Entire home/apt,160,20
+Fairgrounds,Private room,51,2
+Fairgrounds,Private room,36,2
+Fairgrounds,Entire home/apt,140,4
+Fairgrounds,Entire home/apt,65,74
+Fairgrounds,Entire home/apt,100,11
+Fairgrounds,Private room,150,0
+Fairgrounds,Private room,150,3
+Fairgrounds,Private room,55,1
+Fairgrounds,Entire home/apt,179,1
+Fairgrounds,Entire home/apt,99,73
+Fairgrounds,Entire home/apt,122,16
+Fairgrounds,Entire home/apt,175,6
+Fairgrounds,Shared room,152,34
+Fairgrounds,Entire home/apt,100,1
+Fairgrounds,Entire home/apt,150,4
+Fairgrounds,Entire home/apt,150,11
+Fairgrounds,Entire home/apt,525,3
+Fairgrounds,Entire home/apt,125,33
+Fairgrounds,Entire home/apt,90,29
+Fairgrounds,Entire home/apt,175,15
+Fairgrounds,Entire home/apt,150,32
+Fairgrounds,Private room,120,0
+Fairgrounds,Entire home/apt,80,71
+Fairgrounds,Entire home/apt,150,71
+Fairgrounds,Entire home/apt,250,0
+Fairgrounds,Entire home/apt,100,105
+Fairgrounds,Private room,55,11
+Fairgrounds,Private room,100,0
+Fairgrounds,Entire home/apt,105,0
+Fairgrounds,Entire home/apt,150,9
+Fairgrounds,Entire home/apt,95,2
+Fairgrounds,Entire home/apt,80,123
+Fairgrounds,Private room,88,31
+Fairgrounds,Private room,75,4
+Fairgrounds,Entire home/apt,195,10
+Fairgrounds,Entire home/apt,275,11
+Fairgrounds,Entire home/apt,100,0
+Fairgrounds,Private room,300,1
+Fairgrounds,Private room,35,318
+Fairgrounds,Entire home/apt,75,19
+Fairgrounds,Entire home/apt,115,3
+Fairgrounds,Entire home/apt,300,24
+Fairgrounds,Private room,75,0
+Fairgrounds,Entire home/apt,200,15
+Fairgrounds,Private room,60,300
+Fairgrounds,Entire home/apt,153,4
+Fairgrounds,Private room,30,6
+Fairgrounds,Entire home/apt,215,3
+Fairgrounds,Entire home/apt,400,0
+Fairgrounds,Private room,160,0
+Fairgrounds,Entire home/apt,850,0
+Fairgrounds,Private room,49,21
+Fairgrounds,Entire home/apt,75,18
+Fairgrounds,Private room,89,9
+Fairgrounds,Entire home/apt,175,6
+Fairgrounds,Private room,42,10
+Fairgrounds,Private room,75,14
+Fairgrounds,Entire home/apt,199,35
+Fairgrounds,Entire home/apt,85,96
+Fairgrounds,Entire home/apt,79,1
+Fairgrounds,Entire home/apt,89,163
+Fairgrounds,Private room,50,21
+Fairgrounds,Private room,50,10
+Fairgrounds,Entire home/apt,60,196
+Fairgrounds,Private room,120,4
+Fairgrounds,Entire home/apt,400,0
+Fairgrounds,Entire home/apt,400,14
+Fairgrounds,Entire home/apt,120,170
+Fairgrounds,Entire home/apt,300,0
+Fairgrounds,Entire home/apt,349,35
+Fairgrounds,Entire home/apt,500,0
+Fairgrounds,Entire home/apt,115,26
+Fairgrounds,Private room,65,24
+Fairgrounds,Entire home/apt,125,9
+Fairgrounds,Private room,45,55
+Fairgrounds,Private room,100,21
+Fairgrounds,Private room,60,55
+Fairgrounds,Private room,200,6
+Fairgrounds,Entire home/apt,250,0
+Fairgrounds,Private room,80,2
+Fairgrounds,Entire home/apt,150,13
+Fairgrounds,Entire home/apt,49,33
+Fairgrounds,Entire home/apt,175,9
+Fairgrounds,Entire home/apt,300,0
+Fairgrounds,Entire home/apt,150,44
+Fairgrounds,Private room,75,12
+Fairgrounds,Entire home/apt,150,9
+Fairgrounds,Private room,75,7
+Fairgrounds,Entire home/apt,399,9
+Fairgrounds,Private room,64,113
+Fairgrounds,Private room,100,4
+Fairgrounds,Private room,75,14
+Fairgrounds,Entire home/apt,104,20
+Fairgrounds,Entire home/apt,75,19
+Fairgrounds,Entire home/apt,125,33
+Fairgrounds,Private room,105,0
+Fairgrounds,Entire home/apt,250,0
+Fairgrounds,Entire home/apt,105,34
+Fairgrounds,Private room,85,2
+Fairgrounds,Entire home/apt,275,0
+Fairgrounds,Entire home/apt,990,37
+Fairgrounds,Entire home/apt,200,6
+Fairgrounds,Entire home/apt,80,21
+Fairgrounds,Entire home/apt,250,0
+Fairgrounds,Entire home/apt,600,2
+Fairgrounds,Entire home/apt,102,13
+Fairgrounds,Entire home/apt,75,0
+Fairgrounds,Entire home/apt,150,2
+Fairgrounds,Entire home/apt,74,30
+Fairgrounds,Entire home/apt,80,0
+Fairgrounds,Entire home/apt,200,21
+Fairgrounds,Entire home/apt,425,1
+Fairgrounds,Entire home/apt,100,34
+Fairgrounds,Private room,85,60
+Fairgrounds,Private room,75,0
+Fairgrounds,Entire home/apt,243,2
+Fairgrounds,Entire home/apt,300,0
+Fairgrounds,Private room,85,59
+Fairgrounds,Entire home/apt,450,0
+Fairgrounds,Entire home/apt,79,45
+Fairgrounds,Entire home/apt,115,0
+Fairgrounds,Entire home/apt,225,24
+Fairgrounds,Private room,175,3
+Fairgrounds,Private room,210,0
+Fairgrounds,Entire home/apt,80,29
+Fairgrounds,Entire home/apt,225,3
+Fairgrounds,Private room,50,34
+Fairgrounds,Entire home/apt,175,1
+Fairgrounds,Entire home/apt,200,23
+Fairgrounds,Private room,120,1
+Fairgrounds,Entire home/apt,75,1
+Fairgrounds,Private room,275,2
+Fairgrounds,Entire home/apt,150,4
+Fairgrounds,Entire home/apt,700,0
+Fairgrounds,Entire home/apt,799,9
+Fairgrounds,Entire home/apt,335,24
+Fairgrounds,Private room,85,152
+Fairgrounds,Entire home/apt,109,107
+Fairgrounds,Entire home/apt,250,0
+Fairgrounds,Entire home/apt,300,3
+Fairgrounds,Entire home/apt,79,24
+Fairgrounds,Entire home/apt,200,0
+Fairgrounds,Entire home/apt,750,0
+Fairgrounds,Entire home/apt,500,0
+Fairgrounds,Entire home/apt,750,1
+Fairgrounds,Entire home/apt,250,101
+Fairgrounds,Private room,115,60
+Fairgrounds,Entire home/apt,200,4
+Fairgrounds,Entire home/apt,100,1
+Fairgrounds,Entire home/apt,500,7
+Fairgrounds,Entire home/apt,275,6
+Fairgrounds,Entire home/apt,70,90
+Fairgrounds,Entire home/apt,250,0
+Fairgrounds,Entire home/apt,150,0
+Fairgrounds,Entire home/apt,119,8
+Fairgrounds,Entire home/apt,180,35
+Fairgrounds,Entire home/apt,250,2
+Fairgrounds,Private room,84,24
+Florida Area,Private room,18,0
+Florida Area,Entire home/apt,69,1
+Florida Area,Entire home/apt,154,3
+Gentilly Terrace,Entire home/apt,75,18
+Gentilly Terrace,Entire home/apt,600,0
+Gentilly Terrace,Private room,50,92
+Gentilly Terrace,Private room,85,20
+Gentilly Terrace,Entire home/apt,49,104
+Gentilly Terrace,Private room,60,26
+Gentilly Terrace,Private room,50,7
+Gentilly Terrace,Entire home/apt,330,1
+Gentilly Terrace,Private room,65,11
+Gentilly Terrace,Entire home/apt,215,11
+Gentilly Terrace,Private room,69,7
+Gentilly Terrace,Entire home/apt,150,2
+Gentilly Terrace,Private room,70,3
+Gentilly Terrace,Entire home/apt,99,53
+Gentilly Terrace,Entire home/apt,300,19
+Gentilly Terrace,Private room,150,1
+Gentilly Terrace,Private room,54,53
+Gentilly Terrace,Entire home/apt,200,10
+Gentilly Terrace,Entire home/apt,85,0
+Gentilly Terrace,Entire home/apt,75,20
+Gentilly Terrace,Entire home/apt,99,41
+Gentilly Terrace,Private room,75,3
+Gentilly Terrace,Entire home/apt,340,4
+Gentilly Terrace,Entire home/apt,325,34
+Gentilly Terrace,Private room,53,2
+Gentilly Terrace,Private room,59,42
+Gentilly Terrace,Private room,45,171
+Gentilly Terrace,Entire home/apt,350,5
+Gentilly Terrace,Entire home/apt,695,0
+Gentilly Terrace,Entire home/apt,109,9
+Gentilly Terrace,Entire home/apt,90,8
+Gentilly Terrace,Private room,40,82
+Gentilly Terrace,Entire home/apt,495,19
+Gentilly Terrace,Private room,49,8
+Gentilly Terrace,Private room,425,0
+Gentilly Terrace,Private room,22,23
+Gentilly Terrace,Entire home/apt,175,2
+Gentilly Terrace,Private room,75,0
+Gentilly Terrace,Entire home/apt,81,17
+Gentilly Terrace,Private room,60,4
+Gentilly Terrace,Entire home/apt,225,5
+Gentilly Terrace,Entire home/apt,200,0
+Gentilly Terrace,Private room,69,39
+Gentilly Terrace,Private room,80,2
+Gentilly Terrace,Entire home/apt,400,0
+Gentilly Terrace,Entire home/apt,100,0
+Gentilly Terrace,Entire home/apt,200,6
+Gentilly Terrace,Private room,59,15
+Gentilly Terrace,Private room,68,5
+Gentilly Terrace,Private room,89,25
+Gentilly Terrace,Private room,69,0
+Gentilly Terrace,Entire home/apt,95,8
+Gentilly Terrace,Entire home/apt,150,1
+Gentilly Terrace,Entire home/apt,95,10
+Gentilly Terrace,Entire home/apt,110,8
+Gentilly Terrace,Entire home/apt,100,13
+Gentilly Terrace,Private room,64,4
+Gentilly Terrace,Entire home/apt,99,6
+Gentilly Terrace,Entire home/apt,250,0
+Gentilly Terrace,Entire home/apt,250,2
+Gentilly Terrace,Private room,38,25
+Gentilly Woods,Private room,90,0
+Gentilly Woods,Private room,85,5
+Gentilly Woods,Entire home/apt,160,3
+Gentilly Woods,Entire home/apt,275,6
+Gentilly Woods,Private room,185,0
+Gentilly Woods,Entire home/apt,200,1
+Gentilly Woods,Entire home/apt,180,10
+Gentilly Woods,Entire home/apt,800,0
+Milneburg,Private room,39,0
+Milneburg,Entire home/apt,80,4
+Milneburg,Entire home/apt,162,18
+Milneburg,Private room,50,26
+Milneburg,Entire home/apt,134,46
+Milneburg,Private room,195,1
+Milneburg,Entire home/apt,300,2
+Milneburg,Private room,38,48
+Milneburg,Private room,48,66
+Milneburg,Entire home/apt,77,25
+Milneburg,Private room,100,11
+Milneburg,Entire home/apt,58,4
+Milneburg,Private room,50,7
+Milneburg,Entire home/apt,65,1
+Milneburg,Entire home/apt,156,7
+Milneburg,Entire home/apt,150,9
+Milneburg,Private room,65,19
+Milneburg,Private room,39,3
+Milneburg,Private room,100,1
+Milneburg,Private room,50,27
+Milneburg,Entire home/apt,99,11
+Milneburg,Entire home/apt,98,27
+Milneburg,Private room,68,43
+Milneburg,Entire home/apt,75,8
+Milneburg,Private room,58,41
+Milneburg,Private room,75,16
+Milneburg,Private room,50,20
+Milneburg,Private room,65,9
+Milneburg,Entire home/apt,350,21
+Gert Town,Entire home/apt,250,2
+Gert Town,Entire home/apt,125,1
+Gert Town,Entire home/apt,55,28
+Gert Town,Private room,32,28
+Gert Town,Private room,36,17
+Gert Town,Private room,60,20
+Gert Town,Private room,100,3
+Hollygrove,Entire home/apt,150,3
+Hollygrove,Entire home/apt,285,5
+Hollygrove,Private room,80,11
+Hollygrove,Entire home/apt,390,19
+Hollygrove,Entire home/apt,450,0
+Hollygrove,Entire home/apt,250,3
+Hollygrove,Entire home/apt,275,31
+Hollygrove,Entire home/apt,129,26
+Hollygrove,Entire home/apt,250,2
+Irish Channel,Entire home/apt,1111,0
+Irish Channel,Private room,70,29
+Irish Channel,Entire home/apt,160,50
+Irish Channel,Entire home/apt,125,14
+Irish Channel,Private room,100,3
+Irish Channel,Private room,90,2
+Irish Channel,Entire home/apt,98,65
+Irish Channel,Private room,55,35
+Irish Channel,Entire home/apt,135,87
+Irish Channel,Entire home/apt,100,0
+Irish Channel,Entire home/apt,125,65
+Irish Channel,Entire home/apt,200,118
+Irish Channel,Entire home/apt,250,6
+Irish Channel,Entire home/apt,100,4
+Irish Channel,Private room,300,0
+Irish Channel,Entire home/apt,154,15
+Irish Channel,Private room,75,4
+Irish Channel,Entire home/apt,130,25
+Irish Channel,Entire home/apt,75,223
+Irish Channel,Private room,95,76
+Irish Channel,Entire home/apt,180,13
+Irish Channel,Entire home/apt,91,127
+Irish Channel,Entire home/apt,200,9
+Irish Channel,Private room,85,28
+Irish Channel,Entire home/apt,365,0
+Irish Channel,Private room,85,0
+Irish Channel,Entire home/apt,110,67
+Irish Channel,Entire home/apt,395,20
+Irish Channel,Entire home/apt,100,81
+Irish Channel,Entire home/apt,99,24
+Irish Channel,Entire home/apt,250,4
+Irish Channel,Entire home/apt,400,6
+Irish Channel,Entire home/apt,95,22
+Irish Channel,Entire home/apt,175,3
+Irish Channel,Entire home/apt,175,13
+Irish Channel,Entire home/apt,99,35
+Irish Channel,Private room,100,1
+Irish Channel,Entire home/apt,450,19
+Irish Channel,Entire home/apt,250,3
+Irish Channel,Entire home/apt,160,8
+Irish Channel,Entire home/apt,200,81
+Irish Channel,Entire home/apt,225,58
+Irish Channel,Entire home/apt,99,113
+Irish Channel,Private room,60,72
+Irish Channel,Entire home/apt,150,0
+Irish Channel,Private room,50,9
+Irish Channel,Entire home/apt,125,43
+Irish Channel,Entire home/apt,80,3
+Irish Channel,Entire home/apt,75,4
+Irish Channel,Entire home/apt,130,2
+Irish Channel,Entire home/apt,90,103
+Irish Channel,Entire home/apt,87,81
+Irish Channel,Private room,125,1
+Irish Channel,Private room,66,17
+Irish Channel,Entire home/apt,129,67
+Irish Channel,Entire home/apt,99,9
+Irish Channel,Private room,43,107
+Irish Channel,Private room,63,9
+Irish Channel,Entire home/apt,268,4
+Irish Channel,Entire home/apt,100,12
+Irish Channel,Entire home/apt,112,64
+Irish Channel,Entire home/apt,65,33
+Irish Channel,Entire home/apt,100,16
+Irish Channel,Entire home/apt,125,10
+Irish Channel,Private room,125,10
+Irish Channel,Private room,155,0
+Irish Channel,Entire home/apt,295,56
+Irish Channel,Entire home/apt,100,14
+Irish Channel,Entire home/apt,99,282
+Irish Channel,Entire home/apt,90,121
+Irish Channel,Entire home/apt,70,46
+Irish Channel,Entire home/apt,95,2
+Irish Channel,Entire home/apt,125,12
+Irish Channel,Entire home/apt,275,19
+Irish Channel,Entire home/apt,210,3
+Irish Channel,Entire home/apt,500,1
+Irish Channel,Entire home/apt,125,7
+Irish Channel,Entire home/apt,95,9
+Irish Channel,Entire home/apt,130,2
+Irish Channel,Private room,100,13
+Irish Channel,Entire home/apt,175,36
+Irish Channel,Private room,85,9
+Irish Channel,Entire home/apt,225,8
+Irish Channel,Entire home/apt,349,0
+Irish Channel,Entire home/apt,180,3
+Irish Channel,Private room,100,5
+Irish Channel,Entire home/apt,129,105
+Irish Channel,Entire home/apt,100,12
+Irish Channel,Entire home/apt,680,22
+Irish Channel,Entire home/apt,600,21
+Irish Channel,Entire home/apt,99,69
+Irish Channel,Entire home/apt,80,9
+Irish Channel,Entire home/apt,126,4
+Irish Channel,Entire home/apt,93,51
+Irish Channel,Entire home/apt,96,10
+Irish Channel,Entire home/apt,400,3
+Irish Channel,Private room,118,55
+Irish Channel,Entire home/apt,250,9
+Irish Channel,Entire home/apt,369,1
+Irish Channel,Entire home/apt,129,16
+Irish Channel,Entire home/apt,175,80
+Irish Channel,Entire home/apt,99,28
+Irish Channel,Entire home/apt,145,1
+Irish Channel,Entire home/apt,160,7
+Lake Catherine,Entire home/apt,246,4
+Lake Catherine,Entire home/apt,265,1
+Lake Catherine,Entire home/apt,375,0
+Navarre,Entire home/apt,135,15
+Navarre,Entire home/apt,70,0
+Navarre,Entire home/apt,450,5
+Navarre,Entire home/apt,85,77
+Navarre,Private room,175,2
+Navarre,Entire home/apt,150,18
+Navarre,Private room,172,6
+Navarre,Entire home/apt,245,0
+Navarre,Entire home/apt,150,2
+Navarre,Entire home/apt,400,76
+Navarre,Entire home/apt,115,14
+Navarre,Entire home/apt,205,0
+Navarre,Entire home/apt,88,17
+Navarre,Private room,80,0
+Navarre,Private room,45,21
+Navarre,Entire home/apt,225,1
+Navarre,Private room,60,1
+Navarre,Entire home/apt,110,0
+Navarre,Entire home/apt,300,0
+Navarre,Entire home/apt,89,77
+Lakeshore - Lake Vista,Entire home/apt,325,45
+Lakeshore - Lake Vista,Private room,150,0
+Lakeshore - Lake Vista,Entire home/apt,200,2
+Lake Terrace & Oaks,Entire home/apt,69,0
+Lake Terrace & Oaks,Entire home/apt,2499,0
+Lake Terrace & Oaks,Private room,800,0
+Lake Terrace & Oaks,Private room,50,85
+Lake Terrace & Oaks,Entire home/apt,1350,1
+Lake Terrace & Oaks,Private room,50,80
+Lake Terrace & Oaks,Entire home/apt,375,1
+Lakeview,Private room,200,0
+Lakeview,Private room,79,195
+Lakeview,Entire home/apt,350,0
+Lakeview,Private room,99,40
+Lakeview,Entire home/apt,152,48
+Lakeview,Entire home/apt,250,5
+Lakeview,Entire home/apt,94,86
+Lakeview,Private room,65,3
+Lakeview,Entire home/apt,200,0
+Lakeview,Entire home/apt,90,4
+Lakeview,Private room,189,7
+Lakeview,Entire home/apt,200,75
+Lakeview,Private room,68,26
+Lakeview,Private room,80,22
+Lakeview,Entire home/apt,120,2
+Lakeview,Private room,70,6
+Lakeview,Entire home/apt,90,87
+Lakeview,Entire home/apt,499,0
+Lakeview,Entire home/apt,400,8
+Lakeview,Entire home/apt,1800,0
+Lakeview,Entire home/apt,375,0
+Lakeview,Entire home/apt,350,0
+Lakeview,Entire home/apt,165,9
+Lakeview,Private room,110,9
+Lakeview,Entire home/apt,110,17
+Lakeview,Entire home/apt,350,0
+Lakeview,Entire home/apt,113,7
+Lakeview,Private room,125,6
+Lakeview,Entire home/apt,375,0
+Lakeview,Private room,299,0
+Lakeview,Entire home/apt,275,26
+Lakeview,Entire home/apt,375,1
+Lakeview,Private room,299,0
+Lakeview,Private room,45,5
+Lakeview,Entire home/apt,199,0
+Lakeview,Entire home/apt,89,95
+Lakeview,Private room,35,12
+Lakewood,Entire home/apt,195,8
+Lakewood,Entire home/apt,450,5
+Lakewood,Entire home/apt,225,1
+Lakewood,Entire home/apt,500,0
+St. Thomas Dev,Entire home/apt,399,38
+St. Thomas Dev,Entire home/apt,399,14
+St. Thomas Dev,Entire home/apt,165,6
+St. Thomas Dev,Entire home/apt,179,44
+St. Thomas Dev,Entire home/apt,299,10
+St. Thomas Dev,Entire home/apt,250,3
+St. Thomas Dev,Entire home/apt,88,22
+St. Thomas Dev,Entire home/apt,120,0
+St. Thomas Dev,Entire home/apt,169,3
+St. Thomas Dev,Private room,70,0
+St. Thomas Dev,Entire home/apt,300,11
+St. Thomas Dev,Entire home/apt,109,70
+St. Thomas Dev,Entire home/apt,135,129
+St. Thomas Dev,Entire home/apt,400,26
+St. Thomas Dev,Entire home/apt,395,11
+St. Thomas Dev,Entire home/apt,350,5
+St. Thomas Dev,Entire home/apt,165,45
+St. Thomas Dev,Entire home/apt,125,140
+St. Thomas Dev,Entire home/apt,190,11
+St. Thomas Dev,Private room,115,3
+St. Thomas Dev,Entire home/apt,119,71
+St. Thomas Dev,Entire home/apt,168,9
+St. Thomas Dev,Private room,58,13
+St. Thomas Dev,Entire home/apt,300,13
+St. Thomas Dev,Entire home/apt,99,91
+St. Thomas Dev,Private room,75,12
+St. Thomas Dev,Private room,75,73
+St. Thomas Dev,Entire home/apt,375,15
+St. Thomas Dev,Entire home/apt,149,34
+St. Thomas Dev,Entire home/apt,180,8
+St. Thomas Dev,Entire home/apt,89,9
+St. Thomas Dev,Entire home/apt,275,6
+St. Thomas Dev,Private room,50,8
+St. Thomas Dev,Entire home/apt,169,5
+St. Thomas Dev,Entire home/apt,300,45
+St. Thomas Dev,Entire home/apt,99,12
+St. Thomas Dev,Entire home/apt,138,13
+St. Thomas Dev,Entire home/apt,145,33
+St. Thomas Dev,Entire home/apt,109,0
+St. Thomas Dev,Entire home/apt,149,0
+St. Thomas Dev,Entire home/apt,311,0
+St. Thomas Dev,Entire home/apt,133,68
+St. Thomas Dev,Entire home/apt,400,35
+St. Thomas Dev,Entire home/apt,169,63
+St. Thomas Dev,Entire home/apt,150,47
+St. Thomas Dev,Entire home/apt,111,136
+St. Thomas Dev,Entire home/apt,179,54
+St. Thomas Dev,Entire home/apt,100,28
+St. Thomas Dev,Entire home/apt,125,47
+St. Thomas Dev,Entire home/apt,865,12
+St. Thomas Dev,Entire home/apt,75,7
+West End,Entire home/apt,150,2
+West End,Entire home/apt,150,45
+West End,Entire home/apt,110,6
+West End,Private room,55,87
+West End,Entire home/apt,150,9
+West End,Entire home/apt,600,0
+West End,Entire home/apt,91,8
+West End,Entire home/apt,600,1
+West End,Private room,75,8
+West End,Private room,150,0
+West End,Private room,80,0
+West End,Entire home/apt,350,11
+Mcdonogh,Private room,79,18
+Mcdonogh,Private room,46,19
+Mcdonogh,Entire home/apt,90,45
+Mcdonogh,Entire home/apt,85,6
+Mcdonogh,Private room,89,2
+Mcdonogh,Entire home/apt,84,6
+Mcdonogh,Entire home/apt,75,5
+Mcdonogh,Entire home/apt,250,15
+Mcdonogh,Entire home/apt,121,33
+Mcdonogh,Entire home/apt,300,5
+Mcdonogh,Entire home/apt,225,1
+Mcdonogh,Entire home/apt,225,1
+Mcdonogh,Private room,75,3
+Mcdonogh,Entire home/apt,85,45
+Mcdonogh,Entire home/apt,295,4
+Mcdonogh,Entire home/apt,92,38
+Mcdonogh,Entire home/apt,95,6
+Leonidas,Entire home/apt,195,2
+Leonidas,Entire home/apt,400,4
+Leonidas,Entire home/apt,79,29
+Leonidas,Private room,35,42
+Leonidas,Entire home/apt,115,77
+Leonidas,Entire home/apt,149,11
+Leonidas,Entire home/apt,60,32
+Leonidas,Entire home/apt,86,37
+Leonidas,Private room,50,16
+Leonidas,Entire home/apt,150,2
+Leonidas,Entire home/apt,150,4
+Leonidas,Private room,75,11
+Leonidas,Entire home/apt,98,62
+Leonidas,Private room,21,61
+Leonidas,Entire home/apt,325,5
+Leonidas,Entire home/apt,135,6
+Leonidas,Entire home/apt,79,9
+Leonidas,Entire home/apt,150,0
+Leonidas,Entire home/apt,150,7
+Leonidas,Private room,54,40
+Leonidas,Private room,69,16
+Leonidas,Entire home/apt,95,12
+Leonidas,Entire home/apt,150,0
+Leonidas,Entire home/apt,250,0
+Leonidas,Private room,125,0
+Leonidas,Entire home/apt,55,43
+Leonidas,Entire home/apt,250,3
+Leonidas,Shared room,20,147
+Leonidas,Private room,75,18
+Leonidas,Private room,130,12
+Leonidas,Private room,125,1
+Leonidas,Shared room,22,83
+Leonidas,Entire home/apt,99,80
+Leonidas,Private room,125,1
+Leonidas,Private room,125,4
+Leonidas,Entire home/apt,85,88
+Leonidas,Entire home/apt,145,1
+Leonidas,Entire home/apt,175,31
+Leonidas,Entire home/apt,70,9
+Leonidas,Entire home/apt,75,5
+Leonidas,Entire home/apt,80,8
+Leonidas,Entire home/apt,400,68
+Leonidas,Entire home/apt,69,54
+Leonidas,Entire home/apt,395,0
+Leonidas,Entire home/apt,130,7
+Leonidas,Entire home/apt,100,2
+Leonidas,Entire home/apt,77,2
+Leonidas,Private room,50,7
+Leonidas,Entire home/apt,32,13
+Leonidas,Private room,59,147
+Leonidas,Entire home/apt,120,25
+Leonidas,Entire home/apt,198,11
+Leonidas,Entire home/apt,200,7
+Leonidas,Entire home/apt,120,38
+Leonidas,Entire home/apt,125,4
+Leonidas,Private room,40,16
+Leonidas,Entire home/apt,129,98
+Leonidas,Private room,70,13
+Leonidas,Private room,49,80
+Leonidas,Entire home/apt,155,0
+Leonidas,Entire home/apt,95,34
+Leonidas,Entire home/apt,800,8
+Leonidas,Private room,45,6
+Leonidas,Entire home/apt,150,18
+Leonidas,Entire home/apt,150,6
+Leonidas,Entire home/apt,299,4
+Leonidas,Entire home/apt,49,46
+Leonidas,Shared room,45,3
+Leonidas,Entire home/apt,225,0
+Leonidas,Entire home/apt,150,19
+Leonidas,Private room,45,54
+Leonidas,Entire home/apt,126,4
+Leonidas,Entire home/apt,150,3
+Leonidas,Entire home/apt,84,30
+Leonidas,Private room,34,0
+Leonidas,Entire home/apt,105,63
+Leonidas,Entire home/apt,185,5
+Leonidas,Entire home/apt,80,10
+Leonidas,Entire home/apt,79,31
+Leonidas,Entire home/apt,150,65
+Leonidas,Entire home/apt,499,35
+Leonidas,Entire home/apt,75,89
+Leonidas,Private room,27,0
+Leonidas,Entire home/apt,1200,0
+Leonidas,Entire home/apt,77,0
+Leonidas,Private room,50,5
+Leonidas,Entire home/apt,94,35
+Leonidas,Private room,29,42
+Leonidas,Private room,150,4
+Leonidas,Private room,100,5
+Leonidas,Entire home/apt,150,61
+Leonidas,Private room,22,55
+Leonidas,Private room,69,2
+Leonidas,Entire home/apt,225,7
+Leonidas,Entire home/apt,291,1
+Leonidas,Entire home/apt,155,20
+Leonidas,Entire home/apt,99,53
+Leonidas,Private room,325,0
+Leonidas,Entire home/apt,200,41
+Leonidas,Private room,50,3
+Leonidas,Entire home/apt,79,5
+Leonidas,Private room,35,229
+Leonidas,Private room,69,36
+Leonidas,Entire home/apt,175,5
+Leonidas,Entire home/apt,87,1
+Leonidas,Entire home/apt,80,0
+Leonidas,Entire home/apt,90,30
+Leonidas,Entire home/apt,161,26
+Leonidas,Entire home/apt,132,77
+Leonidas,Entire home/apt,79,41
+Leonidas,Entire home/apt,120,6
+Leonidas,Entire home/apt,79,6
+Leonidas,Private room,60,4
+Leonidas,Entire home/apt,800,15
+Leonidas,Entire home/apt,80,6
+Leonidas,Entire home/apt,300,0
+Leonidas,Shared room,20,170
+Leonidas,Entire home/apt,100,27
+Leonidas,Entire home/apt,150,0
+Leonidas,Entire home/apt,120,1
+Leonidas,Entire home/apt,95,34
+Leonidas,Entire home/apt,165,0
+Leonidas,Entire home/apt,60,34
+Leonidas,Entire home/apt,177,2
+Leonidas,Entire home/apt,350,2
+Leonidas,Entire home/apt,80,18
+Leonidas,Entire home/apt,250,1
+Leonidas,Entire home/apt,175,20
+Leonidas,Entire home/apt,115,6
+Leonidas,Entire home/apt,99,4
+Leonidas,Entire home/apt,75,0
+Leonidas,Entire home/apt,79,24
+Leonidas,Entire home/apt,80,34
+Leonidas,Private room,45,7
+Leonidas,Entire home/apt,79,33
+Leonidas,Entire home/apt,149,13
+Leonidas,Private room,39,0
+Leonidas,Entire home/apt,79,41
+Leonidas,Private room,200,1
+Leonidas,Entire home/apt,299,1
+Leonidas,Private room,40,270
+Leonidas,Private room,63,25
+Leonidas,Entire home/apt,89,10
+Leonidas,Entire home/apt,395,0
+Leonidas,Private room,50,10
+Leonidas,Entire home/apt,100,298
+Leonidas,Entire home/apt,75,8
+Leonidas,Private room,40,1
+Leonidas,Entire home/apt,75,4
+Leonidas,Entire home/apt,225,6
+Leonidas,Entire home/apt,84,18
+Leonidas,Private room,120,2
+Leonidas,Entire home/apt,135,5
+Leonidas,Entire home/apt,175,3
+Leonidas,Entire home/apt,300,10
+Lower Garden District,Entire home/apt,179,60
+Lower Garden District,Entire home/apt,750,0
+Lower Garden District,Private room,59,0
+Lower Garden District,Entire home/apt,395,43
+Lower Garden District,Private room,100,10
+Lower Garden District,Entire home/apt,99,15
+Lower Garden District,Entire home/apt,150,16
+Lower Garden District,Entire home/apt,119,56
+Lower Garden District,Entire home/apt,900,0
+Lower Garden District,Entire home/apt,275,9
+Lower Garden District,Entire home/apt,150,6
+Lower Garden District,Entire home/apt,325,1
+Lower Garden District,Entire home/apt,138,0
+Lower Garden District,Entire home/apt,135,7
+Lower Garden District,Entire home/apt,195,25
+Lower Garden District,Entire home/apt,999,1
+Lower Garden District,Entire home/apt,119,63
+Lower Garden District,Entire home/apt,200,35
+Lower Garden District,Entire home/apt,182,21
+Lower Garden District,Entire home/apt,189,24
+Lower Garden District,Entire home/apt,189,49
+Lower Garden District,Entire home/apt,125,10
+Lower Garden District,Entire home/apt,169,2
+Lower Garden District,Entire home/apt,300,43
+Lower Garden District,Private room,78,58
+Lower Garden District,Entire home/apt,99,24
+Lower Garden District,Entire home/apt,800,0
+Lower Garden District,Entire home/apt,300,15
+Lower Garden District,Entire home/apt,190,46
+Lower Garden District,Entire home/apt,330,80
+Lower Garden District,Entire home/apt,300,4
+Lower Garden District,Entire home/apt,275,38
+Lower Garden District,Private room,129,25
+Lower Garden District,Entire home/apt,110,37
+Lower Garden District,Private room,175,16
+Lower Garden District,Private room,135,1
+Lower Garden District,Entire home/apt,100,55
+Lower Garden District,Entire home/apt,450,0
+Lower Garden District,Private room,94,2
+Lower Garden District,Entire home/apt,155,34
+Lower Garden District,Entire home/apt,750,0
+Lower Garden District,Entire home/apt,175,33
+Lower Garden District,Entire home/apt,169,1
+Lower Garden District,Entire home/apt,330,4
+Lower Garden District,Private room,46,86
+Lower Garden District,Entire home/apt,116,42
+Lower Garden District,Entire home/apt,220,4
+Lower Garden District,Entire home/apt,800,45
+Lower Garden District,Private room,99,3
+Lower Garden District,Entire home/apt,110,55
+Lower Garden District,Entire home/apt,100,14
+Lower Garden District,Entire home/apt,129,1
+Lower Garden District,Entire home/apt,165,3
+Lower Garden District,Entire home/apt,175,1
+Lower Garden District,Private room,110,2
+Lower Garden District,Entire home/apt,874,4
+Lower Garden District,Entire home/apt,600,0
+Lower Garden District,Private room,125,1
+Lower Garden District,Entire home/apt,137,8
+Lower Garden District,Entire home/apt,125,0
+Lower Garden District,Private room,110,1
+Lower Garden District,Entire home/apt,150,53
+Lower Garden District,Entire home/apt,125,20
+Lower Garden District,Private room,107,13
+Lower Garden District,Private room,129,3
+Lower Garden District,Entire home/apt,150,39
+Lower Garden District,Private room,200,0
+Lower Garden District,Private room,120,0
+Lower Garden District,Entire home/apt,600,0
+Lower Garden District,Entire home/apt,150,77
+Lower Garden District,Private room,125,1
+Lower Garden District,Entire home/apt,99,23
+Lower Garden District,Entire home/apt,130,210
+Lower Garden District,Private room,105,13
+Lower Garden District,Entire home/apt,165,27
+Lower Garden District,Entire home/apt,115,8
+Lower Garden District,Entire home/apt,91,91
+Lower Garden District,Private room,110,0
+Lower Garden District,Entire home/apt,162,9
+Lower Garden District,Entire home/apt,120,14
+Lower Garden District,Private room,79,30
+Lower Garden District,Entire home/apt,119,36
+Lower Garden District,Private room,64,11
+Lower Garden District,Entire home/apt,150,1
+Lower Garden District,Entire home/apt,149,23
+Lower Garden District,Private room,85,63
+Lower Garden District,Entire home/apt,169,2
+Lower Garden District,Entire home/apt,99,26
+Lower Garden District,Entire home/apt,115,2
+Lower Garden District,Entire home/apt,450,72
+Lower Garden District,Entire home/apt,250,12
+Lower Garden District,Entire home/apt,129,36
+Lower Garden District,Entire home/apt,149,7
+Lower Garden District,Entire home/apt,200,0
+Lower Garden District,Entire home/apt,100,4
+Lower Garden District,Entire home/apt,159,24
+Lower Garden District,Entire home/apt,400,1
+Lower Garden District,Entire home/apt,179,0
+Lower Garden District,Entire home/apt,120,8
+Lower Garden District,Entire home/apt,95,51
+Lower Garden District,Entire home/apt,890,0
+Lower Garden District,Private room,90,11
+Lower Garden District,Entire home/apt,89,81
+Lower Garden District,Entire home/apt,200,0
+Lower Garden District,Private room,125,106
+Lower Garden District,Entire home/apt,300,4
+Lower Garden District,Entire home/apt,125,15
+Lower Garden District,Entire home/apt,499,64
+Lower Garden District,Entire home/apt,312,46
+Lower Garden District,Entire home/apt,220,13
+Lower Garden District,Entire home/apt,59,84
+Lower Garden District,Entire home/apt,199,56
+Lower Garden District,Entire home/apt,300,7
+Lower Garden District,Entire home/apt,101,0
+Lower Garden District,Entire home/apt,354,114
+Lower Garden District,Entire home/apt,149,9
+Lower Garden District,Private room,150,0
+Lower Garden District,Entire home/apt,560,1
+Lower Garden District,Entire home/apt,133,5
+Lower Garden District,Entire home/apt,150,11
+Lower Garden District,Entire home/apt,268,0
+Lower Garden District,Entire home/apt,200,1
+Lower Garden District,Entire home/apt,279,24
+Lower Garden District,Entire home/apt,137,6
+Lower Garden District,Entire home/apt,98,24
+Lower Garden District,Private room,150,0
+Lower Garden District,Entire home/apt,120,2
+Lower Garden District,Private room,90,134
+Lower Garden District,Entire home/apt,165,27
+Lower Garden District,Entire home/apt,660,72
+Lower Garden District,Entire home/apt,1500,5
+Lower Garden District,Entire home/apt,169,16
+Lower Garden District,Entire home/apt,200,22
+Lower Garden District,Entire home/apt,125,19
+Lower Garden District,Entire home/apt,200,39
+Lower Garden District,Entire home/apt,100,0
+Lower Garden District,Entire home/apt,125,26
+Lower Garden District,Entire home/apt,239,17
+Lower Garden District,Entire home/apt,140,7
+Lower Garden District,Entire home/apt,110,39
+Lower Garden District,Entire home/apt,250,0
+Lower Garden District,Private room,125,132
+Lower Garden District,Entire home/apt,125,14
+Lower Garden District,Entire home/apt,200,0
+Lower Garden District,Entire home/apt,179,48
+Lower Garden District,Entire home/apt,109,30
+Lower Garden District,Private room,80,9
+Lower Garden District,Entire home/apt,179,3
+Lower Garden District,Entire home/apt,134,27
+Lower Garden District,Entire home/apt,168,4
+Lower Garden District,Entire home/apt,200,0
+Lower Garden District,Entire home/apt,300,1
+Lower Garden District,Entire home/apt,195,1
+Lower Garden District,Entire home/apt,59,33
+Lower Garden District,Entire home/apt,200,4
+Lower Garden District,Private room,60,60
+Lower Garden District,Entire home/apt,150,185
+Lower Garden District,Entire home/apt,120,5
+Lower Garden District,Private room,139,75
+Lower Garden District,Entire home/apt,250,7
+Lower Garden District,Private room,80,1
+Lower Garden District,Entire home/apt,150,43
+Lower Garden District,Entire home/apt,249,34
+Lower Garden District,Private room,110,0
+Lower Garden District,Private room,78,7
+Lower Garden District,Private room,200,1
+Lower Garden District,Private room,75,2
+Lower Garden District,Entire home/apt,250,2
+Lower Garden District,Private room,78,33
+Lower Garden District,Private room,71,23
+Lower Garden District,Entire home/apt,150,20
+Lower Garden District,Entire home/apt,750,0
+Lower Garden District,Entire home/apt,165,40
+Lower Garden District,Entire home/apt,272,9
+Lower Garden District,Entire home/apt,100,107
+Lower Garden District,Entire home/apt,400,31
+Lower Garden District,Private room,44,40
+Lower Garden District,Private room,120,1
+Lower Garden District,Private room,50,10
+Lower Garden District,Entire home/apt,150,6
+Lower Garden District,Private room,80,0
+Lower Garden District,Entire home/apt,120,3
+Lower Garden District,Entire home/apt,150,1
+Lower Garden District,Entire home/apt,160,5
+Lower Garden District,Entire home/apt,129,52
+Lower Garden District,Entire home/apt,166,16
+Lower Garden District,Entire home/apt,190,34
+Lower Garden District,Entire home/apt,115,5
+Lower Garden District,Entire home/apt,350,1
+Lower Garden District,Entire home/apt,775,8
+Lower Garden District,Private room,75,119
+Lower Garden District,Entire home/apt,1000,0
+Lower Garden District,Entire home/apt,175,50
+Lower Garden District,Private room,125,2
+Lower Garden District,Private room,75,4
+Lower Garden District,Private room,70,3
+Lower Garden District,Entire home/apt,195,67
+Lower Garden District,Private room,89,2
+Lower Garden District,Private room,105,0
+Lower Garden District,Entire home/apt,300,0
+Lower Garden District,Entire home/apt,142,6
+Lower Garden District,Entire home/apt,88,31
+Lower Garden District,Entire home/apt,850,2
+Lower Garden District,Entire home/apt,139,115
+Lower Garden District,Entire home/apt,150,3
+Lower Garden District,Entire home/apt,189,154
+Lower Garden District,Entire home/apt,175,64
+Lower Garden District,Entire home/apt,175,7
+Lower Garden District,Entire home/apt,250,39
+Lower Garden District,Entire home/apt,250,1
+Lower Garden District,Entire home/apt,125,41
+Lower Garden District,Entire home/apt,325,0
+Lower Garden District,Entire home/apt,330,2
+Lower Garden District,Entire home/apt,109,24
+Lower Garden District,Entire home/apt,125,1
+Lower Garden District,Private room,100,30
+Lower Garden District,Entire home/apt,130,3
+Lower Garden District,Private room,150,1
+Lower Garden District,Private room,55,41
+Lower Garden District,Entire home/apt,500,1
+Lower Garden District,Private room,100,8
+Lower Garden District,Private room,79,6
+Lower Garden District,Entire home/apt,100,26
+Lower Garden District,Entire home/apt,265,12
+Lower Garden District,Entire home/apt,122,22
+Lower Garden District,Entire home/apt,149,31
+Lower Garden District,Entire home/apt,150,30
+Lower Garden District,Entire home/apt,295,4
+Lower Garden District,Entire home/apt,160,3
+Lower Garden District,Entire home/apt,299,0
+Lower Garden District,Private room,75,79
+Lower Garden District,Entire home/apt,195,2
+Lower Garden District,Entire home/apt,250,3
+Lower Garden District,Entire home/apt,165,26
+Lower Garden District,Entire home/apt,179,0
+Lower Garden District,Entire home/apt,119,17
+Lower Garden District,Entire home/apt,179,8
+Lower Garden District,Private room,175,0
+Lower Garden District,Private room,85,14
+Lower Garden District,Entire home/apt,129,64
+Lower Garden District,Entire home/apt,249,29
+Lower Garden District,Entire home/apt,175,28
+Lower Garden District,Entire home/apt,80,6
+Lower Garden District,Entire home/apt,500,0
+Lower Garden District,Entire home/apt,1840,11
+Lower Garden District,Private room,129,85
+Lower Garden District,Private room,100,6
+Lower Garden District,Entire home/apt,99,20
+Lower Garden District,Entire home/apt,269,2
+Lower Garden District,Private room,58,25
+Lower Garden District,Entire home/apt,120,1
+Lower Garden District,Entire home/apt,175,17
+Lower Garden District,Entire home/apt,750,20
+Lower Garden District,Entire home/apt,219,9
+Lower Garden District,Entire home/apt,184,0
+Lower Ninth Ward,Entire home/apt,100,0
+Lower Ninth Ward,Private room,70,0
+Lower Ninth Ward,Entire home/apt,125,0
+Lower Ninth Ward,Private room,103,6
+Lower Ninth Ward,Private room,120,3
+Lower Ninth Ward,Entire home/apt,125,43
+Lower Ninth Ward,Entire home/apt,475,0
+Lower Ninth Ward,Private room,43,3
+Lower Ninth Ward,Entire home/apt,240,1
+Lower Ninth Ward,Private room,100,8
+Lower Ninth Ward,Entire home/apt,100,18
+Marigny,Entire home/apt,525,2
+Marigny,Entire home/apt,1040,5
+Marigny,Private room,100,0
+Marigny,Entire home/apt,150,42
+Marigny,Entire home/apt,95,66
+Marigny,Entire home/apt,139,12
+Marigny,Entire home/apt,155,141
+Marigny,Private room,89,12
+Marigny,Entire home/apt,81,1
+Marigny,Entire home/apt,175,4
+Marigny,Entire home/apt,475,120
+Marigny,Entire home/apt,350,56
+Marigny,Private room,89,0
+Marigny,Entire home/apt,200,29
+Marigny,Entire home/apt,130,89
+Marigny,Entire home/apt,850,3
+Marigny,Entire home/apt,90,0
+Marigny,Entire home/apt,160,57
+Marigny,Entire home/apt,185,25
+Marigny,Private room,99,6
+Marigny,Entire home/apt,125,34
+Marigny,Entire home/apt,450,16
+Marigny,Entire home/apt,600,33
+Marigny,Entire home/apt,160,50
+Marigny,Entire home/apt,100,37
+Marigny,Entire home/apt,125,34
+Marigny,Entire home/apt,350,19
+Marigny,Entire home/apt,325,25
+Marigny,Entire home/apt,300,145
+Marigny,Entire home/apt,400,1
+Marigny,Entire home/apt,350,12
+Marigny,Private room,119,6
+Marigny,Private room,100,0
+Marigny,Private room,85,17
+Marigny,Entire home/apt,163,107
+Marigny,Entire home/apt,149,103
+Marigny,Entire home/apt,143,33
+Marigny,Entire home/apt,190,3
+Marigny,Entire home/apt,150,37
+Marigny,Private room,90,8
+Marigny,Entire home/apt,175,83
+Marigny,Entire home/apt,468,22
+Marigny,Private room,119,1
+Marigny,Entire home/apt,165,37
+Marigny,Entire home/apt,135,0
+Marigny,Private room,62,9
+Marigny,Entire home/apt,133,3
+Marigny,Entire home/apt,99,250
+Marigny,Entire home/apt,1500,37
+Marigny,Entire home/apt,275,19
+Marigny,Shared room,75,8
+Marigny,Entire home/apt,200,29
+Marigny,Entire home/apt,175,5
+Marigny,Entire home/apt,200,47
+Marigny,Entire home/apt,69,34
+Marigny,Private room,113,9
+Marigny,Entire home/apt,500,6
+Marigny,Private room,65,17
+Marigny,Entire home/apt,100,55
+Marigny,Entire home/apt,119,10
+Marigny,Private room,279,0
+Marigny,Entire home/apt,125,9
+Marigny,Entire home/apt,156,52
+Marigny,Private room,139,1
+Marigny,Entire home/apt,200,23
+Marigny,Private room,74,17
+Marigny,Entire home/apt,190,13
+Marigny,Private room,175,2
+Marigny,Entire home/apt,250,2
+Marigny,Private room,89,8
+Marigny,Entire home/apt,99,20
+Marigny,Entire home/apt,350,12
+Marigny,Entire home/apt,200,91
+Marigny,Entire home/apt,175,19
+Marigny,Private room,80,4
+Marigny,Entire home/apt,700,0
+Marigny,Private room,85,7
+Marigny,Private room,60,27
+Marigny,Entire home/apt,195,107
+Marigny,Entire home/apt,370,3
+Marigny,Entire home/apt,220,4
+Marigny,Private room,200,0
+Marigny,Private room,83,57
+Marigny,Entire home/apt,105,11
+Marigny,Entire home/apt,110,119
+Marigny,Private room,230,5
+Marigny,Entire home/apt,75,18
+Marigny,Entire home/apt,199,9
+Marigny,Entire home/apt,400,33
+Marigny,Private room,150,24
+Marigny,Private room,160,0
+Marigny,Entire home/apt,100,82
+Marigny,Entire home/apt,190,5
+Marigny,Entire home/apt,129,66
+Marigny,Private room,85,33
+Marigny,Private room,94,16
+Marigny,Entire home/apt,68,39
+Marigny,Entire home/apt,75,7
+Marigny,Private room,85,266
+Marigny,Entire home/apt,800,53
+Marigny,Shared room,50,1
+Marigny,Entire home/apt,950,21
+Marigny,Entire home/apt,110,1
+Marigny,Entire home/apt,288,7
+Marigny,Entire home/apt,180,0
+Marigny,Entire home/apt,250,5
+Marigny,Entire home/apt,150,9
+Marigny,Entire home/apt,150,6
+Marigny,Entire home/apt,150,13
+Marigny,Entire home/apt,200,68
+Marigny,Entire home/apt,99,41
+Marigny,Entire home/apt,195,163
+Marigny,Entire home/apt,150,29
+Marigny,Entire home/apt,700,0
+Marigny,Entire home/apt,130,220
+Marigny,Entire home/apt,564,27
+Marigny,Entire home/apt,250,5
+Marigny,Entire home/apt,180,12
+Marigny,Entire home/apt,125,51
+Marigny,Private room,85,18
+Marigny,Private room,60,5
+Marigny,Entire home/apt,105,7
+Marigny,Entire home/apt,140,4
+Marigny,Private room,83,197
+Marigny,Private room,80,3
+Marigny,Private room,90,132
+Marigny,Entire home/apt,150,76
+Marigny,Entire home/apt,200,3
+Marigny,Entire home/apt,204,0
+Marigny,Entire home/apt,160,19
+Marigny,Entire home/apt,135,107
+Marigny,Private room,68,0
+Marigny,Entire home/apt,275,4
+Marigny,Entire home/apt,250,25
+Marigny,Entire home/apt,185,7
+Marigny,Private room,125,52
+Marigny,Entire home/apt,150,0
+Marigny,Entire home/apt,105,88
+Marigny,Entire home/apt,350,9
+Marigny,Entire home/apt,119,67
+Marigny,Entire home/apt,139,29
+Marigny,Entire home/apt,110,2
+Marigny,Private room,90,82
+Marigny,Entire home/apt,145,37
+Marigny,Entire home/apt,155,57
+Marigny,Entire home/apt,130,41
+Marigny,Entire home/apt,150,0
+Marigny,Private room,85,15
+Marigny,Private room,140,8
+Marigny,Entire home/apt,475,29
+Marigny,Entire home/apt,295,32
+Marigny,Entire home/apt,93,24
+Marigny,Entire home/apt,200,96
+Marigny,Private room,40,358
+Marigny,Entire home/apt,200,7
+Marigny,Entire home/apt,99,67
+Marigny,Entire home/apt,135,79
+Marigny,Entire home/apt,156,123
+Marigny,Entire home/apt,200,11
+Marigny,Entire home/apt,115,174
+Marigny,Entire home/apt,140,7
+Marigny,Private room,80,21
+Marigny,Private room,150,71
+Marigny,Entire home/apt,150,30
+Marigny,Entire home/apt,89,5
+Marigny,Entire home/apt,150,61
+Marigny,Entire home/apt,135,40
+Marigny,Entire home/apt,120,55
+Marigny,Entire home/apt,200,14
+Marigny,Entire home/apt,111,80
+Marigny,Private room,200,1
+Marigny,Entire home/apt,171,82
+Marigny,Entire home/apt,250,20
+Marigny,Private room,90,10
+Marigny,Private room,200,1
+Marigny,Private room,99,0
+Marigny,Private room,250,1
+Marigny,Private room,129,7
+Marigny,Entire home/apt,100,0
+Marigny,Entire home/apt,125,96
+Marigny,Entire home/apt,119,19
+Marigny,Entire home/apt,144,3
+Marigny,Entire home/apt,160,70
+Marigny,Entire home/apt,200,3
+Marigny,Entire home/apt,250,0
+Marigny,Private room,85,278
+Marigny,Entire home/apt,135,20
+Marigny,Shared room,150,0
+Marigny,Entire home/apt,200,0
+Marigny,Entire home/apt,200,0
+Marigny,Entire home/apt,295,33
+Marigny,Entire home/apt,250,0
+Marigny,Private room,85,15
+Marigny,Entire home/apt,120,15
+Marigny,Private room,100,0
+Marigny,Private room,100,0
+Marigny,Private room,100,0
+Marigny,Private room,100,0
+Marigny,Entire home/apt,101,141
+Marigny,Private room,160,0
+Marigny,Private room,200,94
+Marigny,Private room,99,5
+Marigny,Private room,200,0
+Marigny,Entire home/apt,150,6
+Marigny,Private room,149,5
+Marigny,Entire home/apt,155,32
+Marigny,Entire home/apt,237,28
+Marigny,Private room,185,0
+Marigny,Private room,100,27
+Marigny,Private room,180,0
+Marigny,Entire home/apt,145,8
+Marigny,Entire home/apt,150,69
+Marigny,Entire home/apt,145,37
+Marigny,Private room,129,12
+Marigny,Entire home/apt,140,231
+Marigny,Entire home/apt,135,25
+Marigny,Entire home/apt,95,38
+Marigny,Entire home/apt,195,76
+Marigny,Private room,180,0
+Marigny,Private room,85,2
+Marigny,Private room,114,4
+Marigny,Entire home/apt,600,71
+Marigny,Entire home/apt,120,49
+Marigny,Entire home/apt,115,18
+Marigny,Private room,175,0
+Marigny,Private room,199,0
+Marigny,Entire home/apt,282,24
+Marigny,Private room,180,0
+Marigny,Entire home/apt,195,111
+Marigny,Entire home/apt,165,56
+Marigny,Entire home/apt,118,13
+Marigny,Private room,120,27
+Marigny,Private room,175,75
+Marigny,Entire home/apt,344,30
+Marigny,Private room,60,21
+Marigny,Private room,95,52
+Marigny,Private room,85,20
+Marigny,Entire home/apt,150,30
+Marigny,Entire home/apt,550,16
+Marigny,Entire home/apt,90,8
+Marigny,Entire home/apt,575,19
+Marigny,Entire home/apt,200,17
+Marigny,Private room,175,0
+Marigny,Entire home/apt,205,6
+Marigny,Entire home/apt,150,17
+Marigny,Entire home/apt,135,95
+Marigny,Entire home/apt,200,102
+Marigny,Entire home/apt,150,29
+Marigny,Entire home/apt,131,35
+Marigny,Entire home/apt,285,5
+Marigny,Private room,250,2
+Marigny,Private room,175,0
+Marigny,Entire home/apt,105,14
+Marigny,Entire home/apt,350,11
+Marigny,Entire home/apt,175,26
+Marigny,Private room,139,0
+Marigny,Entire home/apt,125,31
+Marigny,Private room,128,2
+Marigny,Entire home/apt,102,132
+Marigny,Private room,280,0
+Marigny,Private room,66,8
+Marigny,Entire home/apt,169,16
+Marigny,Entire home/apt,269,91
+Marigny,Entire home/apt,249,0
+Marigny,Entire home/apt,110,0
+Marigny,Entire home/apt,325,32
+Marigny,Entire home/apt,450,39
+Marigny,Entire home/apt,80,37
+Marigny,Entire home/apt,135,49
+Marigny,Private room,75,0
+Marigny,Entire home/apt,165,63
+Marigny,Shared room,50,32
+Marigny,Private room,99,59
+Marigny,Entire home/apt,220,5
+Marigny,Private room,116,6
+Marigny,Private room,249,0
+Marigny,Entire home/apt,119,0
+Marigny,Entire home/apt,164,10
+Marigny,Private room,110,109
+Marigny,Entire home/apt,446,70
+Marigny,Entire home/apt,125,0
+Marigny,Entire home/apt,195,82
+Marigny,Private room,159,2
+Marigny,Private room,99,20
+Marigny,Entire home/apt,190,2
+Marigny,Private room,80,1
+Marigny,Entire home/apt,120,3
+Marigny,Entire home/apt,425,10
+Marigny,Private room,150,3
+Marigny,Entire home/apt,219,7
+Marigny,Private room,85,443
+Marigny,Entire home/apt,240,7
+Marigny,Entire home/apt,104,12
+Marigny,Entire home/apt,110,10
+Marigny,Private room,95,9
+Marigny,Private room,200,0
+Marigny,Private room,125,59
+Marigny,Entire home/apt,225,110
+Marigny,Private room,85,422
+Marigny,Entire home/apt,374,1
+Marigny,Entire home/apt,165,41
+Marigny,Private room,150,1
+Marigny,Entire home/apt,750,1
+Marigny,Private room,135,1
+Marigny,Entire home/apt,125,21
+Marigny,Private room,49,4
+Marigny,Entire home/apt,110,0
+Marigny,Entire home/apt,105,6
+Marigny,Entire home/apt,150,9
+Marigny,Entire home/apt,145,67
+Marigny,Entire home/apt,250,44
+Marigny,Entire home/apt,108,1
+Marigny,Private room,139,0
+Marigny,Entire home/apt,115,17
+Marigny,Entire home/apt,169,2
+Marigny,Entire home/apt,210,7
+Marigny,Private room,76,10
+Marigny,Entire home/apt,175,29
+Marigny,Entire home/apt,350,28
+Marigny,Entire home/apt,369,5
+Marigny,Entire home/apt,167,1
+Marigny,Private room,45,2
+Marigny,Entire home/apt,241,8
+Marigny,Entire home/apt,575,15
+Marigny,Private room,129,12
+Marigny,Entire home/apt,82,124
+Marigny,Entire home/apt,129,0
+Marigny,Entire home/apt,135,41
+Marigny,Entire home/apt,125,34
+Marigny,Private room,120,15
+Marigny,Entire home/apt,159,20
+Marigny,Entire home/apt,299,26
+Marigny,Entire home/apt,450,15
+Marigny,Private room,99,10
+Marigny,Entire home/apt,200,1
+Marigny,Entire home/apt,110,92
+Marigny,Private room,58,243
+Marigny,Entire home/apt,110,108
+Marigny,Entire home/apt,215,127
+Marigny,Private room,1000,0
+Marlyville - Fontainbleau,Entire home/apt,300,30
+Marlyville - Fontainbleau,Entire home/apt,89,82
+Marlyville - Fontainbleau,Entire home/apt,300,10
+Marlyville - Fontainbleau,Entire home/apt,350,2
+Marlyville - Fontainbleau,Private room,56,26
+Marlyville - Fontainbleau,Private room,100,8
+Marlyville - Fontainbleau,Entire home/apt,749,4
+Marlyville - Fontainbleau,Entire home/apt,150,3
+Marlyville - Fontainbleau,Entire home/apt,135,15
+Marlyville - Fontainbleau,Entire home/apt,130,2
+Marlyville - Fontainbleau,Entire home/apt,88,124
+Marlyville - Fontainbleau,Entire home/apt,220,6
+Marlyville - Fontainbleau,Entire home/apt,99,1
+Marlyville - Fontainbleau,Entire home/apt,250,1
+Marlyville - Fontainbleau,Entire home/apt,75,10
+Marlyville - Fontainbleau,Entire home/apt,225,5
+Marlyville - Fontainbleau,Entire home/apt,85,9
+Marlyville - Fontainbleau,Entire home/apt,140,1
+Marlyville - Fontainbleau,Entire home/apt,90,47
+Marlyville - Fontainbleau,Entire home/apt,115,0
+Marlyville - Fontainbleau,Private room,50,6
+Marlyville - Fontainbleau,Entire home/apt,120,18
+Marlyville - Fontainbleau,Entire home/apt,225,14
+Marlyville - Fontainbleau,Entire home/apt,84,0
+Marlyville - Fontainbleau,Shared room,350,3
+Marlyville - Fontainbleau,Entire home/apt,125,24
+Marlyville - Fontainbleau,Entire home/apt,150,3
+Marlyville - Fontainbleau,Entire home/apt,100,114
+Marlyville - Fontainbleau,Private room,95,7
+Marlyville - Fontainbleau,Entire home/apt,129,8
+Marlyville - Fontainbleau,Private room,70,10
+Marlyville - Fontainbleau,Entire home/apt,250,6
+Marlyville - Fontainbleau,Private room,200,28
+Marlyville - Fontainbleau,Entire home/apt,95,18
+Marlyville - Fontainbleau,Entire home/apt,64,68
+Marlyville - Fontainbleau,Private room,95,60
+Marlyville - Fontainbleau,Private room,150,7
+Marlyville - Fontainbleau,Entire home/apt,160,5
+Marlyville - Fontainbleau,Entire home/apt,400,0
+Marlyville - Fontainbleau,Entire home/apt,500,0
+Marlyville - Fontainbleau,Entire home/apt,100,24
+Marlyville - Fontainbleau,Private room,50,8
+Marlyville - Fontainbleau,Entire home/apt,100,35
+Marlyville - Fontainbleau,Entire home/apt,120,1
+Marlyville - Fontainbleau,Entire home/apt,295,7
+Marlyville - Fontainbleau,Entire home/apt,82,35
+Marlyville - Fontainbleau,Private room,60,17
+Marlyville - Fontainbleau,Entire home/apt,200,4
+Marlyville - Fontainbleau,Entire home/apt,176,5
+Marlyville - Fontainbleau,Private room,50,37
+Marlyville - Fontainbleau,Private room,700,8
+Marlyville - Fontainbleau,Entire home/apt,117,10
+Marlyville - Fontainbleau,Entire home/apt,99,21
+Marlyville - Fontainbleau,Private room,150,4
+Marlyville - Fontainbleau,Entire home/apt,110,20
+Marlyville - Fontainbleau,Entire home/apt,92,39
+Marlyville - Fontainbleau,Entire home/apt,85,7
+Marlyville - Fontainbleau,Entire home/apt,89,35
+Marlyville - Fontainbleau,Private room,78,2
+Marlyville - Fontainbleau,Entire home/apt,100,1
+Marlyville - Fontainbleau,Entire home/apt,200,0
+Marlyville - Fontainbleau,Private room,54,5
+Marlyville - Fontainbleau,Entire home/apt,100,55
+Marlyville - Fontainbleau,Entire home/apt,185,7
+Marlyville - Fontainbleau,Private room,35,0
+Marlyville - Fontainbleau,Private room,55,7
+Marlyville - Fontainbleau,Entire home/apt,110,7
+Marlyville - Fontainbleau,Entire home/apt,130,8
+Marlyville - Fontainbleau,Shared room,300,0
+Marlyville - Fontainbleau,Entire home/apt,249,89
+Marlyville - Fontainbleau,Entire home/apt,85,3
+Marlyville - Fontainbleau,Entire home/apt,99,27
+Marlyville - Fontainbleau,Entire home/apt,84,10
+Marlyville - Fontainbleau,Entire home/apt,89,0
+Marlyville - Fontainbleau,Entire home/apt,77,16
+Marlyville - Fontainbleau,Entire home/apt,174,2
+Marlyville - Fontainbleau,Entire home/apt,158,13
+Marlyville - Fontainbleau,Private room,100,16
+Marlyville - Fontainbleau,Entire home/apt,89,16
+Mid-City,Entire home/apt,350,46
+Mid-City,Entire home/apt,110,22
+Mid-City,Private room,63,1
+Mid-City,Entire home/apt,250,1
+Mid-City,Entire home/apt,80,9
+Mid-City,Entire home/apt,280,19
+Mid-City,Private room,116,17
+Mid-City,Entire home/apt,138,24
+Mid-City,Private room,33,27
+Mid-City,Private room,75,5
+Mid-City,Entire home/apt,240,18
+Mid-City,Entire home/apt,115,11
+Mid-City,Entire home/apt,250,89
+Mid-City,Entire home/apt,550,0
+Mid-City,Entire home/apt,97,97
+Mid-City,Entire home/apt,395,50
+Mid-City,Private room,41,12
+Mid-City,Entire home/apt,89,35
+Mid-City,Entire home/apt,79,13
+Mid-City,Private room,75,11
+Mid-City,Entire home/apt,210,19
+Mid-City,Entire home/apt,450,42
+Mid-City,Private room,60,20
+Mid-City,Private room,75,2
+Mid-City,Entire home/apt,65,47
+Mid-City,Entire home/apt,90,3
+Mid-City,Entire home/apt,95,34
+Mid-City,Entire home/apt,150,2
+Mid-City,Entire home/apt,250,14
+Mid-City,Entire home/apt,235,4
+Mid-City,Entire home/apt,85,0
+Mid-City,Private room,50,59
+Mid-City,Private room,60,38
+Mid-City,Entire home/apt,285,19
+Mid-City,Entire home/apt,75,10
+Mid-City,Entire home/apt,575,20
+Mid-City,Entire home/apt,74,7
+Mid-City,Entire home/apt,79,14
+Mid-City,Entire home/apt,84,0
+Mid-City,Entire home/apt,99,25
+Mid-City,Private room,30,16
+Mid-City,Entire home/apt,145,13
+Mid-City,Private room,91,94
+Mid-City,Entire home/apt,199,16
+Mid-City,Entire home/apt,50,0
+Mid-City,Entire home/apt,180,20
+Mid-City,Shared room,75,3
+Mid-City,Entire home/apt,136,7
+Mid-City,Entire home/apt,110,18
+Mid-City,Private room,60,1
+Mid-City,Entire home/apt,90,10
+Mid-City,Entire home/apt,50,99
+Mid-City,Entire home/apt,200,0
+Mid-City,Private room,85,0
+Mid-City,Private room,99,5
+Mid-City,Private room,60,82
+Mid-City,Private room,150,19
+Mid-City,Private room,35,2
+Mid-City,Entire home/apt,120,0
+Mid-City,Entire home/apt,600,0
+Mid-City,Entire home/apt,150,36
+Mid-City,Entire home/apt,250,19
+Mid-City,Entire home/apt,120,16
+Mid-City,Private room,100,0
+Mid-City,Private room,79,104
+Mid-City,Entire home/apt,250,4
+Mid-City,Private room,150,2
+Mid-City,Entire home/apt,149,34
+Mid-City,Entire home/apt,175,51
+Mid-City,Entire home/apt,275,0
+Mid-City,Entire home/apt,160,2
+Mid-City,Entire home/apt,250,2
+Mid-City,Entire home/apt,225,50
+Mid-City,Entire home/apt,60,13
+Mid-City,Private room,99,40
+Mid-City,Private room,30,152
+Mid-City,Entire home/apt,119,60
+Mid-City,Entire home/apt,150,12
+Mid-City,Entire home/apt,74,2
+Mid-City,Entire home/apt,250,20
+Mid-City,Entire home/apt,310,2
+Mid-City,Entire home/apt,169,71
+Mid-City,Private room,85,4
+Mid-City,Entire home/apt,205,12
+Mid-City,Entire home/apt,105,1
+Mid-City,Entire home/apt,250,16
+Mid-City,Private room,75,6
+Mid-City,Entire home/apt,80,24
+Mid-City,Entire home/apt,400,9
+Mid-City,Entire home/apt,280,15
+Mid-City,Entire home/apt,99,52
+Mid-City,Private room,150,39
+Mid-City,Entire home/apt,450,5
+Mid-City,Private room,125,39
+Mid-City,Entire home/apt,250,11
+Mid-City,Private room,60,71
+Mid-City,Private room,53,37
+Mid-City,Entire home/apt,112,12
+Mid-City,Entire home/apt,125,83
+Mid-City,Private room,75,3
+Mid-City,Entire home/apt,79,15
+Mid-City,Private room,55,82
+Mid-City,Entire home/apt,109,58
+Mid-City,Entire home/apt,399,1
+Mid-City,Private room,90,9
+Mid-City,Private room,150,0
+Mid-City,Private room,1800,0
+Mid-City,Entire home/apt,75,66
+Mid-City,Private room,99,349
+Mid-City,Entire home/apt,179,7
+Mid-City,Entire home/apt,225,0
+Mid-City,Entire home/apt,349,2
+Mid-City,Private room,80,13
+Mid-City,Entire home/apt,70,127
+Mid-City,Private room,55,72
+Mid-City,Entire home/apt,129,11
+Mid-City,Private room,45,29
+Mid-City,Entire home/apt,148,39
+Mid-City,Entire home/apt,99,11
+Mid-City,Entire home/apt,300,2
+Mid-City,Private room,60,46
+Mid-City,Private room,45,97
+Mid-City,Private room,70,15
+Mid-City,Entire home/apt,263,23
+Mid-City,Private room,79,13
+Mid-City,Entire home/apt,150,8
+Mid-City,Entire home/apt,43,13
+Mid-City,Entire home/apt,1399,4
+Mid-City,Entire home/apt,99,17
+Mid-City,Entire home/apt,250,2
+Mid-City,Private room,61,111
+Mid-City,Entire home/apt,150,46
+Mid-City,Entire home/apt,85,35
+Mid-City,Entire home/apt,180,50
+Mid-City,Entire home/apt,140,12
+Mid-City,Entire home/apt,125,22
+Mid-City,Entire home/apt,93,48
+Mid-City,Private room,79,7
+Mid-City,Private room,60,4
+Mid-City,Private room,68,33
+Mid-City,Entire home/apt,575,5
+Mid-City,Private room,50,22
+Mid-City,Entire home/apt,200,68
+Mid-City,Entire home/apt,150,75
+Mid-City,Entire home/apt,79,111
+Mid-City,Entire home/apt,75,38
+Mid-City,Entire home/apt,550,1
+Mid-City,Entire home/apt,117,24
+Mid-City,Entire home/apt,75,33
+Mid-City,Entire home/apt,180,9
+Mid-City,Entire home/apt,95,69
+Mid-City,Entire home/apt,111,29
+Mid-City,Entire home/apt,79,7
+Mid-City,Private room,25,0
+Mid-City,Private room,80,72
+Mid-City,Private room,71,87
+Mid-City,Entire home/apt,50,0
+Mid-City,Entire home/apt,309,8
+Mid-City,Entire home/apt,180,65
+Mid-City,Entire home/apt,84,0
+Mid-City,Private room,44,2
+Mid-City,Entire home/apt,250,0
+Mid-City,Private room,135,22
+Mid-City,Private room,75,23
+Mid-City,Entire home/apt,88,74
+Mid-City,Entire home/apt,195,28
+Mid-City,Entire home/apt,50,0
+Mid-City,Entire home/apt,125,39
+Mid-City,Private room,120,22
+Mid-City,Entire home/apt,135,68
+Mid-City,Entire home/apt,79,70
+Mid-City,Entire home/apt,180,11
+Mid-City,Entire home/apt,158,6
+Mid-City,Entire home/apt,104,8
+Mid-City,Entire home/apt,81,21
+Mid-City,Entire home/apt,280,23
+Mid-City,Entire home/apt,250,1
+Mid-City,Private room,70,2
+Mid-City,Entire home/apt,300,20
+Mid-City,Entire home/apt,139,52
+Mid-City,Entire home/apt,53,31
+Mid-City,Private room,55,80
+Mid-City,Entire home/apt,84,28
+Mid-City,Entire home/apt,239,18
+Mid-City,Entire home/apt,90,1
+Mid-City,Private room,40,125
+Mid-City,Entire home/apt,300,72
+Mid-City,Entire home/apt,200,5
+Mid-City,Entire home/apt,81,39
+Mid-City,Entire home/apt,156,16
+Mid-City,Entire home/apt,250,1
+Mid-City,Entire home/apt,287,130
+Mid-City,Entire home/apt,96,83
+Mid-City,Private room,65,36
+Mid-City,Entire home/apt,245,0
+Mid-City,Entire home/apt,395,4
+Mid-City,Entire home/apt,125,4
+Mid-City,Entire home/apt,105,17
+Mid-City,Entire home/apt,70,0
+Mid-City,Private room,72,19
+Mid-City,Private room,87,7
+Mid-City,Entire home/apt,75,7
+Mid-City,Entire home/apt,100,8
+Mid-City,Entire home/apt,165,22
+Mid-City,Entire home/apt,75,9
+Mid-City,Entire home/apt,800,3
+Mid-City,Entire home/apt,99,8
+Mid-City,Private room,150,17
+Mid-City,Entire home/apt,750,59
+Mid-City,Entire home/apt,175,11
+Mid-City,Private room,70,6
+Mid-City,Shared room,85,1
+Mid-City,Entire home/apt,110,76
+Mid-City,Private room,72,0
+Mid-City,Entire home/apt,89,4
+Mid-City,Entire home/apt,67,36
+Mid-City,Shared room,75,0
+Mid-City,Private room,120,19
+Mid-City,Private room,100,5
+Mid-City,Entire home/apt,350,0
+Mid-City,Entire home/apt,178,9
+Mid-City,Entire home/apt,125,105
+Mid-City,Entire home/apt,150,16
+Mid-City,Entire home/apt,120,65
+Mid-City,Private room,179,0
+Mid-City,Private room,80,6
+Mid-City,Private room,89,6
+Mid-City,Entire home/apt,145,40
+Mid-City,Entire home/apt,126,5
+Mid-City,Entire home/apt,225,65
+Mid-City,Entire home/apt,190,0
+Mid-City,Entire home/apt,600,20
+Mid-City,Entire home/apt,500,0
+Mid-City,Entire home/apt,328,1
+Mid-City,Entire home/apt,100,129
+Mid-City,Entire home/apt,155,0
+Mid-City,Entire home/apt,115,15
+Mid-City,Entire home/apt,189,36
+Mid-City,Entire home/apt,150,15
+Mid-City,Entire home/apt,319,44
+Mid-City,Entire home/apt,145,32
+Mid-City,Entire home/apt,200,2
+Mid-City,Entire home/apt,150,7
+Mid-City,Entire home/apt,250,3
+Mid-City,Entire home/apt,89,6
+Mid-City,Entire home/apt,250,1
+Mid-City,Entire home/apt,130,0
+Mid-City,Entire home/apt,75,81
+Mid-City,Entire home/apt,275,0
+Mid-City,Entire home/apt,110,26
+Mid-City,Private room,55,104
+Mid-City,Entire home/apt,79,12
+Mid-City,Entire home/apt,400,37
+Mid-City,Private room,70,12
+Mid-City,Entire home/apt,100,79
+Mid-City,Private room,55,26
+Mid-City,Private room,59,41
+Mid-City,Private room,55,94
+Mid-City,Entire home/apt,375,0
+Mid-City,Private room,40,5
+Mid-City,Entire home/apt,89,49
+Mid-City,Entire home/apt,110,10
+Mid-City,Private room,58,79
+Mid-City,Entire home/apt,250,11
+Mid-City,Private room,60,42
+Mid-City,Private room,48,2
+Mid-City,Entire home/apt,117,8
+Mid-City,Entire home/apt,115,14
+Mid-City,Entire home/apt,75,37
+Mid-City,Private room,50,56
+Mid-City,Entire home/apt,125,15
+Mid-City,Entire home/apt,50,0
+Mid-City,Entire home/apt,150,35
+Mid-City,Private room,125,0
+Mid-City,Entire home/apt,145,40
+Mid-City,Private room,75,114
+Mid-City,Entire home/apt,180,1
+Mid-City,Private room,75,83
+Mid-City,Entire home/apt,87,40
+Mid-City,Entire home/apt,179,134
+Mid-City,Entire home/apt,79,31
+Milan,Entire home/apt,350,38
+Milan,Entire home/apt,99,9
+Milan,Entire home/apt,200,3
+Milan,Entire home/apt,1400,0
+Milan,Entire home/apt,499,0
+Milan,Private room,120,8
+Milan,Entire home/apt,144,1
+Milan,Entire home/apt,1100,18
+Milan,Entire home/apt,130,41
+Milan,Entire home/apt,200,17
+Milan,Entire home/apt,65,41
+Milan,Entire home/apt,275,0
+Milan,Entire home/apt,275,4
+Milan,Entire home/apt,149,13
+Milan,Entire home/apt,125,5
+Milan,Entire home/apt,300,3
+Milan,Entire home/apt,500,1
+Milan,Private room,67,1
+Milan,Entire home/apt,175,1
+Milan,Entire home/apt,175,0
+Milan,Entire home/apt,100,42
+Milan,Entire home/apt,105,8
+Milan,Entire home/apt,500,14
+Milan,Private room,89,93
+Milan,Entire home/apt,200,4
+Milan,Entire home/apt,169,8
+Milan,Entire home/apt,100,23
+Milan,Private room,99,0
+Milan,Private room,200,0
+Milan,Private room,300,0
+Milan,Entire home/apt,110,12
+Milan,Entire home/apt,200,5
+Milan,Entire home/apt,245,15
+Milan,Entire home/apt,250,21
+Milan,Entire home/apt,79,56
+Milan,Entire home/apt,281,2
+Milan,Entire home/apt,49,8
+Milan,Entire home/apt,125,86
+Milan,Entire home/apt,116,10
+Milan,Entire home/apt,250,14
+Milan,Entire home/apt,350,9
+Milan,Entire home/apt,2300,1
+Milan,Entire home/apt,199,14
+Milan,Private room,40,0
+Milan,Entire home/apt,106,82
+Milan,Entire home/apt,350,22
+Milan,Entire home/apt,549,0
+Milan,Private room,79,61
+Milan,Private room,155,0
+Milan,Entire home/apt,500,5
+Milan,Entire home/apt,150,6
+Milan,Entire home/apt,100,15
+Milan,Entire home/apt,55,3
+Milan,Entire home/apt,145,0
+Milan,Entire home/apt,75,28
+Milan,Entire home/apt,182,8
+Milan,Entire home/apt,120,8
+Milan,Private room,80,9
+Milan,Entire home/apt,150,37
+Milan,Entire home/apt,150,2
+Milan,Entire home/apt,99,22
+Milan,Entire home/apt,199,5
+Milan,Shared room,50,1
+Milan,Entire home/apt,799,32
+Milan,Entire home/apt,100,0
+Milan,Entire home/apt,200,20
+Milan,Entire home/apt,600,2
+Milan,Entire home/apt,157,65
+Milan,Entire home/apt,89,43
+Milan,Entire home/apt,250,0
+Milan,Entire home/apt,480,19
+Milan,Entire home/apt,225,9
+Milan,Entire home/apt,425,11
+Milan,Private room,99,5
+Milan,Entire home/apt,350,9
+Milan,Entire home/apt,67,19
+Milan,Entire home/apt,95,167
+Milan,Entire home/apt,250,1
+Milan,Entire home/apt,295,5
+Milan,Entire home/apt,400,26
+Milan,Entire home/apt,350,0
+Milan,Entire home/apt,495,42
+Milan,Private room,175,1
+Milan,Entire home/apt,425,22
+Milan,Entire home/apt,118,1
+Milan,Shared room,110,3
+Milan,Entire home/apt,650,0
+Milan,Private room,150,1
+Milan,Private room,99,0
+Milan,Entire home/apt,150,30
+Milan,Private room,95,64
+Milan,Entire home/apt,200,3
+Milan,Entire home/apt,100,67
+Milan,Entire home/apt,96,24
+Milan,Private room,75,3
+Milan,Entire home/apt,140,64
+Milan,Entire home/apt,125,17
+Milan,Private room,70,10
+Pines Village,Entire home/apt,91,2
+Pines Village,Entire home/apt,120,7
+Pines Village,Private room,150,1
+Pines Village,Private room,65,7
+Plum Orchard,Entire home/apt,129,2
+Plum Orchard,Entire home/apt,166,36
+Pontchartrain Park,Entire home/apt,225,8
+Pontchartrain Park,Private room,50,7
+Pontchartrain Park,Private room,250,0
+Pontchartrain Park,Entire home/apt,120,4
+Pontchartrain Park,Entire home/apt,120,0
+Pontchartrain Park,Entire home/apt,375,11
+Pontchartrain Park,Entire home/apt,125,12
+Read Blvd East,Entire home/apt,800,0
+Read Blvd East,Private room,265,0
+Read Blvd East,Entire home/apt,225,3
+Read Blvd West,Private room,300,0
+Read Blvd West,Entire home/apt,855,0
+Seventh Ward,Shared room,65,19
+Seventh Ward,Entire home/apt,175,6
+Seventh Ward,Entire home/apt,56,26
+Seventh Ward,Entire home/apt,298,14
+Seventh Ward,Entire home/apt,650,11
+Seventh Ward,Private room,69,298
+Seventh Ward,Entire home/apt,95,26
+Seventh Ward,Private room,45,2
+Seventh Ward,Private room,100,16
+Seventh Ward,Private room,59,193
+Seventh Ward,Entire home/apt,95,134
+Seventh Ward,Private room,85,212
+Seventh Ward,Private room,75,135
+Seventh Ward,Entire home/apt,137,17
+Seventh Ward,Private room,125,3
+Seventh Ward,Private room,43,68
+Seventh Ward,Private room,39,6
+Seventh Ward,Entire home/apt,99,13
+Seventh Ward,Private room,75,7
+Seventh Ward,Entire home/apt,98,43
+Seventh Ward,Entire home/apt,136,36
+Seventh Ward,Entire home/apt,149,34
+Seventh Ward,Entire home/apt,130,33
+Seventh Ward,Entire home/apt,500,2
+Seventh Ward,Entire home/apt,100,163
+Seventh Ward,Entire home/apt,500,39
+Seventh Ward,Entire home/apt,103,5
+Seventh Ward,Private room,165,11
+Seventh Ward,Entire home/apt,75,5
+Seventh Ward,Entire home/apt,75,5
+Seventh Ward,Entire home/apt,116,0
+Seventh Ward,Private room,200,0
+Seventh Ward,Entire home/apt,765,0
+Seventh Ward,Entire home/apt,300,15
+Seventh Ward,Entire home/apt,200,2
+Seventh Ward,Entire home/apt,75,68
+Seventh Ward,Entire home/apt,150,0
+Seventh Ward,Entire home/apt,85,5
+Seventh Ward,Private room,150,0
+Seventh Ward,Entire home/apt,300,0
+Seventh Ward,Entire home/apt,150,2
+Seventh Ward,Entire home/apt,101,26
+Seventh Ward,Entire home/apt,300,1
+Seventh Ward,Entire home/apt,89,2
+Seventh Ward,Private room,115,7
+Seventh Ward,Entire home/apt,350,12
+Seventh Ward,Entire home/apt,117,13
+Seventh Ward,Entire home/apt,56,35
+Seventh Ward,Entire home/apt,150,33
+Seventh Ward,Private room,68,59
+Seventh Ward,Private room,67,73
+Seventh Ward,Entire home/apt,95,62
+Seventh Ward,Entire home/apt,350,11
+Seventh Ward,Private room,32,82
+Seventh Ward,Private room,65,28
+Seventh Ward,Entire home/apt,750,27
+Seventh Ward,Entire home/apt,595,11
+Seventh Ward,Entire home/apt,60,92
+Seventh Ward,Entire home/apt,120,13
+Seventh Ward,Entire home/apt,120,41
+Seventh Ward,Private room,124,7
+Seventh Ward,Private room,118,46
+Seventh Ward,Entire home/apt,275,7
+Seventh Ward,Private room,150,23
+Seventh Ward,Entire home/apt,169,64
+Seventh Ward,Private room,60,58
+Seventh Ward,Private room,50,2
+Seventh Ward,Entire home/apt,94,139
+Seventh Ward,Private room,109,0
+Seventh Ward,Entire home/apt,99,52
+Seventh Ward,Entire home/apt,425,7
+Seventh Ward,Shared room,19,14
+Seventh Ward,Private room,53,12
+Seventh Ward,Entire home/apt,144,2
+Seventh Ward,Entire home/apt,100,131
+Seventh Ward,Private room,75,18
+Seventh Ward,Private room,75,4
+Seventh Ward,Shared room,49,62
+Seventh Ward,Entire home/apt,750,15
+Seventh Ward,Private room,120,0
+Seventh Ward,Private room,40,10
+Seventh Ward,Entire home/apt,300,6
+Seventh Ward,Entire home/apt,77,337
+Seventh Ward,Entire home/apt,100,135
+Seventh Ward,Entire home/apt,249,6
+Seventh Ward,Private room,300,0
+Seventh Ward,Entire home/apt,125,5
+Seventh Ward,Entire home/apt,600,6
+Seventh Ward,Entire home/apt,119,55
+Seventh Ward,Private room,65,358
+Seventh Ward,Entire home/apt,700,48
+Seventh Ward,Entire home/apt,700,4
+Seventh Ward,Entire home/apt,1090,12
+Seventh Ward,Entire home/apt,225,20
+Seventh Ward,Entire home/apt,450,0
+Seventh Ward,Entire home/apt,300,0
+Seventh Ward,Private room,120,5
+Seventh Ward,Entire home/apt,63,53
+Seventh Ward,Entire home/apt,130,19
+Seventh Ward,Entire home/apt,199,6
+Seventh Ward,Entire home/apt,250,10
+Seventh Ward,Entire home/apt,79,32
+Seventh Ward,Entire home/apt,150,8
+Seventh Ward,Private room,150,1
+Seventh Ward,Entire home/apt,150,0
+Seventh Ward,Entire home/apt,72,13
+Seventh Ward,Entire home/apt,515,2
+Seventh Ward,Entire home/apt,99,4
+Seventh Ward,Entire home/apt,125,30
+Seventh Ward,Entire home/apt,200,12
+Seventh Ward,Entire home/apt,70,20
+Seventh Ward,Private room,70,0
+Seventh Ward,Entire home/apt,140,16
+Seventh Ward,Entire home/apt,700,1
+Seventh Ward,Entire home/apt,120,0
+Seventh Ward,Entire home/apt,99,50
+Seventh Ward,Entire home/apt,99,7
+Seventh Ward,Entire home/apt,100,78
+Seventh Ward,Entire home/apt,160,4
+Seventh Ward,Entire home/apt,98,81
+Seventh Ward,Private room,85,110
+Seventh Ward,Entire home/apt,105,24
+Seventh Ward,Entire home/apt,125,51
+Seventh Ward,Private room,60,2
+Seventh Ward,Private room,36,68
+Seventh Ward,Private room,85,20
+Seventh Ward,Entire home/apt,139,97
+Seventh Ward,Entire home/apt,100,0
+Seventh Ward,Entire home/apt,175,5
+Seventh Ward,Entire home/apt,500,47
+Seventh Ward,Entire home/apt,700,3
+Seventh Ward,Entire home/apt,75,12
+Seventh Ward,Entire home/apt,325,2
+Seventh Ward,Entire home/apt,245,58
+Seventh Ward,Private room,65,46
+Seventh Ward,Entire home/apt,85,10
+Seventh Ward,Entire home/apt,125,1
+Seventh Ward,Entire home/apt,215,7
+Seventh Ward,Entire home/apt,160,58
+Seventh Ward,Private room,45,10
+Seventh Ward,Entire home/apt,400,46
+Seventh Ward,Private room,135,8
+Seventh Ward,Entire home/apt,75,43
+Seventh Ward,Shared room,19,8
+Seventh Ward,Entire home/apt,122,20
+Seventh Ward,Entire home/apt,109,12
+Seventh Ward,Entire home/apt,110,131
+Seventh Ward,Private room,39,45
+Seventh Ward,Entire home/apt,450,7
+Seventh Ward,Entire home/apt,85,54
+Seventh Ward,Entire home/apt,199,0
+Seventh Ward,Entire home/apt,350,6
+Seventh Ward,Entire home/apt,250,0
+Seventh Ward,Shared room,225,0
+Seventh Ward,Entire home/apt,125,0
+Seventh Ward,Entire home/apt,100,5
+Seventh Ward,Entire home/apt,120,104
+Seventh Ward,Entire home/apt,100,8
+Seventh Ward,Entire home/apt,350,7
+Seventh Ward,Entire home/apt,250,0
+Seventh Ward,Private room,35,38
+Seventh Ward,Private room,35,17
+Seventh Ward,Private room,85,23
+Seventh Ward,Private room,50,51
+Seventh Ward,Entire home/apt,60,86
+Seventh Ward,Private room,125,97
+Seventh Ward,Entire home/apt,300,10
+Seventh Ward,Entire home/apt,125,27
+Seventh Ward,Entire home/apt,500,99
+Seventh Ward,Entire home/apt,125,56
+Seventh Ward,Entire home/apt,119,73
+Seventh Ward,Entire home/apt,119,20
+Seventh Ward,Entire home/apt,175,17
+Seventh Ward,Entire home/apt,620,1
+Seventh Ward,Entire home/apt,425,5
+Seventh Ward,Shared room,55,3
+Seventh Ward,Entire home/apt,100,14
+Seventh Ward,Entire home/apt,250,1
+Seventh Ward,Private room,75,1
+Seventh Ward,Entire home/apt,125,83
+Seventh Ward,Entire home/apt,250,13
+Seventh Ward,Entire home/apt,99,90
+Seventh Ward,Entire home/apt,400,58
+Seventh Ward,Entire home/apt,95,24
+Seventh Ward,Entire home/apt,79,14
+Seventh Ward,Entire home/apt,75,26
+Seventh Ward,Entire home/apt,176,5
+Seventh Ward,Entire home/apt,89,0
+Seventh Ward,Entire home/apt,250,4
+Seventh Ward,Entire home/apt,249,26
+Seventh Ward,Entire home/apt,269,21
+Seventh Ward,Entire home/apt,250,1
+Seventh Ward,Entire home/apt,125,19
+Seventh Ward,Entire home/apt,400,1
+Seventh Ward,Entire home/apt,150,1
+Seventh Ward,Entire home/apt,65,192
+Seventh Ward,Entire home/apt,400,4
+Seventh Ward,Entire home/apt,150,16
+Seventh Ward,Private room,193,0
+Seventh Ward,Entire home/apt,450,14
+Seventh Ward,Entire home/apt,125,53
+Seventh Ward,Private room,85,83
+Seventh Ward,Private room,65,26
+Seventh Ward,Private room,65,14
+Seventh Ward,Private room,40,11
+Seventh Ward,Entire home/apt,175,12
+Seventh Ward,Entire home/apt,75,46
+Seventh Ward,Entire home/apt,200,3
+Seventh Ward,Private room,60,50
+Seventh Ward,Entire home/apt,700,53
+Seventh Ward,Entire home/apt,107,31
+Seventh Ward,Entire home/apt,90,8
+Seventh Ward,Private room,100,2
+Seventh Ward,Entire home/apt,105,27
+Seventh Ward,Private room,60,1
+Seventh Ward,Entire home/apt,85,19
+Seventh Ward,Entire home/apt,140,3
+Seventh Ward,Private room,50,5
+Seventh Ward,Entire home/apt,99,64
+Seventh Ward,Entire home/apt,100,6
+Seventh Ward,Entire home/apt,80,28
+Seventh Ward,Entire home/apt,115,1
+Seventh Ward,Entire home/apt,85,51
+Seventh Ward,Entire home/apt,425,17
+Seventh Ward,Entire home/apt,350,7
+Seventh Ward,Entire home/apt,99,66
+Seventh Ward,Entire home/apt,85,14
+Seventh Ward,Entire home/apt,850,0
+Seventh Ward,Entire home/apt,275,19
+Seventh Ward,Entire home/apt,222,1
+Seventh Ward,Private room,65,125
+Seventh Ward,Entire home/apt,200,0
+Seventh Ward,Entire home/apt,125,2
+Seventh Ward,Private room,55,18
+Seventh Ward,Entire home/apt,91,10
+Seventh Ward,Entire home/apt,750,1
+Seventh Ward,Private room,65,42
+Seventh Ward,Entire home/apt,600,20
+Seventh Ward,Entire home/apt,79,10
+Seventh Ward,Private room,63,2
+Seventh Ward,Private room,90,1
+Seventh Ward,Entire home/apt,125,16
+Seventh Ward,Private room,109,93
+Seventh Ward,Entire home/apt,98,9
+Seventh Ward,Entire home/apt,135,9
+Seventh Ward,Entire home/apt,888,0
+Seventh Ward,Entire home/apt,125,0
+Seventh Ward,Private room,56,48
+Seventh Ward,Entire home/apt,650,15
+Seventh Ward,Private room,75,1
+Seventh Ward,Entire home/apt,129,1
+Seventh Ward,Private room,80,0
+Seventh Ward,Private room,139,44
+Seventh Ward,Private room,85,35
+Seventh Ward,Private room,25,5
+Seventh Ward,Entire home/apt,350,0
+Seventh Ward,Entire home/apt,95,4
+Seventh Ward,Entire home/apt,99,178
+Seventh Ward,Entire home/apt,400,0
+Seventh Ward,Entire home/apt,75,2
+Seventh Ward,Entire home/apt,96,131
+Seventh Ward,Entire home/apt,400,1
+Seventh Ward,Entire home/apt,800,33
+Seventh Ward,Entire home/apt,90,0
+Seventh Ward,Entire home/apt,280,4
+Seventh Ward,Entire home/apt,175,14
+Seventh Ward,Entire home/apt,200,6
+Seventh Ward,Entire home/apt,94,13
+Seventh Ward,Entire home/apt,325,0
+Seventh Ward,Entire home/apt,120,120
+Seventh Ward,Private room,70,3
+Seventh Ward,Entire home/apt,145,60
+Seventh Ward,Entire home/apt,133,6
+Seventh Ward,Entire home/apt,300,0
+Seventh Ward,Entire home/apt,80,2
+Seventh Ward,Entire home/apt,100,102
+Seventh Ward,Entire home/apt,102,0
+Seventh Ward,Private room,150,2
+Seventh Ward,Entire home/apt,1900,31
+Seventh Ward,Private room,95,4
+Seventh Ward,Entire home/apt,125,13
+Seventh Ward,Entire home/apt,199,29
+Seventh Ward,Entire home/apt,220,110
+Seventh Ward,Private room,50,1
+Seventh Ward,Entire home/apt,500,0
+Seventh Ward,Private room,75,28
+Seventh Ward,Private room,199,1
+Seventh Ward,Private room,100,0
+Seventh Ward,Entire home/apt,245,14
+Seventh Ward,Entire home/apt,85,63
+Seventh Ward,Private room,55,12
+Seventh Ward,Entire home/apt,150,21
+Seventh Ward,Entire home/apt,60,87
+Seventh Ward,Private room,75,16
+Seventh Ward,Entire home/apt,120,1
+Seventh Ward,Private room,44,13
+Seventh Ward,Entire home/apt,275,1
+Seventh Ward,Entire home/apt,319,45
+Seventh Ward,Private room,90,88
+Seventh Ward,Entire home/apt,450,0
+Seventh Ward,Entire home/apt,295,9
+Seventh Ward,Entire home/apt,190,0
+Seventh Ward,Entire home/apt,361,18
+Seventh Ward,Entire home/apt,308,21
+Seventh Ward,Entire home/apt,300,6
+Seventh Ward,Private room,99,27
+Seventh Ward,Entire home/apt,240,0
+Seventh Ward,Entire home/apt,200,8
+Seventh Ward,Entire home/apt,125,43
+Seventh Ward,Private room,85,45
+Seventh Ward,Shared room,80,1
+Seventh Ward,Entire home/apt,85,24
+Seventh Ward,Private room,36,17
+Seventh Ward,Private room,70,1
+Seventh Ward,Entire home/apt,149,43
+Seventh Ward,Private room,75,17
+Seventh Ward,Entire home/apt,995,2
+Seventh Ward,Entire home/apt,209,17
+Seventh Ward,Private room,99,0
+Seventh Ward,Entire home/apt,65,76
+Seventh Ward,Entire home/apt,218,32
+Seventh Ward,Entire home/apt,230,27
+Seventh Ward,Private room,115,14
+Seventh Ward,Shared room,19,7
+Seventh Ward,Entire home/apt,95,22
+Seventh Ward,Entire home/apt,153,42
+Seventh Ward,Entire home/apt,69,103
+Seventh Ward,Entire home/apt,100,2
+Seventh Ward,Entire home/apt,200,10
+Seventh Ward,Entire home/apt,299,11
+Seventh Ward,Private room,60,3
+Seventh Ward,Private room,72,31
+Seventh Ward,Private room,70,6
+Seventh Ward,Entire home/apt,95,8
+Seventh Ward,Entire home/apt,75,1
+Seventh Ward,Entire home/apt,160,147
+Seventh Ward,Entire home/apt,99,16
+Seventh Ward,Entire home/apt,110,133
+Seventh Ward,Entire home/apt,105,28
+Seventh Ward,Entire home/apt,80,68
+Seventh Ward,Entire home/apt,115,180
+Seventh Ward,Entire home/apt,80,8
+Seventh Ward,Private room,49,6
+Seventh Ward,Shared room,19,12
+Seventh Ward,Entire home/apt,191,35
+Seventh Ward,Private room,55,8
+Seventh Ward,Entire home/apt,950,0
+Seventh Ward,Private room,56,1
+Seventh Ward,Private room,51,5
+Seventh Ward,Entire home/apt,99,53
+Seventh Ward,Private room,60,7
+Seventh Ward,Shared room,19,28
+Seventh Ward,Entire home/apt,145,1
+Seventh Ward,Private room,89,349
+Treme - Lafitte,Entire home/apt,210,199
+Treme - Lafitte,Entire home/apt,300,30
+Treme - Lafitte,Entire home/apt,150,95
+Treme - Lafitte,Entire home/apt,115,65
+Treme - Lafitte,Entire home/apt,849,31
+Treme - Lafitte,Entire home/apt,800,0
+Treme - Lafitte,Entire home/apt,91,17
+Treme - Lafitte,Private room,169,3
+Treme - Lafitte,Entire home/apt,108,3
+Treme - Lafitte,Entire home/apt,120,38
+Treme - Lafitte,Entire home/apt,95,354
+Treme - Lafitte,Private room,89,85
+Treme - Lafitte,Entire home/apt,700,37
+Treme - Lafitte,Entire home/apt,89,15
+Treme - Lafitte,Private room,75,7
+Treme - Lafitte,Entire home/apt,120,28
+Treme - Lafitte,Entire home/apt,110,117
+Treme - Lafitte,Entire home/apt,125,16
+Treme - Lafitte,Private room,79,13
+Treme - Lafitte,Entire home/apt,350,0
+Treme - Lafitte,Entire home/apt,120,80
+Treme - Lafitte,Private room,129,0
+Treme - Lafitte,Entire home/apt,166,4
+Treme - Lafitte,Entire home/apt,192,0
+Treme - Lafitte,Entire home/apt,195,0
+Treme - Lafitte,Entire home/apt,150,25
+Treme - Lafitte,Entire home/apt,920,54
+Treme - Lafitte,Entire home/apt,125,7
+Treme - Lafitte,Entire home/apt,110,61
+Treme - Lafitte,Entire home/apt,135,54
+Treme - Lafitte,Entire home/apt,99,24
+Treme - Lafitte,Entire home/apt,125,55
+Treme - Lafitte,Entire home/apt,150,88
+Treme - Lafitte,Entire home/apt,120,1
+Treme - Lafitte,Entire home/apt,100,97
+Treme - Lafitte,Entire home/apt,250,5
+Treme - Lafitte,Entire home/apt,200,0
+Treme - Lafitte,Entire home/apt,300,11
+Treme - Lafitte,Private room,65,5
+Treme - Lafitte,Entire home/apt,950,50
+Treme - Lafitte,Entire home/apt,125,6
+Treme - Lafitte,Entire home/apt,110,2
+Treme - Lafitte,Entire home/apt,108,47
+Treme - Lafitte,Entire home/apt,86,12
+Treme - Lafitte,Entire home/apt,185,19
+Treme - Lafitte,Private room,99,20
+Treme - Lafitte,Entire home/apt,100,61
+Treme - Lafitte,Private room,80,43
+Treme - Lafitte,Private room,45,27
+Treme - Lafitte,Private room,39,26
+Treme - Lafitte,Entire home/apt,199,4
+Treme - Lafitte,Entire home/apt,99,14
+Treme - Lafitte,Entire home/apt,150,3
+Treme - Lafitte,Entire home/apt,157,2
+Treme - Lafitte,Entire home/apt,100,16
+Treme - Lafitte,Private room,45,34
+Treme - Lafitte,Entire home/apt,197,36
+Treme - Lafitte,Entire home/apt,531,65
+Treme - Lafitte,Entire home/apt,185,44
+Treme - Lafitte,Private room,129,0
+Treme - Lafitte,Entire home/apt,100,132
+Treme - Lafitte,Private room,60,45
+Treme - Lafitte,Private room,219,0
+Treme - Lafitte,Entire home/apt,98,37
+Treme - Lafitte,Private room,250,0
+Treme - Lafitte,Entire home/apt,110,8
+Treme - Lafitte,Private room,129,1
+Treme - Lafitte,Entire home/apt,300,29
+Treme - Lafitte,Private room,80,10
+Treme - Lafitte,Entire home/apt,150,163
+Treme - Lafitte,Entire home/apt,700,17
+Treme - Lafitte,Entire home/apt,80,6
+Treme - Lafitte,Entire home/apt,125,7
+Treme - Lafitte,Private room,195,0
+Treme - Lafitte,Entire home/apt,250,0
+Treme - Lafitte,Entire home/apt,100,109
+Treme - Lafitte,Entire home/apt,156,51
+Treme - Lafitte,Private room,59,1
+Treme - Lafitte,Entire home/apt,167,18
+Treme - Lafitte,Private room,129,0
+Treme - Lafitte,Entire home/apt,83,39
+Treme - Lafitte,Entire home/apt,124,70
+Treme - Lafitte,Entire home/apt,109,94
+Treme - Lafitte,Entire home/apt,120,7
+Treme - Lafitte,Entire home/apt,375,0
+Treme - Lafitte,Private room,65,23
+Treme - Lafitte,Entire home/apt,95,342
+Treme - Lafitte,Entire home/apt,89,91
+Treme - Lafitte,Entire home/apt,135,66
+Treme - Lafitte,Private room,250,0
+Treme - Lafitte,Private room,78,9
+Treme - Lafitte,Entire home/apt,105,72
+Treme - Lafitte,Entire home/apt,250,1
+Treme - Lafitte,Entire home/apt,400,23
+Treme - Lafitte,Entire home/apt,108,33
+Treme - Lafitte,Entire home/apt,55,38
+Treme - Lafitte,Entire home/apt,395,95
+Treme - Lafitte,Entire home/apt,400,68
+Treme - Lafitte,Entire home/apt,890,23
+Treme - Lafitte,Private room,60,76
+Treme - Lafitte,Private room,89,2
+Treme - Lafitte,Private room,65,22
+Treme - Lafitte,Private room,80,26
+Treme - Lafitte,Private room,129,0
+Treme - Lafitte,Entire home/apt,65,11
+Treme - Lafitte,Entire home/apt,90,62
+Treme - Lafitte,Entire home/apt,12,0
+Treme - Lafitte,Entire home/apt,300,23
+Treme - Lafitte,Entire home/apt,149,36
+Treme - Lafitte,Entire home/apt,85,12
+Treme - Lafitte,Private room,100,6
+Treme - Lafitte,Entire home/apt,200,34
+Treme - Lafitte,Private room,55,64
+Treme - Lafitte,Private room,130,0
+Treme - Lafitte,Entire home/apt,175,4
+Treme - Lafitte,Private room,275,1
+Treme - Lafitte,Entire home/apt,99,73
+Treme - Lafitte,Entire home/apt,125,10
+Treme - Lafitte,Entire home/apt,675,58
+Treme - Lafitte,Entire home/apt,250,7
+Treme - Lafitte,Entire home/apt,105,139
+Treme - Lafitte,Entire home/apt,149,139
+Treme - Lafitte,Entire home/apt,225,8
+Treme - Lafitte,Private room,77,20
+Treme - Lafitte,Private room,50,3
+Treme - Lafitte,Private room,275,1
+Treme - Lafitte,Entire home/apt,249,101
+Treme - Lafitte,Entire home/apt,132,56
+Treme - Lafitte,Private room,90,33
+Treme - Lafitte,Private room,50,22
+Treme - Lafitte,Entire home/apt,95,168
+Treme - Lafitte,Entire home/apt,92,12
+Treme - Lafitte,Entire home/apt,400,9
+Treme - Lafitte,Private room,150,0
+Treme - Lafitte,Entire home/apt,109,32
+Treme - Lafitte,Private room,99,105
+Treme - Lafitte,Entire home/apt,325,16
+Treme - Lafitte,Entire home/apt,950,0
+Treme - Lafitte,Entire home/apt,150,112
+Treme - Lafitte,Entire home/apt,125,5
+Treme - Lafitte,Private room,72,24
+Treme - Lafitte,Entire home/apt,399,104
+Treme - Lafitte,Entire home/apt,125,6
+Treme - Lafitte,Private room,80,34
+Treme - Lafitte,Private room,56,75
+Treme - Lafitte,Entire home/apt,350,13
+Treme - Lafitte,Entire home/apt,124,20
+Treme - Lafitte,Entire home/apt,750,1
+Treme - Lafitte,Entire home/apt,98,8
+Treme - Lafitte,Entire home/apt,199,9
+Treme - Lafitte,Private room,95,25
+Treme - Lafitte,Private room,200,0
+Treme - Lafitte,Entire home/apt,399,0
+Treme - Lafitte,Private room,129,0
+Treme - Lafitte,Entire home/apt,144,1
+Treme - Lafitte,Entire home/apt,125,58
+Treme - Lafitte,Entire home/apt,350,6
+Treme - Lafitte,Entire home/apt,171,4
+Treme - Lafitte,Entire home/apt,60,49
+Treme - Lafitte,Entire home/apt,165,1
+Treme - Lafitte,Entire home/apt,125,6
+Treme - Lafitte,Entire home/apt,99,75
+Treme - Lafitte,Entire home/apt,100,0
+Treme - Lafitte,Private room,55,6
+Treme - Lafitte,Entire home/apt,700,34
+Treme - Lafitte,Entire home/apt,90,10
+Treme - Lafitte,Entire home/apt,300,56
+Treme - Lafitte,Entire home/apt,125,34
+Treme - Lafitte,Entire home/apt,90,154
+Treme - Lafitte,Entire home/apt,165,6
+Treme - Lafitte,Entire home/apt,135,5
+Treme - Lafitte,Entire home/apt,500,0
+Treme - Lafitte,Entire home/apt,50,1
+Treme - Lafitte,Shared room,47,50
+Treme - Lafitte,Entire home/apt,495,35
+Treme - Lafitte,Entire home/apt,100,120
+Treme - Lafitte,Private room,75,0
+Treme - Lafitte,Private room,115,3
+Treme - Lafitte,Private room,53,0
+Treme - Lafitte,Entire home/apt,136,57
+Treme - Lafitte,Entire home/apt,145,28
+Treme - Lafitte,Entire home/apt,95,52
+Treme - Lafitte,Private room,65,66
+Treme - Lafitte,Private room,80,1
+Treme - Lafitte,Entire home/apt,80,5
+Treme - Lafitte,Entire home/apt,195,12
+Treme - Lafitte,Entire home/apt,150,191
+Treme - Lafitte,Entire home/apt,89,5
+Treme - Lafitte,Entire home/apt,150,54
+Treme - Lafitte,Private room,111,4
+Treme - Lafitte,Entire home/apt,124,26
+Treme - Lafitte,Entire home/apt,200,127
+Treme - Lafitte,Private room,135,7
+Treme - Lafitte,Entire home/apt,185,122
+Treme - Lafitte,Entire home/apt,150,63
+Treme - Lafitte,Entire home/apt,99,1
+Treme - Lafitte,Entire home/apt,173,6
+Treme - Lafitte,Entire home/apt,199,7
+Treme - Lafitte,Entire home/apt,125,0
+Treme - Lafitte,Entire home/apt,85,1
+Treme - Lafitte,Entire home/apt,120,3
+Treme - Lafitte,Entire home/apt,410,0
+Treme - Lafitte,Shared room,75,1
+Treme - Lafitte,Entire home/apt,1500,2
+Treme - Lafitte,Entire home/apt,118,49
+Treme - Lafitte,Entire home/apt,325,32
+Treme - Lafitte,Entire home/apt,289,81
+Treme - Lafitte,Entire home/apt,350,20
+Treme - Lafitte,Entire home/apt,800,13
+Treme - Lafitte,Private room,111,2
+Treme - Lafitte,Entire home/apt,105,3
+Treme - Lafitte,Entire home/apt,350,28
+Treme - Lafitte,Entire home/apt,275,26
+Treme - Lafitte,Entire home/apt,400,13
+Treme - Lafitte,Entire home/apt,300,4
+Treme - Lafitte,Entire home/apt,120,11
+Treme - Lafitte,Entire home/apt,95,207
+Treme - Lafitte,Entire home/apt,200,4
+Treme - Lafitte,Entire home/apt,100,151
+Treme - Lafitte,Entire home/apt,349,41
+Treme - Lafitte,Entire home/apt,150,16
+Treme - Lafitte,Entire home/apt,228,4
+Treme - Lafitte,Entire home/apt,125,15
+Treme - Lafitte,Entire home/apt,175,3
+Treme - Lafitte,Entire home/apt,222,3
+Treme - Lafitte,Private room,125,6
+Treme - Lafitte,Private room,57,146
+Treme - Lafitte,Entire home/apt,119,216
+Treme - Lafitte,Private room,129,1
+Treme - Lafitte,Shared room,100,0
+Treme - Lafitte,Entire home/apt,99,1
+Treme - Lafitte,Entire home/apt,125,2
+Treme - Lafitte,Entire home/apt,575,18
+Treme - Lafitte,Entire home/apt,280,27
+Treme - Lafitte,Entire home/apt,110,101
+Treme - Lafitte,Private room,40,31
+Treme - Lafitte,Entire home/apt,70,88
+Treme - Lafitte,Entire home/apt,500,1
+Treme - Lafitte,Entire home/apt,98,0
+Treme - Lafitte,Entire home/apt,199,8
+Treme - Lafitte,Private room,85,0
+Treme - Lafitte,Entire home/apt,600,30
+Treme - Lafitte,Entire home/apt,325,50
+Treme - Lafitte,Entire home/apt,157,45
+Treme - Lafitte,Entire home/apt,275,5
+Treme - Lafitte,Private room,75,53
+Treme - Lafitte,Entire home/apt,120,2
+Treme - Lafitte,Entire home/apt,199,6
+Treme - Lafitte,Entire home/apt,479,1
+Treme - Lafitte,Private room,85,13
+Treme - Lafitte,Private room,135,149
+Treme - Lafitte,Entire home/apt,95,163
+Treme - Lafitte,Entire home/apt,140,29
+Treme - Lafitte,Entire home/apt,99,388
+Treme - Lafitte,Entire home/apt,125,82
+Treme - Lafitte,Entire home/apt,100,17
+Treme - Lafitte,Private room,75,2
+Treme - Lafitte,Private room,51,114
+Treme - Lafitte,Entire home/apt,175,2
+Treme - Lafitte,Private room,195,2
+Treme - Lafitte,Private room,73,1
+Treme - Lafitte,Private room,150,0
+Treme - Lafitte,Entire home/apt,125,62
+Treme - Lafitte,Entire home/apt,125,44
+Treme - Lafitte,Entire home/apt,100,38
+Treme - Lafitte,Private room,64,9
+Treme - Lafitte,Private room,99,4
+Treme - Lafitte,Private room,50,2
+Treme - Lafitte,Entire home/apt,500,15
+Treme - Lafitte,Private room,125,55
+Treme - Lafitte,Private room,150,4
+Treme - Lafitte,Private room,35,31
+Treme - Lafitte,Private room,30,176
+Treme - Lafitte,Entire home/apt,1950,0
+Treme - Lafitte,Entire home/apt,90,3
+Treme - Lafitte,Private room,70,36
+Treme - Lafitte,Entire home/apt,500,23
+Treme - Lafitte,Private room,65,3
+Treme - Lafitte,Entire home/apt,500,5
+Treme - Lafitte,Entire home/apt,135,94
+Treme - Lafitte,Entire home/apt,60,93
+Treme - Lafitte,Entire home/apt,1200,0
+Treme - Lafitte,Entire home/apt,300,32
+Treme - Lafitte,Entire home/apt,140,61
+Treme - Lafitte,Entire home/apt,400,0
+Treme - Lafitte,Private room,60,46
+Treme - Lafitte,Entire home/apt,110,2
+Treme - Lafitte,Entire home/apt,250,6
+Treme - Lafitte,Entire home/apt,125,7
+Treme - Lafitte,Private room,60,58
+Treme - Lafitte,Private room,89,10
+Treme - Lafitte,Entire home/apt,135,5
+Treme - Lafitte,Entire home/apt,800,7
+Treme - Lafitte,Entire home/apt,300,8
+Treme - Lafitte,Private room,69,61
+Treme - Lafitte,Private room,85,0
+Treme - Lafitte,Private room,85,5
+Treme - Lafitte,Private room,135,0
+Treme - Lafitte,Private room,150,6
+Treme - Lafitte,Entire home/apt,563,0
+Treme - Lafitte,Entire home/apt,100,103
+Treme - Lafitte,Private room,185,27
+Treme - Lafitte,Private room,120,36
+Treme - Lafitte,Shared room,50,20
+Treme - Lafitte,Private room,65,56
+Treme - Lafitte,Entire home/apt,100,10
+Treme - Lafitte,Entire home/apt,85,8
+Treme - Lafitte,Private room,80,21
+Treme - Lafitte,Entire home/apt,110,106
+Treme - Lafitte,Entire home/apt,265,8
+Treme - Lafitte,Entire home/apt,949,4
+Treme - Lafitte,Private room,65,48
+Treme - Lafitte,Private room,75,27
+Treme - Lafitte,Private room,67,4
+Treme - Lafitte,Entire home/apt,200,0
+Treme - Lafitte,Entire home/apt,205,16
+Treme - Lafitte,Entire home/apt,85,193
+Treme - Lafitte,Entire home/apt,339,2
+Treme - Lafitte,Entire home/apt,107,61
+Treme - Lafitte,Entire home/apt,175,30
+Treme - Lafitte,Entire home/apt,75,11
+Treme - Lafitte,Private room,50,31
+Treme - Lafitte,Entire home/apt,75,25
+Treme - Lafitte,Entire home/apt,100,446
+Treme - Lafitte,Private room,72,16
+Treme - Lafitte,Private room,75,3
+Treme - Lafitte,Entire home/apt,410,0
+Treme - Lafitte,Private room,75,10
+Treme - Lafitte,Private room,179,0
+Treme - Lafitte,Entire home/apt,75,43
+Treme - Lafitte,Entire home/apt,250,35
+Treme - Lafitte,Entire home/apt,145,25
+Treme - Lafitte,Entire home/apt,84,17
+Treme - Lafitte,Entire home/apt,208,3
+St.  Anthony,Private room,66,9
+St.  Anthony,Entire home/apt,300,1
+St.  Anthony,Entire home/apt,140,3
+St.  Anthony,Private room,45,64
+St.  Anthony,Entire home/apt,95,4
+St.  Anthony,Entire home/apt,170,34
+St.  Anthony,Entire home/apt,175,6
+St.  Anthony,Private room,60,3
+St.  Anthony,Entire home/apt,200,15
+St.  Anthony,Entire home/apt,200,37
+St.  Anthony,Entire home/apt,75,27
+St.  Anthony,Private room,50,4
+St.  Anthony,Entire home/apt,425,0
+St.  Anthony,Private room,110,3
+St.  Anthony,Private room,120,4
+St.  Anthony,Entire home/apt,74,3
+St.  Anthony,Entire home/apt,125,3
+St.  Anthony,Private room,66,39
+St.  Anthony,Entire home/apt,50,6
+St.  Anthony,Entire home/apt,638,0
+St.  Anthony,Private room,80,8
+St. Bernard Area,Entire home/apt,100,11
+St. Bernard Area,Private room,85,16
+St. Bernard Area,Private room,75,2
+St. Bernard Area,Private room,65,21
+St. Bernard Area,Entire home/apt,99,48
+St. Claude,Entire home/apt,85,0
+St. Claude,Entire home/apt,150,86
+St. Claude,Entire home/apt,100,154
+St. Claude,Entire home/apt,130,92
+St. Claude,Private room,50,0
+St. Claude,Entire home/apt,125,1
+St. Claude,Entire home/apt,100,7
+St. Claude,Shared room,10,1
+St. Claude,Private room,53,1
+St. Claude,Entire home/apt,105,61
+St. Claude,Entire home/apt,129,28
+St. Claude,Entire home/apt,139,21
+St. Claude,Entire home/apt,100,4
+St. Claude,Entire home/apt,150,18
+St. Claude,Entire home/apt,65,6
+St. Claude,Private room,45,280
+St. Claude,Entire home/apt,725,5
+St. Claude,Entire home/apt,120,26
+St. Claude,Private room,45,73
+St. Claude,Entire home/apt,112,120
+St. Claude,Entire home/apt,250,0
+St. Claude,Entire home/apt,100,167
+St. Claude,Entire home/apt,180,7
+St. Claude,Entire home/apt,150,87
+St. Claude,Private room,55,18
+St. Claude,Entire home/apt,975,6
+St. Claude,Entire home/apt,89,114
+St. Claude,Entire home/apt,149,29
+St. Claude,Entire home/apt,140,13
+St. Claude,Private room,100,40
+St. Claude,Private room,70,7
+St. Claude,Private room,45,292
+St. Claude,Entire home/apt,150,4
+St. Claude,Entire home/apt,98,19
+St. Claude,Entire home/apt,115,28
+St. Claude,Entire home/apt,175,4
+St. Claude,Entire home/apt,350,24
+St. Claude,Private room,75,75
+St. Claude,Private room,80,60
+St. Claude,Entire home/apt,105,23
+St. Claude,Entire home/apt,120,0
+St. Claude,Entire home/apt,120,63
+St. Claude,Private room,55,93
+St. Claude,Entire home/apt,120,202
+St. Claude,Entire home/apt,90,10
+St. Claude,Private room,70,10
+St. Claude,Entire home/apt,110,208
+St. Claude,Entire home/apt,84,1
+St. Claude,Private room,125,83
+St. Claude,Entire home/apt,115,52
+St. Claude,Entire home/apt,115,59
+St. Claude,Private room,46,0
+St. Claude,Entire home/apt,128,187
+St. Claude,Private room,73,158
+St. Claude,Entire home/apt,95,129
+St. Claude,Entire home/apt,200,19
+St. Claude,Entire home/apt,105,3
+St. Claude,Entire home/apt,85,57
+St. Claude,Shared room,60,3
+St. Claude,Entire home/apt,145,4
+St. Claude,Private room,30,2
+St. Claude,Entire home/apt,99,36
+St. Claude,Entire home/apt,75,11
+St. Claude,Private room,50,82
+St. Claude,Private room,65,42
+St. Claude,Entire home/apt,140,36
+St. Claude,Private room,50,211
+St. Claude,Entire home/apt,86,4
+St. Claude,Entire home/apt,85,4
+St. Claude,Entire home/apt,175,82
+St. Claude,Entire home/apt,85,18
+St. Claude,Entire home/apt,175,44
+St. Claude,Entire home/apt,98,1
+St. Claude,Entire home/apt,130,14
+St. Claude,Entire home/apt,95,118
+St. Claude,Private room,42,70
+St. Claude,Entire home/apt,60,71
+St. Claude,Entire home/apt,75,49
+St. Claude,Private room,100,15
+St. Claude,Entire home/apt,98,107
+St. Claude,Private room,60,121
+St. Claude,Private room,40,31
+St. Claude,Private room,100,0
+St. Claude,Entire home/apt,95,73
+St. Claude,Private room,79,1
+St. Claude,Entire home/apt,200,1
+St. Claude,Private room,100,32
+St. Claude,Private room,30,4
+St. Claude,Private room,100,12
+St. Claude,Entire home/apt,125,51
+St. Claude,Private room,45,20
+St. Claude,Entire home/apt,229,34
+St. Claude,Private room,55,152
+St. Claude,Entire home/apt,190,82
+St. Claude,Entire home/apt,75,4
+St. Claude,Private room,76,80
+St. Claude,Entire home/apt,85,88
+St. Claude,Private room,45,263
+St. Claude,Entire home/apt,334,6
+St. Claude,Private room,70,3
+St. Claude,Entire home/apt,99,113
+St. Claude,Entire home/apt,500,0
+St. Claude,Entire home/apt,94,158
+St. Claude,Entire home/apt,400,10
+St. Claude,Private room,50,206
+St. Claude,Entire home/apt,105,105
+St. Claude,Private room,80,36
+St. Claude,Entire home/apt,150,66
+St. Claude,Entire home/apt,75,105
+St. Claude,Entire home/apt,255,0
+St. Claude,Entire home/apt,129,26
+St. Claude,Entire home/apt,400,5
+St. Claude,Entire home/apt,179,1
+St. Claude,Private room,50,26
+St. Claude,Entire home/apt,175,3
+St. Claude,Private room,50,206
+St. Claude,Entire home/apt,151,30
+St. Claude,Entire home/apt,82,56
+St. Claude,Entire home/apt,120,28
+St. Claude,Entire home/apt,89,142
+St. Claude,Entire home/apt,140,99
+St. Claude,Private room,60,0
+St. Claude,Private room,75,14
+St. Claude,Private room,95,2
+St. Claude,Private room,75,76
+St. Claude,Private room,60,9
+St. Claude,Entire home/apt,79,20
+St. Claude,Entire home/apt,300,30
+St. Claude,Entire home/apt,199,43
+St. Claude,Entire home/apt,299,2
+St. Claude,Entire home/apt,230,3
+St. Claude,Entire home/apt,140,111
+St. Claude,Entire home/apt,100,4
+St. Claude,Entire home/apt,143,48
+St. Claude,Entire home/apt,130,171
+St. Claude,Private room,40,46
+St. Claude,Private room,60,287
+St. Claude,Entire home/apt,264,15
+St. Claude,Entire home/apt,225,1
+St. Claude,Entire home/apt,125,24
+St. Claude,Private room,85,48
+St. Claude,Entire home/apt,200,5
+St. Claude,Entire home/apt,109,60
+St. Claude,Private room,80,149
+St. Claude,Entire home/apt,140,19
+St. Claude,Entire home/apt,98,198
+St. Claude,Entire home/apt,85,39
+St. Claude,Entire home/apt,75,121
+St. Claude,Entire home/apt,120,224
+St. Claude,Private room,80,101
+St. Claude,Entire home/apt,90,6
+St. Claude,Private room,45,13
+St. Claude,Private room,60,24
+St. Claude,Private room,59,37
+St. Claude,Private room,75,22
+St. Claude,Shared room,10,0
+St. Claude,Private room,40,64
+St. Claude,Private room,80,0
+St. Claude,Private room,175,113
+St. Claude,Private room,60,9
+St. Claude,Private room,100,0
+St. Claude,Entire home/apt,125,52
+St. Claude,Private room,98,9
+St. Claude,Private room,65,165
+St. Claude,Private room,60,27
+St. Claude,Entire home/apt,180,4
+St. Claude,Entire home/apt,79,18
+St. Claude,Entire home/apt,85,20
+St. Claude,Entire home/apt,120,7
+St. Claude,Entire home/apt,129,13
+St. Claude,Entire home/apt,85,63
+St. Claude,Private room,100,15
+St. Claude,Entire home/apt,75,75
+St. Claude,Entire home/apt,158,26
+St. Claude,Private room,125,1
+St. Claude,Entire home/apt,99,4
+St. Claude,Entire home/apt,150,154
+St. Claude,Entire home/apt,249,3
+St. Claude,Entire home/apt,85,85
+St. Claude,Private room,90,23
+St. Claude,Private room,100,5
+St. Claude,Entire home/apt,449,1
+St. Claude,Entire home/apt,100,41
+St. Claude,Entire home/apt,125,24
+St. Claude,Entire home/apt,118,39
+St. Claude,Entire home/apt,85,46
+St. Claude,Entire home/apt,174,34
+St. Claude,Entire home/apt,69,38
+St. Claude,Entire home/apt,105,37
+St. Roch,Entire home/apt,250,6
+St. Roch,Entire home/apt,39,0
+St. Roch,Private room,65,121
+St. Roch,Private room,57,25
+St. Roch,Private room,55,67
+St. Roch,Private room,23,16
+St. Roch,Private room,49,39
+St. Roch,Entire home/apt,200,0
+St. Roch,Entire home/apt,75,101
+St. Roch,Entire home/apt,200,39
+St. Roch,Entire home/apt,92,81
+St. Roch,Private room,65,155
+St. Roch,Private room,40,6
+St. Roch,Private room,92,7
+St. Roch,Entire home/apt,69,9
+St. Roch,Private room,59,97
+St. Roch,Private room,60,116
+St. Roch,Private room,60,106
+St. Roch,Entire home/apt,350,8
+St. Roch,Entire home/apt,349,1
+St. Roch,Entire home/apt,250,0
+St. Roch,Entire home/apt,39,0
+St. Roch,Entire home/apt,295,22
+St. Roch,Private room,89,5
+St. Roch,Private room,35,22
+St. Roch,Private room,30,39
+St. Roch,Entire home/apt,60,40
+St. Roch,Private room,48,3
+St. Roch,Entire home/apt,76,5
+St. Roch,Entire home/apt,450,34
+St. Roch,Entire home/apt,79,64
+St. Roch,Private room,50,3
+St. Roch,Entire home/apt,121,76
+St. Roch,Private room,30,26
+St. Roch,Entire home/apt,117,32
+St. Roch,Entire home/apt,400,6
+St. Roch,Entire home/apt,189,44
+St. Roch,Entire home/apt,150,3
+St. Roch,Entire home/apt,100,88
+St. Roch,Entire home/apt,120,27
+St. Roch,Private room,59,7
+St. Roch,Private room,75,86
+St. Roch,Entire home/apt,100,94
+St. Roch,Private room,62,14
+St. Roch,Entire home/apt,90,21
+St. Roch,Private room,38,113
+St. Roch,Entire home/apt,60,64
+St. Roch,Private room,100,2
+St. Roch,Private room,35,0
+St. Roch,Entire home/apt,450,4
+St. Roch,Private room,51,8
+St. Roch,Private room,78,6
+St. Roch,Shared room,15,13
+St. Roch,Entire home/apt,185,1
+St. Roch,Private room,50,17
+St. Roch,Entire home/apt,145,4
+St. Roch,Entire home/apt,80,13
+St. Roch,Entire home/apt,118,328
+St. Roch,Entire home/apt,60,56
+St. Roch,Entire home/apt,55,17
+St. Roch,Private room,70,0
+St. Roch,Private room,65,9
+St. Roch,Private room,60,21
+St. Roch,Entire home/apt,150,0
+St. Roch,Shared room,15,12
+St. Roch,Private room,99,3
+St. Roch,Private room,59,8
+St. Roch,Entire home/apt,125,2
+St. Roch,Entire home/apt,300,25
+St. Roch,Entire home/apt,79,198
+St. Roch,Entire home/apt,650,10
+St. Roch,Entire home/apt,199,9
+St. Roch,Entire home/apt,100,41
+St. Roch,Private room,75,85
+St. Roch,Entire home/apt,110,59
+St. Roch,Private room,10,1
+St. Roch,Private room,80,2
+St. Roch,Shared room,15,9
+St. Roch,Private room,72,77
+St. Roch,Entire home/apt,125,40
+St. Roch,Private room,50,3
+St. Roch,Private room,60,0
+St. Roch,Private room,45,29
+St. Roch,Entire home/apt,200,7
+St. Roch,Entire home/apt,67,69
+St. Roch,Entire home/apt,200,0
+St. Roch,Entire home/apt,200,3
+St. Roch,Private room,98,2
+St. Roch,Entire home/apt,85,20
+St. Roch,Entire home/apt,75,20
+St. Roch,Private room,59,46
+St. Roch,Entire home/apt,650,28
+St. Roch,Entire home/apt,75,47
+St. Roch,Private room,59,107
+St. Roch,Entire home/apt,45,28
+St. Roch,Entire home/apt,175,1
+St. Roch,Entire home/apt,125,16
+St. Roch,Private room,30,33
+St. Roch,Entire home/apt,116,330
+St. Roch,Entire home/apt,82,20
+St. Roch,Private room,50,6
+St. Roch,Entire home/apt,200,3
+St. Roch,Entire home/apt,145,0
+St. Roch,Entire home/apt,65,33
+St. Roch,Entire home/apt,100,7
+St. Roch,Private room,50,4
+St. Roch,Private room,35,84
+St. Roch,Entire home/apt,150,5
+St. Roch,Entire home/apt,475,50
+St. Roch,Private room,69,5
+St. Roch,Entire home/apt,200,0
+St. Roch,Entire home/apt,69,5
+St. Roch,Entire home/apt,90,90
+St. Roch,Private room,30,28
+St. Roch,Private room,75,118
+St. Roch,Entire home/apt,275,10
+St. Roch,Entire home/apt,79,35
+St. Roch,Entire home/apt,150,67
+St. Roch,Private room,129,0
+St. Roch,Entire home/apt,125,13
+St. Roch,Entire home/apt,160,2
+St. Roch,Private room,75,2
+St. Roch,Entire home/apt,70,160
+St. Roch,Private room,65,2
+St. Roch,Private room,298,0
+St. Roch,Entire home/apt,55,32
+St. Roch,Entire home/apt,100,2
+St. Roch,Private room,49,50
+St. Roch,Entire home/apt,94,147
+St. Roch,Entire home/apt,300,4
+St. Roch,Private room,69,62
+St. Roch,Shared room,15,11
+St. Roch,Entire home/apt,75,66
+St. Roch,Entire home/apt,169,4
+St. Roch,Private room,69,94
+St. Roch,Private room,129,2
+St. Roch,Private room,69,5
+St. Roch,Entire home/apt,125,8
+St. Roch,Private room,169,0
+Tall Timbers - Brechtel,Entire home/apt,82,7
+Tall Timbers - Brechtel,Entire home/apt,120,12
+Tall Timbers - Brechtel,Entire home/apt,80,12
+Tall Timbers - Brechtel,Entire home/apt,209,18
+Tall Timbers - Brechtel,Entire home/apt,290,0
+Touro,Private room,140,0
+Touro,Entire home/apt,220,1
+Touro,Entire home/apt,120,77
+Touro,Entire home/apt,500,1
+Touro,Entire home/apt,175,27
+Touro,Private room,160,4
+Touro,Entire home/apt,145,0
+Touro,Private room,60,7
+Touro,Private room,89,42
+Touro,Entire home/apt,210,0
+Touro,Entire home/apt,196,2
+Touro,Entire home/apt,95,3
+Touro,Entire home/apt,300,1
+Touro,Entire home/apt,98,3
+Touro,Entire home/apt,175,24
+Touro,Entire home/apt,300,32
+Touro,Entire home/apt,150,9
+Touro,Entire home/apt,89,9
+Touro,Private room,80,9
+Touro,Entire home/apt,150,16
+Touro,Private room,194,0
+Touro,Entire home/apt,125,22
+Touro,Entire home/apt,200,17
+Touro,Private room,95,15
+Touro,Entire home/apt,95,5
+Touro,Shared room,55,13
+Touro,Entire home/apt,100,42
+Touro,Entire home/apt,100,31
+Touro,Entire home/apt,400,5
+Touro,Entire home/apt,75,3
+Touro,Entire home/apt,119,0
+Touro,Entire home/apt,500,8
+Touro,Entire home/apt,175,5
+Touro,Private room,90,5
+Touro,Entire home/apt,325,46
+Touro,Entire home/apt,300,0
+Touro,Entire home/apt,111,61
+Touro,Entire home/apt,200,65
+Touro,Entire home/apt,315,6
+Touro,Entire home/apt,165,7
+Touro,Private room,105,69
+Touro,Shared room,43,11
+Touro,Private room,85,23
+Touro,Entire home/apt,150,22
+Touro,Entire home/apt,500,1
+Touro,Entire home/apt,155,14
+Touro,Entire home/apt,425,5
+Touro,Entire home/apt,73,85
+Touro,Entire home/apt,150,55
+Touro,Entire home/apt,660,2
+Touro,Entire home/apt,120,12
+Touro,Entire home/apt,129,73
+Touro,Entire home/apt,239,2
+Touro,Entire home/apt,65,10
+Touro,Entire home/apt,125,12
+Touro,Entire home/apt,85,11
+Touro,Entire home/apt,175,6
+Tulane - Gravier,Entire home/apt,242,5
+Tulane - Gravier,Private room,55,19
+Tulane - Gravier,Private room,55,12
+Tulane - Gravier,Entire home/apt,150,19
+Tulane - Gravier,Private room,55,27
+Tulane - Gravier,Entire home/apt,150,3
+Tulane - Gravier,Entire home/apt,399,78
+Tulane - Gravier,Entire home/apt,150,7
+Tulane - Gravier,Entire home/apt,149,119
+Tulane - Gravier,Entire home/apt,150,18
+Tulane - Gravier,Entire home/apt,261,0
+Tulane - Gravier,Entire home/apt,300,35
+Tulane - Gravier,Entire home/apt,453,0
+Tulane - Gravier,Private room,300,0
+Tulane - Gravier,Private room,55,167
+Tulane - Gravier,Private room,90,10
+Tulane - Gravier,Entire home/apt,165,0
+Tulane - Gravier,Entire home/apt,125,12
+Tulane - Gravier,Private room,69,146
+Tulane - Gravier,Private room,125,0
+Tulane - Gravier,Entire home/apt,75,25
+Tulane - Gravier,Entire home/apt,125,88
+Tulane - Gravier,Entire home/apt,205,94
+Tulane - Gravier,Private room,75,37
+Tulane - Gravier,Entire home/apt,60,35
+Tulane - Gravier,Entire home/apt,65,41
+Tulane - Gravier,Private room,69,101
+Tulane - Gravier,Entire home/apt,111,77
+Tulane - Gravier,Entire home/apt,170,10
+Tulane - Gravier,Entire home/apt,267,0
+Tulane - Gravier,Private room,70,1
+Tulane - Gravier,Entire home/apt,109,2
+Tulane - Gravier,Entire home/apt,106,0
+Tulane - Gravier,Entire home/apt,120,9
+Tulane - Gravier,Entire home/apt,400,0
+Tulane - Gravier,Private room,69,155
+Uptown,Private room,7000,0
+Uptown,Entire home/apt,140,53
+Uptown,Entire home/apt,125,103
+Uptown,Entire home/apt,325,15
+Uptown,Private room,275,1
+Uptown,Entire home/apt,125,5
+Uptown,Private room,65,73
+Uptown,Entire home/apt,80,67
+Uptown,Entire home/apt,405,8
+Uptown,Entire home/apt,299,0
+Uptown,Entire home/apt,300,7
+Uptown,Private room,75,67
+Uptown,Private room,200,0
+Uptown,Entire home/apt,99,66
+Uptown,Entire home/apt,500,11
+Uptown,Entire home/apt,278,67
+Uptown,Entire home/apt,85,2
+Uptown,Entire home/apt,499,6
+Uptown,Entire home/apt,339,0
+Uptown,Entire home/apt,147,16
+Uptown,Entire home/apt,169,63
+Uptown,Entire home/apt,375,15
+Uptown,Entire home/apt,109,6
+Uptown,Entire home/apt,65,29
+Uptown,Entire home/apt,99,91
+Uptown,Entire home/apt,750,1
+Uptown,Entire home/apt,150,4
+Uptown,Entire home/apt,170,15
+Uptown,Entire home/apt,110,0
+Uptown,Entire home/apt,150,14
+Uptown,Entire home/apt,99,6
+Uptown,Entire home/apt,130,12
+Uptown,Entire home/apt,195,1
+Uptown,Entire home/apt,140,40
+Uptown,Entire home/apt,140,48
+Uptown,Entire home/apt,306,4
+Uptown,Entire home/apt,110,74
+Uptown,Private room,50,60
+Uptown,Entire home/apt,250,0
+Uptown,Entire home/apt,289,9
+Uptown,Entire home/apt,99,19
+Uptown,Entire home/apt,975,11
+Uptown,Entire home/apt,125,32
+Uptown,Entire home/apt,90,4
+Uptown,Entire home/apt,135,0
+Uptown,Private room,132,5
+Uptown,Entire home/apt,200,27
+Uptown,Entire home/apt,130,145
+Uptown,Private room,100,49
+Uptown,Entire home/apt,99,65
+Uptown,Private room,80,23
+Uptown,Entire home/apt,110,12
+Uptown,Entire home/apt,199,35
+Uptown,Private room,65,46
+Uptown,Private room,70,3
+Uptown,Entire home/apt,549,44
+Uptown,Entire home/apt,120,7
+Uptown,Entire home/apt,110,2
+Uptown,Entire home/apt,475,27
+Uptown,Entire home/apt,0,5
+Uptown,Entire home/apt,350,11
+Uptown,Private room,89,59
+Uptown,Entire home/apt,500,1
+Uptown,Entire home/apt,375,2
+Uptown,Entire home/apt,150,6
+Uptown,Entire home/apt,200,4
+Uptown,Entire home/apt,375,11
+Uptown,Shared room,43,9
+Uptown,Entire home/apt,500,3
+Uptown,Entire home/apt,120,38
+Uptown,Entire home/apt,125,26
+Uptown,Entire home/apt,200,9
+Uptown,Private room,115,4
+Uptown,Entire home/apt,98,14
+Uptown,Entire home/apt,150,30
+Uptown,Entire home/apt,67,24
+Uptown,Entire home/apt,150,33
+Uptown,Entire home/apt,110,79
+Uptown,Entire home/apt,150,10
+Uptown,Entire home/apt,139,18
+Uptown,Private room,150,1
+Uptown,Private room,80,176
+Uptown,Entire home/apt,162,71
+Uptown,Entire home/apt,750,37
+Uptown,Entire home/apt,125,35
+Uptown,Entire home/apt,232,1
+Uptown,Entire home/apt,274,2
+Uptown,Entire home/apt,150,46
+Uptown,Entire home/apt,569,13
+Uptown,Private room,99,4
+Uptown,Entire home/apt,175,71
+Uptown,Entire home/apt,110,4
+Uptown,Entire home/apt,195,17
+Uptown,Entire home/apt,250,34
+Uptown,Entire home/apt,125,4
+Uptown,Entire home/apt,275,53
+Uptown,Private room,99,3
+French Quarter,Entire home/apt,499,0
+French Quarter,Entire home/apt,325,1
+French Quarter,Entire home/apt,133,0
+French Quarter,Entire home/apt,2700,0
+French Quarter,Entire home/apt,195,48
+French Quarter,Entire home/apt,249,0
+French Quarter,Entire home/apt,116,33
+French Quarter,Entire home/apt,500,20
+French Quarter,Entire home/apt,140,45
+French Quarter,Entire home/apt,800,2
+French Quarter,Entire home/apt,195,79
+French Quarter,Entire home/apt,275,0
+French Quarter,Entire home/apt,175,34
+French Quarter,Entire home/apt,300,0
+French Quarter,Entire home/apt,198,115
+French Quarter,Entire home/apt,300,1
+French Quarter,Private room,300,3
+French Quarter,Entire home/apt,300,13
+French Quarter,Entire home/apt,109,77
+French Quarter,Entire home/apt,999,24
+French Quarter,Entire home/apt,350,58
+French Quarter,Private room,98,38
+French Quarter,Entire home/apt,600,25
+French Quarter,Entire home/apt,249,50
+French Quarter,Entire home/apt,150,1
+French Quarter,Entire home/apt,250,4
+French Quarter,Entire home/apt,289,3
+French Quarter,Entire home/apt,132,33
+French Quarter,Entire home/apt,159,40
+French Quarter,Entire home/apt,200,118
+French Quarter,Entire home/apt,140,14
+French Quarter,Entire home/apt,250,72
+French Quarter,Entire home/apt,179,0
+French Quarter,Entire home/apt,125,39
+French Quarter,Private room,60,3
+French Quarter,Entire home/apt,175,3
+French Quarter,Entire home/apt,135,246
+French Quarter,Entire home/apt,160,7
+French Quarter,Entire home/apt,1500,3
+French Quarter,Entire home/apt,200,18
+French Quarter,Entire home/apt,250,10
+French Quarter,Entire home/apt,220,69
+French Quarter,Entire home/apt,186,5
+French Quarter,Entire home/apt,350,14
+French Quarter,Entire home/apt,200,5
+French Quarter,Entire home/apt,90,0
+French Quarter,Entire home/apt,615,32
+French Quarter,Entire home/apt,190,102
+French Quarter,Entire home/apt,129,95
+French Quarter,Entire home/apt,175,12
+French Quarter,Entire home/apt,299,13
+French Quarter,Entire home/apt,116,42
+French Quarter,Entire home/apt,382,0
+French Quarter,Entire home/apt,175,19
+French Quarter,Entire home/apt,195,73
+French Quarter,Entire home/apt,200,25
+French Quarter,Entire home/apt,350,35
+French Quarter,Entire home/apt,95,148
+French Quarter,Entire home/apt,99,118
+French Quarter,Private room,49,2
+French Quarter,Entire home/apt,200,57
+French Quarter,Entire home/apt,179,15
+French Quarter,Entire home/apt,180,33
+French Quarter,Private room,145,7
+French Quarter,Entire home/apt,250,73
+French Quarter,Entire home/apt,800,2
+French Quarter,Entire home/apt,159,65
+French Quarter,Entire home/apt,218,7
+French Quarter,Entire home/apt,100,69
+French Quarter,Entire home/apt,325,7
+French Quarter,Entire home/apt,454,39
+French Quarter,Entire home/apt,150,0
+French Quarter,Entire home/apt,179,18
+French Quarter,Entire home/apt,250,16
+French Quarter,Entire home/apt,299,43
+French Quarter,Entire home/apt,400,0
+French Quarter,Entire home/apt,285,8
+French Quarter,Entire home/apt,650,0
+French Quarter,Entire home/apt,2200,4
+French Quarter,Entire home/apt,350,2
+French Quarter,Entire home/apt,300,10
+French Quarter,Entire home/apt,189,163
+French Quarter,Entire home/apt,150,1
+French Quarter,Entire home/apt,150,40
+French Quarter,Entire home/apt,209,15
+French Quarter,Private room,80,11
+French Quarter,Entire home/apt,145,31
+French Quarter,Entire home/apt,125,80
+French Quarter,Entire home/apt,400,69
+French Quarter,Entire home/apt,150,54
+French Quarter,Entire home/apt,500,0
+French Quarter,Entire home/apt,149,158
+French Quarter,Entire home/apt,225,42
+French Quarter,Entire home/apt,475,6
+French Quarter,Private room,300,2
+French Quarter,Entire home/apt,159,60
+French Quarter,Entire home/apt,150,135
+French Quarter,Entire home/apt,119,59
+French Quarter,Entire home/apt,199,55
+French Quarter,Entire home/apt,200,6
+French Quarter,Private room,150,3
+French Quarter,Entire home/apt,399,0
+French Quarter,Entire home/apt,500,0
+French Quarter,Entire home/apt,249,50
+French Quarter,Entire home/apt,180,28
+French Quarter,Entire home/apt,150,148
+French Quarter,Entire home/apt,225,10
+French Quarter,Entire home/apt,280,2
+French Quarter,Entire home/apt,250,13
+French Quarter,Entire home/apt,99,60
+French Quarter,Entire home/apt,180,1
+French Quarter,Entire home/apt,150,16
+French Quarter,Entire home/apt,150,20
+French Quarter,Entire home/apt,425,14
+French Quarter,Entire home/apt,600,0
+French Quarter,Entire home/apt,275,93
+French Quarter,Entire home/apt,139,137
+French Quarter,Entire home/apt,400,49
+French Quarter,Shared room,40,3
+French Quarter,Entire home/apt,350,9
+French Quarter,Entire home/apt,225,69
+French Quarter,Entire home/apt,99,52
+French Quarter,Entire home/apt,115,7
+French Quarter,Entire home/apt,200,19
+French Quarter,Entire home/apt,160,16
+French Quarter,Entire home/apt,129,5
+French Quarter,Entire home/apt,300,90
+French Quarter,Entire home/apt,299,18
+French Quarter,Entire home/apt,249,33
+French Quarter,Entire home/apt,225,0
+French Quarter,Entire home/apt,109,5
+French Quarter,Entire home/apt,350,5
+French Quarter,Entire home/apt,400,0
+French Quarter,Entire home/apt,99,41
+French Quarter,Entire home/apt,165,373
+French Quarter,Entire home/apt,225,12
+French Quarter,Private room,169,12
+French Quarter,Entire home/apt,140,24
+French Quarter,Entire home/apt,225,49
+French Quarter,Entire home/apt,375,9
+French Quarter,Entire home/apt,175,40
+French Quarter,Entire home/apt,500,83
+French Quarter,Entire home/apt,130,53
+French Quarter,Entire home/apt,375,25
+French Quarter,Entire home/apt,105,29
+French Quarter,Entire home/apt,150,24
+French Quarter,Entire home/apt,147,34
+French Quarter,Entire home/apt,75,3
+French Quarter,Entire home/apt,285,27
+French Quarter,Entire home/apt,150,90
+French Quarter,Entire home/apt,150,50
+French Quarter,Entire home/apt,325,58
+French Quarter,Entire home/apt,135,73
+French Quarter,Entire home/apt,375,5
+French Quarter,Entire home/apt,95,37
+French Quarter,Entire home/apt,135,0
+French Quarter,Entire home/apt,250,7
+French Quarter,Entire home/apt,250,11
+French Quarter,Private room,300,5
+French Quarter,Entire home/apt,400,15
+French Quarter,Entire home/apt,250,115
+French Quarter,Private room,200,0
+French Quarter,Entire home/apt,500,159
+French Quarter,Entire home/apt,140,57
+French Quarter,Entire home/apt,135,29
+French Quarter,Entire home/apt,119,0
+French Quarter,Entire home/apt,99,25
+French Quarter,Entire home/apt,175,31
+French Quarter,Entire home/apt,103,33
+French Quarter,Entire home/apt,225,27
+French Quarter,Entire home/apt,249,70
+French Quarter,Entire home/apt,375,3
+French Quarter,Entire home/apt,750,11
+French Quarter,Entire home/apt,495,31
+French Quarter,Entire home/apt,120,1
+French Quarter,Entire home/apt,200,127
+French Quarter,Entire home/apt,152,34
+French Quarter,Private room,145,1
+French Quarter,Private room,150,3
+French Quarter,Entire home/apt,299,8
+French Quarter,Private room,159,9
+French Quarter,Entire home/apt,250,8
+French Quarter,Entire home/apt,140,13
+French Quarter,Entire home/apt,190,142
+French Quarter,Entire home/apt,249,4
+French Quarter,Entire home/apt,119,235
+French Quarter,Entire home/apt,179,97
+French Quarter,Entire home/apt,187,55
+French Quarter,Entire home/apt,159,15
+French Quarter,Entire home/apt,475,23
+French Quarter,Entire home/apt,170,20
+French Quarter,Entire home/apt,214,76
+French Quarter,Entire home/apt,375,1
+French Quarter,Entire home/apt,400,13
+French Quarter,Entire home/apt,225,54
+French Quarter,Entire home/apt,198,127
+French Quarter,Entire home/apt,125,158
+French Quarter,Entire home/apt,250,17
+French Quarter,Entire home/apt,500,26
+French Quarter,Entire home/apt,134,105
+French Quarter,Entire home/apt,135,66
+French Quarter,Entire home/apt,165,167
+French Quarter,Entire home/apt,300,0
+French Quarter,Private room,320,11
+French Quarter,Entire home/apt,205,5
+French Quarter,Entire home/apt,1088,1
+French Quarter,Entire home/apt,475,47
+French Quarter,Entire home/apt,150,54
+French Quarter,Entire home/apt,131,10
+French Quarter,Private room,79,1
+French Quarter,Entire home/apt,800,26
+French Quarter,Entire home/apt,125,49
+French Quarter,Entire home/apt,800,29
+French Quarter,Entire home/apt,200,0
+French Quarter,Entire home/apt,110,51
+French Quarter,Entire home/apt,200,21
+French Quarter,Entire home/apt,145,7
+French Quarter,Entire home/apt,136,12
+French Quarter,Entire home/apt,300,58
+French Quarter,Entire home/apt,325,33
+French Quarter,Entire home/apt,189,45
+French Quarter,Entire home/apt,149,84
+French Quarter,Entire home/apt,135,4
+French Quarter,Entire home/apt,199,27
+French Quarter,Entire home/apt,299,1
+French Quarter,Entire home/apt,350,29
+French Quarter,Entire home/apt,150,71
+French Quarter,Entire home/apt,175,104
+French Quarter,Entire home/apt,175,95
+French Quarter,Entire home/apt,146,57
+French Quarter,Entire home/apt,500,33
+French Quarter,Entire home/apt,150,58
+French Quarter,Entire home/apt,175,105
+French Quarter,Entire home/apt,600,11
+French Quarter,Entire home/apt,300,7
+French Quarter,Entire home/apt,300,72
+French Quarter,Entire home/apt,115,120
+French Quarter,Entire home/apt,199,11
+French Quarter,Entire home/apt,350,10
+French Quarter,Entire home/apt,675,0
+French Quarter,Entire home/apt,175,16
+French Quarter,Entire home/apt,169,50
+French Quarter,Entire home/apt,150,44
+French Quarter,Entire home/apt,225,67
+French Quarter,Entire home/apt,175,52
+French Quarter,Private room,79,63
+French Quarter,Private room,80,29
+French Quarter,Entire home/apt,300,13
+French Quarter,Entire home/apt,450,2
+French Quarter,Private room,350,0
+French Quarter,Entire home/apt,93,0
+French Quarter,Entire home/apt,200,1
+French Quarter,Entire home/apt,99,89
+French Quarter,Entire home/apt,154,94
+French Quarter,Entire home/apt,104,15
+French Quarter,Entire home/apt,150,38
+French Quarter,Entire home/apt,325,0
+French Quarter,Entire home/apt,276,7
+French Quarter,Entire home/apt,300,52
+French Quarter,Entire home/apt,149,28
+French Quarter,Entire home/apt,145,25
+French Quarter,Entire home/apt,145,45
+French Quarter,Entire home/apt,150,12
+French Quarter,Entire home/apt,150,4
+French Quarter,Entire home/apt,99,80
+French Quarter,Entire home/apt,325,23
+French Quarter,Entire home/apt,199,27
+French Quarter,Entire home/apt,117,4
+French Quarter,Entire home/apt,210,7
+French Quarter,Entire home/apt,195,3
+French Quarter,Private room,113,5
+French Quarter,Entire home/apt,229,9
+French Quarter,Entire home/apt,200,55
+French Quarter,Entire home/apt,199,152
+French Quarter,Entire home/apt,400,8
+French Quarter,Entire home/apt,112,66
+French Quarter,Private room,79,125
+French Quarter,Entire home/apt,125,6
+French Quarter,Private room,100,20
+French Quarter,Entire home/apt,115,51
+French Quarter,Entire home/apt,415,0
+French Quarter,Entire home/apt,135,6
+French Quarter,Entire home/apt,450,4
+French Quarter,Private room,125,0
+French Quarter,Entire home/apt,99,47
+French Quarter,Entire home/apt,125,51
+French Quarter,Entire home/apt,225,59
+French Quarter,Entire home/apt,175,22
+French Quarter,Entire home/apt,149,16
+French Quarter,Private room,165,1
+French Quarter,Entire home/apt,126,73
+French Quarter,Entire home/apt,190,54
+French Quarter,Entire home/apt,125,4
+French Quarter,Entire home/apt,139,57
+French Quarter,Entire home/apt,119,6
+French Quarter,Entire home/apt,127,2
+French Quarter,Entire home/apt,175,62
+French Quarter,Entire home/apt,200,4
+French Quarter,Entire home/apt,179,7
+French Quarter,Entire home/apt,300,15
+French Quarter,Entire home/apt,299,14
+French Quarter,Entire home/apt,269,92
+French Quarter,Entire home/apt,110,12
+French Quarter,Entire home/apt,400,74
+French Quarter,Private room,119,0
+French Quarter,Entire home/apt,99,90
+French Quarter,Private room,100,3
+French Quarter,Entire home/apt,99,37
+French Quarter,Entire home/apt,99,3
+French Quarter,Entire home/apt,395,2
+French Quarter,Entire home/apt,280,4
+French Quarter,Entire home/apt,165,8
+French Quarter,Entire home/apt,150,5
+French Quarter,Entire home/apt,100,22
+French Quarter,Entire home/apt,229,1
+French Quarter,Private room,175,0
+French Quarter,Entire home/apt,250,29
+French Quarter,Entire home/apt,140,0
+French Quarter,Entire home/apt,600,9
+French Quarter,Entire home/apt,99,31
+French Quarter,Entire home/apt,150,0
+French Quarter,Entire home/apt,350,24
+French Quarter,Entire home/apt,300,1
+French Quarter,Entire home/apt,295,3
+French Quarter,Entire home/apt,150,329
+French Quarter,Entire home/apt,150,26
+French Quarter,Entire home/apt,450,5
+French Quarter,Entire home/apt,250,4
+French Quarter,Entire home/apt,90,49
+French Quarter,Entire home/apt,275,50
+French Quarter,Entire home/apt,99,145
+French Quarter,Entire home/apt,285,23
+French Quarter,Entire home/apt,115,30
+French Quarter,Entire home/apt,500,0
+French Quarter,Entire home/apt,325,16
+French Quarter,Entire home/apt,150,1
+French Quarter,Entire home/apt,175,0
+French Quarter,Entire home/apt,149,74
+French Quarter,Private room,99,38
+French Quarter,Entire home/apt,850,48
+West Lake Forest,Private room,65,0
+West Lake Forest,Shared room,169,1
+West Lake Forest,Private room,60,1
+West Lake Forest,Entire home/apt,145,12
+West Riverside,Entire home/apt,185,47
+West Riverside,Entire home/apt,185,52
+West Riverside,Entire home/apt,150,6
+West Riverside,Entire home/apt,125,43
+West Riverside,Entire home/apt,149,54
+West Riverside,Shared room,45,2
+West Riverside,Entire home/apt,600,0
+West Riverside,Private room,70,57
+West Riverside,Entire home/apt,675,5
+West Riverside,Entire home/apt,250,0
+West Riverside,Entire home/apt,800,21
+West Riverside,Entire home/apt,66,38
+West Riverside,Entire home/apt,95,0
+West Riverside,Entire home/apt,80,10
+West Riverside,Entire home/apt,175,12
+West Riverside,Entire home/apt,70,1
+West Riverside,Entire home/apt,164,2
+West Riverside,Private room,98,6
+West Riverside,Entire home/apt,162,1
+West Riverside,Entire home/apt,800,49
+West Riverside,Entire home/apt,165,7
+West Riverside,Entire home/apt,175,25
+West Riverside,Entire home/apt,595,30
+West Riverside,Entire home/apt,395,7
+West Riverside,Entire home/apt,125,4
+West Riverside,Entire home/apt,250,1
+West Riverside,Entire home/apt,225,0
+West Riverside,Private room,85,27
+West Riverside,Entire home/apt,108,3
+West Riverside,Entire home/apt,599,6
+West Riverside,Entire home/apt,300,1
+West Riverside,Entire home/apt,300,4
+West Riverside,Entire home/apt,110,29
+West Riverside,Private room,58,26
+West Riverside,Entire home/apt,105,4
+West Riverside,Entire home/apt,150,32
+West Riverside,Entire home/apt,115,0
+West Riverside,Entire home/apt,500,4
+West Riverside,Entire home/apt,130,57
+West Riverside,Entire home/apt,1000,3
+West Riverside,Entire home/apt,395,11
+West Riverside,Entire home/apt,70,0
+West Riverside,Entire home/apt,145,2
+West Riverside,Entire home/apt,799,12
+West Riverside,Entire home/apt,51,75
+West Riverside,Entire home/apt,150,7
+West Riverside,Private room,450,1
+West Riverside,Entire home/apt,100,46
+West Riverside,Private room,56,2
+West Riverside,Entire home/apt,300,25
+West Riverside,Entire home/apt,140,0
+West Riverside,Entire home/apt,131,16
+West Riverside,Entire home/apt,650,0
+West Riverside,Private room,75,7
+West Riverside,Entire home/apt,199,58
+West Riverside,Entire home/apt,125,36
+West Riverside,Entire home/apt,799,88
+West Riverside,Private room,83,30
+West Riverside,Entire home/apt,275,2
+West Riverside,Shared room,34,1
+West Riverside,Entire home/apt,300,6
+West Riverside,Private room,74,67
+West Riverside,Shared room,38,1
+West Riverside,Entire home/apt,400,0
+West Riverside,Entire home/apt,90,9
+West Riverside,Entire home/apt,200,44
+West Riverside,Entire home/apt,380,3
+West Riverside,Entire home/apt,150,8
+West Riverside,Entire home/apt,175,1
+West Riverside,Entire home/apt,600,0
+West Riverside,Entire home/apt,300,21
+West Riverside,Entire home/apt,125,0
+West Riverside,Entire home/apt,275,6
+West Riverside,Entire home/apt,200,2
+West Riverside,Entire home/apt,125,8
+West Riverside,Entire home/apt,160,53
+West Riverside,Entire home/apt,195,72
+West Riverside,Entire home/apt,250,0
+West Riverside,Entire home/apt,125,55
+West Riverside,Entire home/apt,70,31
+West Riverside,Entire home/apt,130,2
+West Riverside,Entire home/apt,175,22
+West Riverside,Entire home/apt,350,4
+West Riverside,Entire home/apt,350,0
+West Riverside,Entire home/apt,160,25
+West Riverside,Entire home/apt,229,6
+West Riverside,Entire home/apt,115,16
+West Riverside,Entire home/apt,85,10
+West Riverside,Private room,500,0
+West Riverside,Entire home/apt,250,37
+West Riverside,Entire home/apt,95,7
+West Riverside,Entire home/apt,495,14
+West Riverside,Entire home/apt,150,2
+West Riverside,Entire home/apt,90,7
+West Riverside,Entire home/apt,125,26
+West Riverside,Entire home/apt,275,1
+West Riverside,Entire home/apt,80,2
+West Riverside,Entire home/apt,123,18
+West Riverside,Entire home/apt,110,3
+West Riverside,Entire home/apt,320,0
+Village De Lest,Private room,50,0
+Village De Lest,Entire home/apt,200,9
+Village De Lest,Entire home/apt,300,1
+Holy Cross,Entire home/apt,298,0
+West End,Entire home/apt,249,0
+Tall Timbers - Brechtel,Entire home/apt,106,0
+West End,Entire home/apt,99,0
