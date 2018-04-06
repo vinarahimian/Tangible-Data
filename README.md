@@ -1,2 +1,3 @@
-
+I'm using data on Airbnb housing rentals in San Francisco. The subset of dataset that I'm using includes 1. the neighborhood which the property is located (each curve) 2. the property's price per night (the Y coordinate in each curve) 3. number of reviews (the X coordinate in each curve). My purpose for this project is to create a visually and sensory appealing way to describe this data, so by touching the data you get a holistic understanding of how Airbnb prices fluctuate within neighborhoods in San Francisco, as well as getting a notion of how the price range and number of reviews for such Airbnb property would interrelate.
+<br>
 ![visualization](https://github.com/vinarahimian/Tangible-Data/blob/master/Visualization/01.png)
